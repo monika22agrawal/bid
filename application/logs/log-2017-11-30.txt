@@ -1,0 +1,2204 @@
+INFO - 2017-11-30 04:58:44 --> Config Class Initialized
+INFO - 2017-11-30 04:58:44 --> Hooks Class Initialized
+DEBUG - 2017-11-30 04:58:44 --> UTF-8 Support Enabled
+INFO - 2017-11-30 04:58:44 --> Utf8 Class Initialized
+INFO - 2017-11-30 04:58:44 --> URI Class Initialized
+INFO - 2017-11-30 04:58:44 --> Router Class Initialized
+INFO - 2017-11-30 04:58:44 --> Output Class Initialized
+INFO - 2017-11-30 04:58:44 --> Security Class Initialized
+DEBUG - 2017-11-30 04:58:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 04:58:44 --> Input Class Initialized
+INFO - 2017-11-30 04:58:44 --> Language Class Initialized
+INFO - 2017-11-30 04:58:44 --> Language Class Initialized
+INFO - 2017-11-30 04:58:44 --> Config Class Initialized
+INFO - 2017-11-30 04:58:44 --> Loader Class Initialized
+INFO - 2017-11-30 04:58:44 --> Helper loaded: url_helper
+INFO - 2017-11-30 04:58:44 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 04:58:44 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 04:58:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 04:58:44 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 04:58:44 --> User Agent Class Initialized
+DEBUG - 2017-11-30 04:58:44 --> Template class Initialized
+INFO - 2017-11-30 04:58:44 --> Model Class Initialized
+INFO - 2017-11-30 04:58:44 --> Controller Class Initialized
+DEBUG - 2017-11-30 04:58:44 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/login/models/User_model.php
+INFO - 2017-11-30 04:58:44 --> Model Class Initialized
+INFO - 2017-11-30 04:58:44 --> Helper loaded: form_helper
+INFO - 2017-11-30 04:58:44 --> Form Validation Class Initialized
+INFO - 2017-11-30 04:58:44 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 04:58:44 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/login/views/login.php
+DEBUG - 2017-11-30 04:58:44 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/front/index.php
+INFO - 2017-11-30 04:58:44 --> Final output sent to browser
+DEBUG - 2017-11-30 04:58:44 --> Total execution time: 0.2048
+INFO - 2017-11-30 04:58:45 --> Config Class Initialized
+INFO - 2017-11-30 04:58:45 --> Hooks Class Initialized
+DEBUG - 2017-11-30 04:58:45 --> UTF-8 Support Enabled
+INFO - 2017-11-30 04:58:45 --> Utf8 Class Initialized
+INFO - 2017-11-30 04:58:45 --> URI Class Initialized
+INFO - 2017-11-30 04:58:45 --> Router Class Initialized
+INFO - 2017-11-30 04:58:45 --> Output Class Initialized
+INFO - 2017-11-30 04:58:45 --> Security Class Initialized
+DEBUG - 2017-11-30 04:58:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 04:58:45 --> Input Class Initialized
+INFO - 2017-11-30 04:58:45 --> Language Class Initialized
+INFO - 2017-11-30 04:58:45 --> Language Class Initialized
+INFO - 2017-11-30 04:58:45 --> Config Class Initialized
+INFO - 2017-11-30 04:58:45 --> Loader Class Initialized
+INFO - 2017-11-30 04:58:45 --> Helper loaded: url_helper
+INFO - 2017-11-30 04:58:45 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 04:58:45 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 04:58:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 04:58:45 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 04:58:45 --> User Agent Class Initialized
+DEBUG - 2017-11-30 04:58:45 --> Template class Initialized
+INFO - 2017-11-30 04:58:45 --> Model Class Initialized
+INFO - 2017-11-30 04:58:45 --> Controller Class Initialized
+DEBUG - 2017-11-30 04:58:45 --> Buyer MX_Controller Initialized
+INFO - 2017-11-30 04:58:45 --> Config Class Initialized
+INFO - 2017-11-30 04:58:45 --> Hooks Class Initialized
+DEBUG - 2017-11-30 04:58:45 --> UTF-8 Support Enabled
+INFO - 2017-11-30 04:58:45 --> Utf8 Class Initialized
+INFO - 2017-11-30 04:58:45 --> URI Class Initialized
+INFO - 2017-11-30 04:58:45 --> Router Class Initialized
+INFO - 2017-11-30 04:58:45 --> Output Class Initialized
+INFO - 2017-11-30 04:58:45 --> Security Class Initialized
+DEBUG - 2017-11-30 04:58:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 04:58:45 --> Input Class Initialized
+INFO - 2017-11-30 04:58:45 --> Language Class Initialized
+INFO - 2017-11-30 04:58:45 --> Language Class Initialized
+INFO - 2017-11-30 04:58:45 --> Config Class Initialized
+INFO - 2017-11-30 04:58:45 --> Loader Class Initialized
+INFO - 2017-11-30 04:58:45 --> Helper loaded: url_helper
+INFO - 2017-11-30 04:58:45 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 04:58:45 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 04:58:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 04:58:45 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 04:58:45 --> User Agent Class Initialized
+DEBUG - 2017-11-30 04:58:45 --> Template class Initialized
+INFO - 2017-11-30 04:58:45 --> Model Class Initialized
+INFO - 2017-11-30 04:58:45 --> Controller Class Initialized
+DEBUG - 2017-11-30 04:58:45 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/login/models/Login_model.php
+INFO - 2017-11-30 04:58:45 --> Model Class Initialized
+INFO - 2017-11-30 04:58:45 --> Helper loaded: form_helper
+INFO - 2017-11-30 04:58:45 --> Form Validation Class Initialized
+DEBUG - 2017-11-30 04:58:45 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/login/views/login.php
+INFO - 2017-11-30 04:58:45 --> Final output sent to browser
+DEBUG - 2017-11-30 04:58:45 --> Total execution time: 0.0627
+INFO - 2017-11-30 04:58:47 --> Config Class Initialized
+INFO - 2017-11-30 04:58:47 --> Hooks Class Initialized
+DEBUG - 2017-11-30 04:58:47 --> UTF-8 Support Enabled
+INFO - 2017-11-30 04:58:47 --> Utf8 Class Initialized
+INFO - 2017-11-30 04:58:47 --> URI Class Initialized
+INFO - 2017-11-30 04:58:47 --> Router Class Initialized
+INFO - 2017-11-30 04:58:47 --> Output Class Initialized
+INFO - 2017-11-30 04:58:47 --> Security Class Initialized
+DEBUG - 2017-11-30 04:58:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 04:58:47 --> Input Class Initialized
+INFO - 2017-11-30 04:58:47 --> Language Class Initialized
+INFO - 2017-11-30 04:58:47 --> Language Class Initialized
+INFO - 2017-11-30 04:58:47 --> Config Class Initialized
+INFO - 2017-11-30 04:58:47 --> Loader Class Initialized
+INFO - 2017-11-30 04:58:47 --> Helper loaded: url_helper
+INFO - 2017-11-30 04:58:47 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 04:58:47 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 04:58:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 04:58:47 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 04:58:47 --> User Agent Class Initialized
+DEBUG - 2017-11-30 04:58:47 --> Template class Initialized
+INFO - 2017-11-30 04:58:47 --> Model Class Initialized
+INFO - 2017-11-30 04:58:47 --> Controller Class Initialized
+DEBUG - 2017-11-30 04:58:47 --> Buyer MX_Controller Initialized
+INFO - 2017-11-30 04:58:47 --> Config Class Initialized
+INFO - 2017-11-30 04:58:47 --> Hooks Class Initialized
+DEBUG - 2017-11-30 04:58:47 --> UTF-8 Support Enabled
+INFO - 2017-11-30 04:58:47 --> Utf8 Class Initialized
+INFO - 2017-11-30 04:58:47 --> URI Class Initialized
+INFO - 2017-11-30 04:58:47 --> Router Class Initialized
+INFO - 2017-11-30 04:58:47 --> Output Class Initialized
+INFO - 2017-11-30 04:58:47 --> Security Class Initialized
+DEBUG - 2017-11-30 04:58:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 04:58:47 --> Input Class Initialized
+INFO - 2017-11-30 04:58:47 --> Language Class Initialized
+INFO - 2017-11-30 04:58:47 --> Language Class Initialized
+INFO - 2017-11-30 04:58:47 --> Config Class Initialized
+INFO - 2017-11-30 04:58:47 --> Loader Class Initialized
+INFO - 2017-11-30 04:58:47 --> Helper loaded: url_helper
+INFO - 2017-11-30 04:58:47 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 04:58:47 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 04:58:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 04:58:47 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 04:58:47 --> User Agent Class Initialized
+DEBUG - 2017-11-30 04:58:47 --> Template class Initialized
+INFO - 2017-11-30 04:58:47 --> Model Class Initialized
+INFO - 2017-11-30 04:58:47 --> Controller Class Initialized
+DEBUG - 2017-11-30 04:58:47 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/login/models/Login_model.php
+INFO - 2017-11-30 04:58:47 --> Model Class Initialized
+INFO - 2017-11-30 04:58:47 --> Helper loaded: form_helper
+INFO - 2017-11-30 04:58:47 --> Form Validation Class Initialized
+DEBUG - 2017-11-30 04:58:47 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/login/views/login.php
+INFO - 2017-11-30 04:58:47 --> Final output sent to browser
+DEBUG - 2017-11-30 04:58:47 --> Total execution time: 0.0476
+INFO - 2017-11-30 04:58:49 --> Config Class Initialized
+INFO - 2017-11-30 04:58:49 --> Hooks Class Initialized
+DEBUG - 2017-11-30 04:58:49 --> UTF-8 Support Enabled
+INFO - 2017-11-30 04:58:49 --> Utf8 Class Initialized
+INFO - 2017-11-30 04:58:49 --> URI Class Initialized
+INFO - 2017-11-30 04:58:49 --> Router Class Initialized
+INFO - 2017-11-30 04:58:49 --> Output Class Initialized
+INFO - 2017-11-30 04:58:49 --> Security Class Initialized
+DEBUG - 2017-11-30 04:58:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 04:58:49 --> Input Class Initialized
+INFO - 2017-11-30 04:58:49 --> Language Class Initialized
+INFO - 2017-11-30 04:58:49 --> Language Class Initialized
+INFO - 2017-11-30 04:58:49 --> Config Class Initialized
+INFO - 2017-11-30 04:58:49 --> Loader Class Initialized
+INFO - 2017-11-30 04:58:49 --> Helper loaded: url_helper
+INFO - 2017-11-30 04:58:49 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 04:58:49 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 04:58:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 04:58:49 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 04:58:49 --> User Agent Class Initialized
+DEBUG - 2017-11-30 04:58:49 --> Template class Initialized
+INFO - 2017-11-30 04:58:49 --> Model Class Initialized
+INFO - 2017-11-30 04:58:49 --> Controller Class Initialized
+DEBUG - 2017-11-30 04:58:49 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/login/models/Login_model.php
+INFO - 2017-11-30 04:58:49 --> Model Class Initialized
+INFO - 2017-11-30 04:58:49 --> Helper loaded: form_helper
+INFO - 2017-11-30 04:58:49 --> Form Validation Class Initialized
+INFO - 2017-11-30 04:58:49 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2017-11-30 04:58:49 --> Encrypt Class Initialized
+INFO - 2017-11-30 04:58:49 --> Config Class Initialized
+INFO - 2017-11-30 04:58:49 --> Hooks Class Initialized
+DEBUG - 2017-11-30 04:58:49 --> UTF-8 Support Enabled
+INFO - 2017-11-30 04:58:49 --> Utf8 Class Initialized
+INFO - 2017-11-30 04:58:49 --> URI Class Initialized
+INFO - 2017-11-30 04:58:49 --> Router Class Initialized
+INFO - 2017-11-30 04:58:49 --> Output Class Initialized
+INFO - 2017-11-30 04:58:49 --> Security Class Initialized
+DEBUG - 2017-11-30 04:58:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 04:58:49 --> Input Class Initialized
+INFO - 2017-11-30 04:58:49 --> Language Class Initialized
+INFO - 2017-11-30 04:58:49 --> Language Class Initialized
+INFO - 2017-11-30 04:58:49 --> Config Class Initialized
+INFO - 2017-11-30 04:58:49 --> Loader Class Initialized
+INFO - 2017-11-30 04:58:49 --> Helper loaded: url_helper
+INFO - 2017-11-30 04:58:49 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 04:58:49 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 04:58:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 04:58:49 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 04:58:49 --> User Agent Class Initialized
+DEBUG - 2017-11-30 04:58:49 --> Template class Initialized
+INFO - 2017-11-30 04:58:49 --> Model Class Initialized
+INFO - 2017-11-30 04:58:49 --> Controller Class Initialized
+DEBUG - 2017-11-30 04:58:49 --> Dashboard MX_Controller Initialized
+DEBUG - 2017-11-30 04:58:49 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/dashboard/models/Admin_model.php
+INFO - 2017-11-30 04:58:49 --> Model Class Initialized
+INFO - 2017-11-30 04:58:49 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 04:58:49 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/dashboard/views/dashboard.php
+DEBUG - 2017-11-30 04:58:49 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/admin/index.php
+INFO - 2017-11-30 04:58:49 --> Final output sent to browser
+DEBUG - 2017-11-30 04:58:49 --> Total execution time: 0.0963
+INFO - 2017-11-30 05:02:28 --> Config Class Initialized
+INFO - 2017-11-30 05:02:28 --> Hooks Class Initialized
+DEBUG - 2017-11-30 05:02:28 --> UTF-8 Support Enabled
+INFO - 2017-11-30 05:02:28 --> Utf8 Class Initialized
+INFO - 2017-11-30 05:02:28 --> URI Class Initialized
+DEBUG - 2017-11-30 05:02:28 --> No URI present. Default controller set.
+INFO - 2017-11-30 05:02:28 --> Router Class Initialized
+INFO - 2017-11-30 05:02:28 --> Output Class Initialized
+INFO - 2017-11-30 05:02:28 --> Security Class Initialized
+DEBUG - 2017-11-30 05:02:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 05:02:28 --> Input Class Initialized
+INFO - 2017-11-30 05:02:28 --> Language Class Initialized
+INFO - 2017-11-30 05:02:28 --> Language Class Initialized
+INFO - 2017-11-30 05:02:28 --> Config Class Initialized
+INFO - 2017-11-30 05:02:28 --> Loader Class Initialized
+INFO - 2017-11-30 05:02:28 --> Helper loaded: url_helper
+INFO - 2017-11-30 05:02:28 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 05:02:28 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 05:02:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 05:02:28 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 05:02:28 --> User Agent Class Initialized
+DEBUG - 2017-11-30 05:02:28 --> Template class Initialized
+INFO - 2017-11-30 05:02:28 --> Model Class Initialized
+INFO - 2017-11-30 05:02:28 --> Controller Class Initialized
+DEBUG - 2017-11-30 05:02:28 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/models/User_model.php
+INFO - 2017-11-30 05:02:28 --> Model Class Initialized
+INFO - 2017-11-30 05:02:28 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 05:02:28 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/views/home.php
+DEBUG - 2017-11-30 05:02:28 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/front/index.php
+INFO - 2017-11-30 05:02:28 --> Final output sent to browser
+DEBUG - 2017-11-30 05:02:28 --> Total execution time: 0.0809
+INFO - 2017-11-30 05:14:59 --> Config Class Initialized
+INFO - 2017-11-30 05:14:59 --> Hooks Class Initialized
+DEBUG - 2017-11-30 05:14:59 --> UTF-8 Support Enabled
+INFO - 2017-11-30 05:14:59 --> Utf8 Class Initialized
+INFO - 2017-11-30 05:14:59 --> URI Class Initialized
+INFO - 2017-11-30 05:14:59 --> Router Class Initialized
+INFO - 2017-11-30 05:14:59 --> Output Class Initialized
+INFO - 2017-11-30 05:14:59 --> Security Class Initialized
+DEBUG - 2017-11-30 05:14:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 05:14:59 --> Input Class Initialized
+INFO - 2017-11-30 05:14:59 --> Language Class Initialized
+INFO - 2017-11-30 05:14:59 --> Language Class Initialized
+INFO - 2017-11-30 05:14:59 --> Config Class Initialized
+INFO - 2017-11-30 05:14:59 --> Loader Class Initialized
+INFO - 2017-11-30 05:14:59 --> Helper loaded: url_helper
+INFO - 2017-11-30 05:14:59 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 05:14:59 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 05:14:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 05:14:59 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 05:14:59 --> User Agent Class Initialized
+DEBUG - 2017-11-30 05:14:59 --> Template class Initialized
+INFO - 2017-11-30 05:14:59 --> Model Class Initialized
+INFO - 2017-11-30 05:14:59 --> Controller Class Initialized
+DEBUG - 2017-11-30 05:14:59 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/login/models/User_model.php
+INFO - 2017-11-30 05:14:59 --> Model Class Initialized
+INFO - 2017-11-30 05:14:59 --> Helper loaded: form_helper
+INFO - 2017-11-30 05:14:59 --> Form Validation Class Initialized
+INFO - 2017-11-30 05:14:59 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 05:14:59 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/login/views/login.php
+DEBUG - 2017-11-30 05:14:59 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/front/index.php
+INFO - 2017-11-30 05:14:59 --> Final output sent to browser
+DEBUG - 2017-11-30 05:14:59 --> Total execution time: 0.0308
+INFO - 2017-11-30 05:15:58 --> Config Class Initialized
+INFO - 2017-11-30 05:15:58 --> Hooks Class Initialized
+DEBUG - 2017-11-30 05:15:58 --> UTF-8 Support Enabled
+INFO - 2017-11-30 05:15:58 --> Utf8 Class Initialized
+INFO - 2017-11-30 05:15:58 --> URI Class Initialized
+INFO - 2017-11-30 05:15:58 --> Router Class Initialized
+INFO - 2017-11-30 05:15:58 --> Output Class Initialized
+INFO - 2017-11-30 05:15:58 --> Security Class Initialized
+DEBUG - 2017-11-30 05:15:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 05:15:58 --> Input Class Initialized
+INFO - 2017-11-30 05:15:58 --> Language Class Initialized
+INFO - 2017-11-30 05:15:58 --> Language Class Initialized
+INFO - 2017-11-30 05:15:58 --> Config Class Initialized
+INFO - 2017-11-30 05:15:58 --> Loader Class Initialized
+INFO - 2017-11-30 05:15:58 --> Helper loaded: url_helper
+INFO - 2017-11-30 05:15:58 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 05:15:58 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 05:15:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 05:15:58 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 05:15:58 --> User Agent Class Initialized
+DEBUG - 2017-11-30 05:15:58 --> Template class Initialized
+INFO - 2017-11-30 05:15:58 --> Model Class Initialized
+INFO - 2017-11-30 05:15:58 --> Controller Class Initialized
+DEBUG - 2017-11-30 05:15:58 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/login/models/User_model.php
+INFO - 2017-11-30 05:15:58 --> Model Class Initialized
+INFO - 2017-11-30 05:15:58 --> Helper loaded: form_helper
+INFO - 2017-11-30 05:15:58 --> Form Validation Class Initialized
+INFO - 2017-11-30 05:15:58 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2017-11-30 05:15:58 --> Encrypt Class Initialized
+INFO - 2017-11-30 05:15:58 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 05:15:58 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/login/views/login.php
+DEBUG - 2017-11-30 05:15:58 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/front/index.php
+INFO - 2017-11-30 05:15:58 --> Final output sent to browser
+DEBUG - 2017-11-30 05:15:58 --> Total execution time: 0.0623
+INFO - 2017-11-30 05:16:55 --> Config Class Initialized
+INFO - 2017-11-30 05:16:55 --> Hooks Class Initialized
+DEBUG - 2017-11-30 05:16:55 --> UTF-8 Support Enabled
+INFO - 2017-11-30 05:16:55 --> Utf8 Class Initialized
+INFO - 2017-11-30 05:16:55 --> URI Class Initialized
+INFO - 2017-11-30 05:16:55 --> Router Class Initialized
+INFO - 2017-11-30 05:16:55 --> Output Class Initialized
+INFO - 2017-11-30 05:16:55 --> Security Class Initialized
+DEBUG - 2017-11-30 05:16:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 05:16:55 --> Input Class Initialized
+INFO - 2017-11-30 05:16:55 --> Language Class Initialized
+INFO - 2017-11-30 05:16:55 --> Language Class Initialized
+INFO - 2017-11-30 05:16:55 --> Config Class Initialized
+INFO - 2017-11-30 05:16:55 --> Loader Class Initialized
+INFO - 2017-11-30 05:16:55 --> Helper loaded: url_helper
+INFO - 2017-11-30 05:16:55 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 05:16:55 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 05:16:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 05:16:55 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 05:16:55 --> User Agent Class Initialized
+DEBUG - 2017-11-30 05:16:55 --> Template class Initialized
+INFO - 2017-11-30 05:16:56 --> Model Class Initialized
+INFO - 2017-11-30 05:16:56 --> Controller Class Initialized
+INFO - 2017-11-30 05:16:56 --> Config Class Initialized
+INFO - 2017-11-30 05:16:56 --> Hooks Class Initialized
+DEBUG - 2017-11-30 05:16:56 --> UTF-8 Support Enabled
+INFO - 2017-11-30 05:16:56 --> Utf8 Class Initialized
+INFO - 2017-11-30 05:16:56 --> URI Class Initialized
+INFO - 2017-11-30 05:16:56 --> Router Class Initialized
+INFO - 2017-11-30 05:16:56 --> Output Class Initialized
+INFO - 2017-11-30 05:16:56 --> Security Class Initialized
+DEBUG - 2017-11-30 05:16:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 05:16:56 --> Input Class Initialized
+INFO - 2017-11-30 05:16:56 --> Language Class Initialized
+INFO - 2017-11-30 05:16:56 --> Language Class Initialized
+INFO - 2017-11-30 05:16:56 --> Config Class Initialized
+INFO - 2017-11-30 05:16:56 --> Loader Class Initialized
+INFO - 2017-11-30 05:16:56 --> Helper loaded: url_helper
+INFO - 2017-11-30 05:16:56 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 05:16:56 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 05:16:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 05:16:56 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 05:16:56 --> User Agent Class Initialized
+DEBUG - 2017-11-30 05:16:56 --> Template class Initialized
+INFO - 2017-11-30 05:16:56 --> Model Class Initialized
+INFO - 2017-11-30 05:16:56 --> Controller Class Initialized
+DEBUG - 2017-11-30 05:16:56 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/login/models/User_model.php
+INFO - 2017-11-30 05:16:56 --> Model Class Initialized
+INFO - 2017-11-30 05:16:56 --> Helper loaded: form_helper
+INFO - 2017-11-30 05:16:56 --> Form Validation Class Initialized
+INFO - 2017-11-30 05:16:56 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 05:16:56 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/login/views/login.php
+DEBUG - 2017-11-30 05:16:56 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/front/index.php
+INFO - 2017-11-30 05:16:56 --> Final output sent to browser
+DEBUG - 2017-11-30 05:16:56 --> Total execution time: 0.0323
+INFO - 2017-11-30 05:17:05 --> Config Class Initialized
+INFO - 2017-11-30 05:17:05 --> Hooks Class Initialized
+DEBUG - 2017-11-30 05:17:05 --> UTF-8 Support Enabled
+INFO - 2017-11-30 05:17:05 --> Utf8 Class Initialized
+INFO - 2017-11-30 05:17:05 --> URI Class Initialized
+INFO - 2017-11-30 05:17:05 --> Router Class Initialized
+INFO - 2017-11-30 05:17:05 --> Output Class Initialized
+INFO - 2017-11-30 05:17:05 --> Security Class Initialized
+DEBUG - 2017-11-30 05:17:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 05:17:05 --> Input Class Initialized
+INFO - 2017-11-30 05:17:05 --> Language Class Initialized
+INFO - 2017-11-30 05:17:05 --> Language Class Initialized
+INFO - 2017-11-30 05:17:05 --> Config Class Initialized
+INFO - 2017-11-30 05:17:05 --> Loader Class Initialized
+INFO - 2017-11-30 05:17:05 --> Helper loaded: url_helper
+INFO - 2017-11-30 05:17:05 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 05:17:05 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 05:17:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 05:17:05 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 05:17:05 --> User Agent Class Initialized
+DEBUG - 2017-11-30 05:17:05 --> Template class Initialized
+INFO - 2017-11-30 05:17:05 --> Model Class Initialized
+INFO - 2017-11-30 05:17:05 --> Controller Class Initialized
+DEBUG - 2017-11-30 05:17:05 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/login/models/User_model.php
+INFO - 2017-11-30 05:17:05 --> Model Class Initialized
+INFO - 2017-11-30 05:17:05 --> Helper loaded: form_helper
+INFO - 2017-11-30 05:17:05 --> Form Validation Class Initialized
+INFO - 2017-11-30 05:17:05 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2017-11-30 05:17:05 --> Encrypt Class Initialized
+INFO - 2017-11-30 05:17:05 --> Config Class Initialized
+INFO - 2017-11-30 05:17:05 --> Hooks Class Initialized
+DEBUG - 2017-11-30 05:17:05 --> UTF-8 Support Enabled
+INFO - 2017-11-30 05:17:05 --> Utf8 Class Initialized
+INFO - 2017-11-30 05:17:06 --> URI Class Initialized
+INFO - 2017-11-30 05:17:06 --> Router Class Initialized
+INFO - 2017-11-30 05:17:06 --> Output Class Initialized
+INFO - 2017-11-30 05:17:06 --> Security Class Initialized
+DEBUG - 2017-11-30 05:17:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 05:17:06 --> Input Class Initialized
+INFO - 2017-11-30 05:17:06 --> Language Class Initialized
+INFO - 2017-11-30 05:17:06 --> Language Class Initialized
+INFO - 2017-11-30 05:17:06 --> Config Class Initialized
+INFO - 2017-11-30 05:17:06 --> Loader Class Initialized
+INFO - 2017-11-30 05:17:06 --> Helper loaded: url_helper
+INFO - 2017-11-30 05:17:06 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 05:17:06 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 05:17:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 05:17:06 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 05:17:06 --> User Agent Class Initialized
+DEBUG - 2017-11-30 05:17:06 --> Template class Initialized
+INFO - 2017-11-30 05:17:06 --> Model Class Initialized
+INFO - 2017-11-30 05:17:06 --> Controller Class Initialized
+DEBUG - 2017-11-30 05:17:06 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/seller/models/Seller_model.php
+INFO - 2017-11-30 05:17:06 --> Model Class Initialized
+INFO - 2017-11-30 05:17:06 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 05:17:06 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/seller/views/seller_home.php
+DEBUG - 2017-11-30 05:17:06 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/front/index.php
+INFO - 2017-11-30 05:17:06 --> Final output sent to browser
+DEBUG - 2017-11-30 05:17:06 --> Total execution time: 0.1664
+INFO - 2017-11-30 05:17:09 --> Config Class Initialized
+INFO - 2017-11-30 05:17:09 --> Hooks Class Initialized
+DEBUG - 2017-11-30 05:17:09 --> UTF-8 Support Enabled
+INFO - 2017-11-30 05:17:09 --> Utf8 Class Initialized
+INFO - 2017-11-30 05:17:09 --> URI Class Initialized
+INFO - 2017-11-30 05:17:09 --> Router Class Initialized
+INFO - 2017-11-30 05:17:09 --> Output Class Initialized
+INFO - 2017-11-30 05:17:09 --> Security Class Initialized
+DEBUG - 2017-11-30 05:17:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 05:17:09 --> Input Class Initialized
+INFO - 2017-11-30 05:17:09 --> Language Class Initialized
+INFO - 2017-11-30 05:17:09 --> Language Class Initialized
+INFO - 2017-11-30 05:17:09 --> Config Class Initialized
+INFO - 2017-11-30 05:17:09 --> Loader Class Initialized
+INFO - 2017-11-30 05:17:09 --> Helper loaded: url_helper
+INFO - 2017-11-30 05:17:09 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 05:17:09 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 05:17:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 05:17:09 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 05:17:09 --> User Agent Class Initialized
+DEBUG - 2017-11-30 05:17:09 --> Template class Initialized
+INFO - 2017-11-30 05:17:09 --> Model Class Initialized
+INFO - 2017-11-30 05:17:09 --> Controller Class Initialized
+DEBUG - 2017-11-30 05:17:09 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/seller/models/Seller_model.php
+INFO - 2017-11-30 05:17:09 --> Model Class Initialized
+INFO - 2017-11-30 05:17:09 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 05:17:10 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/seller/views/profile.php
+DEBUG - 2017-11-30 05:17:10 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/front/index.php
+INFO - 2017-11-30 05:17:10 --> Final output sent to browser
+DEBUG - 2017-11-30 05:17:10 --> Total execution time: 0.1240
+INFO - 2017-11-30 05:17:11 --> Config Class Initialized
+INFO - 2017-11-30 05:17:11 --> Hooks Class Initialized
+DEBUG - 2017-11-30 05:17:11 --> UTF-8 Support Enabled
+INFO - 2017-11-30 05:17:11 --> Utf8 Class Initialized
+INFO - 2017-11-30 05:17:11 --> URI Class Initialized
+INFO - 2017-11-30 05:17:11 --> Router Class Initialized
+INFO - 2017-11-30 05:17:11 --> Output Class Initialized
+INFO - 2017-11-30 05:17:11 --> Security Class Initialized
+DEBUG - 2017-11-30 05:17:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 05:17:11 --> Input Class Initialized
+INFO - 2017-11-30 05:17:11 --> Language Class Initialized
+INFO - 2017-11-30 05:17:11 --> Language Class Initialized
+INFO - 2017-11-30 05:17:11 --> Config Class Initialized
+INFO - 2017-11-30 05:17:11 --> Loader Class Initialized
+INFO - 2017-11-30 05:17:11 --> Helper loaded: url_helper
+INFO - 2017-11-30 05:17:11 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 05:17:11 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 05:17:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 05:17:11 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 05:17:11 --> User Agent Class Initialized
+DEBUG - 2017-11-30 05:17:11 --> Template class Initialized
+INFO - 2017-11-30 05:17:11 --> Model Class Initialized
+INFO - 2017-11-30 05:17:11 --> Controller Class Initialized
+DEBUG - 2017-11-30 05:17:11 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/models/User_model.php
+INFO - 2017-11-30 05:17:11 --> Model Class Initialized
+INFO - 2017-11-30 05:17:11 --> Config Class Initialized
+INFO - 2017-11-30 05:17:11 --> Hooks Class Initialized
+DEBUG - 2017-11-30 05:17:11 --> UTF-8 Support Enabled
+INFO - 2017-11-30 05:17:11 --> Utf8 Class Initialized
+INFO - 2017-11-30 05:17:11 --> URI Class Initialized
+INFO - 2017-11-30 05:17:11 --> Router Class Initialized
+INFO - 2017-11-30 05:17:11 --> Output Class Initialized
+INFO - 2017-11-30 05:17:11 --> Security Class Initialized
+DEBUG - 2017-11-30 05:17:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 05:17:11 --> Input Class Initialized
+INFO - 2017-11-30 05:17:11 --> Language Class Initialized
+INFO - 2017-11-30 05:17:11 --> Language Class Initialized
+INFO - 2017-11-30 05:17:11 --> Config Class Initialized
+INFO - 2017-11-30 05:17:11 --> Loader Class Initialized
+INFO - 2017-11-30 05:17:11 --> Helper loaded: url_helper
+INFO - 2017-11-30 05:17:11 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 05:17:11 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 05:17:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 05:17:11 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 05:17:11 --> User Agent Class Initialized
+DEBUG - 2017-11-30 05:17:11 --> Template class Initialized
+INFO - 2017-11-30 05:17:11 --> Model Class Initialized
+INFO - 2017-11-30 05:17:11 --> Controller Class Initialized
+DEBUG - 2017-11-30 05:17:11 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/login/models/User_model.php
+INFO - 2017-11-30 05:17:11 --> Model Class Initialized
+INFO - 2017-11-30 05:17:11 --> Helper loaded: form_helper
+INFO - 2017-11-30 05:17:11 --> Form Validation Class Initialized
+INFO - 2017-11-30 05:17:11 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 05:17:11 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/login/views/login.php
+DEBUG - 2017-11-30 05:17:11 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/front/index.php
+INFO - 2017-11-30 05:17:11 --> Final output sent to browser
+DEBUG - 2017-11-30 05:17:11 --> Total execution time: 0.0447
+INFO - 2017-11-30 05:17:26 --> Config Class Initialized
+INFO - 2017-11-30 05:17:26 --> Hooks Class Initialized
+DEBUG - 2017-11-30 05:17:26 --> UTF-8 Support Enabled
+INFO - 2017-11-30 05:17:26 --> Utf8 Class Initialized
+INFO - 2017-11-30 05:17:26 --> URI Class Initialized
+INFO - 2017-11-30 05:17:26 --> Router Class Initialized
+INFO - 2017-11-30 05:17:26 --> Output Class Initialized
+INFO - 2017-11-30 05:17:26 --> Security Class Initialized
+DEBUG - 2017-11-30 05:17:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 05:17:26 --> Input Class Initialized
+INFO - 2017-11-30 05:17:26 --> Language Class Initialized
+INFO - 2017-11-30 05:17:26 --> Language Class Initialized
+INFO - 2017-11-30 05:17:26 --> Config Class Initialized
+INFO - 2017-11-30 05:17:26 --> Loader Class Initialized
+INFO - 2017-11-30 05:17:26 --> Helper loaded: url_helper
+INFO - 2017-11-30 05:17:26 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 05:17:26 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 05:17:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 05:17:26 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 05:17:26 --> User Agent Class Initialized
+DEBUG - 2017-11-30 05:17:26 --> Template class Initialized
+INFO - 2017-11-30 05:17:26 --> Model Class Initialized
+INFO - 2017-11-30 05:17:26 --> Controller Class Initialized
+DEBUG - 2017-11-30 05:17:26 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/login/models/User_model.php
+INFO - 2017-11-30 05:17:26 --> Model Class Initialized
+INFO - 2017-11-30 05:17:26 --> Helper loaded: form_helper
+INFO - 2017-11-30 05:17:26 --> Form Validation Class Initialized
+INFO - 2017-11-30 05:17:26 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2017-11-30 05:17:26 --> Encrypt Class Initialized
+INFO - 2017-11-30 05:17:26 --> Config Class Initialized
+INFO - 2017-11-30 05:17:26 --> Hooks Class Initialized
+DEBUG - 2017-11-30 05:17:26 --> UTF-8 Support Enabled
+INFO - 2017-11-30 05:17:26 --> Utf8 Class Initialized
+INFO - 2017-11-30 05:17:26 --> URI Class Initialized
+INFO - 2017-11-30 05:17:26 --> Router Class Initialized
+INFO - 2017-11-30 05:17:26 --> Output Class Initialized
+INFO - 2017-11-30 05:17:26 --> Security Class Initialized
+DEBUG - 2017-11-30 05:17:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 05:17:26 --> Input Class Initialized
+INFO - 2017-11-30 05:17:26 --> Language Class Initialized
+INFO - 2017-11-30 05:17:26 --> Language Class Initialized
+INFO - 2017-11-30 05:17:26 --> Config Class Initialized
+INFO - 2017-11-30 05:17:26 --> Loader Class Initialized
+INFO - 2017-11-30 05:17:26 --> Helper loaded: url_helper
+INFO - 2017-11-30 05:17:26 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 05:17:26 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 05:17:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 05:17:26 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 05:17:26 --> User Agent Class Initialized
+DEBUG - 2017-11-30 05:17:26 --> Template class Initialized
+INFO - 2017-11-30 05:17:26 --> Model Class Initialized
+INFO - 2017-11-30 05:17:26 --> Controller Class Initialized
+DEBUG - 2017-11-30 05:17:26 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/seller/models/Seller_model.php
+INFO - 2017-11-30 05:17:26 --> Model Class Initialized
+INFO - 2017-11-30 05:17:26 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 05:17:26 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/seller/views/seller_home.php
+DEBUG - 2017-11-30 05:17:26 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/front/index.php
+INFO - 2017-11-30 05:17:26 --> Final output sent to browser
+DEBUG - 2017-11-30 05:17:26 --> Total execution time: 0.0270
+INFO - 2017-11-30 05:20:07 --> Config Class Initialized
+INFO - 2017-11-30 05:20:07 --> Hooks Class Initialized
+DEBUG - 2017-11-30 05:20:07 --> UTF-8 Support Enabled
+INFO - 2017-11-30 05:20:07 --> Utf8 Class Initialized
+INFO - 2017-11-30 05:20:07 --> URI Class Initialized
+INFO - 2017-11-30 05:20:07 --> Router Class Initialized
+INFO - 2017-11-30 05:20:07 --> Output Class Initialized
+INFO - 2017-11-30 05:20:07 --> Security Class Initialized
+DEBUG - 2017-11-30 05:20:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 05:20:07 --> Input Class Initialized
+INFO - 2017-11-30 05:20:07 --> Language Class Initialized
+INFO - 2017-11-30 05:20:07 --> Language Class Initialized
+INFO - 2017-11-30 05:20:07 --> Config Class Initialized
+INFO - 2017-11-30 05:20:07 --> Loader Class Initialized
+INFO - 2017-11-30 05:20:07 --> Helper loaded: url_helper
+INFO - 2017-11-30 05:20:07 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 05:20:07 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 05:20:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 05:20:07 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 05:20:07 --> User Agent Class Initialized
+DEBUG - 2017-11-30 05:20:07 --> Template class Initialized
+INFO - 2017-11-30 05:20:07 --> Model Class Initialized
+INFO - 2017-11-30 05:20:07 --> Controller Class Initialized
+DEBUG - 2017-11-30 05:20:07 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/seller/models/Seller_model.php
+INFO - 2017-11-30 05:20:07 --> Model Class Initialized
+INFO - 2017-11-30 05:20:07 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 05:20:07 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/seller/views/add_property.php
+DEBUG - 2017-11-30 05:20:07 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/front/index.php
+INFO - 2017-11-30 05:20:07 --> Final output sent to browser
+DEBUG - 2017-11-30 05:20:07 --> Total execution time: 0.0410
+INFO - 2017-11-30 05:49:51 --> Config Class Initialized
+INFO - 2017-11-30 05:49:51 --> Hooks Class Initialized
+DEBUG - 2017-11-30 05:49:51 --> UTF-8 Support Enabled
+INFO - 2017-11-30 05:49:51 --> Utf8 Class Initialized
+INFO - 2017-11-30 05:49:51 --> URI Class Initialized
+DEBUG - 2017-11-30 05:49:51 --> No URI present. Default controller set.
+INFO - 2017-11-30 05:49:51 --> Router Class Initialized
+INFO - 2017-11-30 05:49:51 --> Output Class Initialized
+INFO - 2017-11-30 05:49:51 --> Security Class Initialized
+DEBUG - 2017-11-30 05:49:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 05:49:51 --> Input Class Initialized
+INFO - 2017-11-30 05:49:51 --> Language Class Initialized
+INFO - 2017-11-30 05:49:51 --> Language Class Initialized
+INFO - 2017-11-30 05:49:51 --> Config Class Initialized
+INFO - 2017-11-30 05:49:51 --> Loader Class Initialized
+INFO - 2017-11-30 05:49:51 --> Helper loaded: url_helper
+INFO - 2017-11-30 05:49:51 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 05:49:51 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 05:49:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 05:49:51 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 05:49:51 --> User Agent Class Initialized
+DEBUG - 2017-11-30 05:49:51 --> Template class Initialized
+INFO - 2017-11-30 05:49:51 --> Model Class Initialized
+INFO - 2017-11-30 05:49:51 --> Controller Class Initialized
+DEBUG - 2017-11-30 05:49:51 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/models/User_model.php
+INFO - 2017-11-30 05:49:51 --> Model Class Initialized
+INFO - 2017-11-30 05:49:51 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 05:49:51 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/views/home.php
+DEBUG - 2017-11-30 05:49:51 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/front/index.php
+INFO - 2017-11-30 05:49:51 --> Final output sent to browser
+DEBUG - 2017-11-30 05:49:51 --> Total execution time: 0.0292
+INFO - 2017-11-30 05:50:44 --> Config Class Initialized
+INFO - 2017-11-30 05:50:44 --> Hooks Class Initialized
+DEBUG - 2017-11-30 05:50:44 --> UTF-8 Support Enabled
+INFO - 2017-11-30 05:50:44 --> Utf8 Class Initialized
+INFO - 2017-11-30 05:50:44 --> URI Class Initialized
+INFO - 2017-11-30 05:50:44 --> Router Class Initialized
+INFO - 2017-11-30 05:50:44 --> Output Class Initialized
+INFO - 2017-11-30 05:50:44 --> Security Class Initialized
+DEBUG - 2017-11-30 05:50:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 05:50:44 --> Input Class Initialized
+INFO - 2017-11-30 05:50:44 --> Language Class Initialized
+INFO - 2017-11-30 05:50:44 --> Language Class Initialized
+INFO - 2017-11-30 05:50:44 --> Config Class Initialized
+INFO - 2017-11-30 05:50:44 --> Loader Class Initialized
+INFO - 2017-11-30 05:50:44 --> Helper loaded: url_helper
+INFO - 2017-11-30 05:50:44 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 05:50:44 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 05:50:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 05:50:44 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 05:50:44 --> User Agent Class Initialized
+DEBUG - 2017-11-30 05:50:44 --> Template class Initialized
+INFO - 2017-11-30 05:50:44 --> Model Class Initialized
+INFO - 2017-11-30 05:50:44 --> Controller Class Initialized
+DEBUG - 2017-11-30 05:50:44 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/models/User_model.php
+INFO - 2017-11-30 05:50:44 --> Model Class Initialized
+INFO - 2017-11-30 05:50:44 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 05:50:44 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/views/mortgage_broker.php
+DEBUG - 2017-11-30 05:50:44 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/front/index.php
+INFO - 2017-11-30 05:50:44 --> Final output sent to browser
+DEBUG - 2017-11-30 05:50:44 --> Total execution time: 0.0553
+INFO - 2017-11-30 05:51:02 --> Config Class Initialized
+INFO - 2017-11-30 05:51:02 --> Hooks Class Initialized
+DEBUG - 2017-11-30 05:51:02 --> UTF-8 Support Enabled
+INFO - 2017-11-30 05:51:02 --> Utf8 Class Initialized
+INFO - 2017-11-30 05:51:02 --> URI Class Initialized
+DEBUG - 2017-11-30 05:51:02 --> No URI present. Default controller set.
+INFO - 2017-11-30 05:51:02 --> Router Class Initialized
+INFO - 2017-11-30 05:51:02 --> Output Class Initialized
+INFO - 2017-11-30 05:51:02 --> Security Class Initialized
+DEBUG - 2017-11-30 05:51:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 05:51:02 --> Input Class Initialized
+INFO - 2017-11-30 05:51:02 --> Language Class Initialized
+INFO - 2017-11-30 05:51:02 --> Language Class Initialized
+INFO - 2017-11-30 05:51:02 --> Config Class Initialized
+INFO - 2017-11-30 05:51:02 --> Loader Class Initialized
+INFO - 2017-11-30 05:51:02 --> Helper loaded: url_helper
+INFO - 2017-11-30 05:51:02 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 05:51:02 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 05:51:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 05:51:02 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 05:51:02 --> User Agent Class Initialized
+DEBUG - 2017-11-30 05:51:02 --> Template class Initialized
+INFO - 2017-11-30 05:51:02 --> Model Class Initialized
+INFO - 2017-11-30 05:51:02 --> Controller Class Initialized
+DEBUG - 2017-11-30 05:51:02 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/models/User_model.php
+INFO - 2017-11-30 05:51:02 --> Model Class Initialized
+INFO - 2017-11-30 05:51:02 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 05:51:02 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/views/home.php
+DEBUG - 2017-11-30 05:51:02 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/front/index.php
+INFO - 2017-11-30 05:51:02 --> Final output sent to browser
+DEBUG - 2017-11-30 05:51:02 --> Total execution time: 0.0716
+INFO - 2017-11-30 05:53:06 --> Config Class Initialized
+INFO - 2017-11-30 05:53:06 --> Hooks Class Initialized
+DEBUG - 2017-11-30 05:53:06 --> UTF-8 Support Enabled
+INFO - 2017-11-30 05:53:06 --> Utf8 Class Initialized
+INFO - 2017-11-30 05:53:06 --> URI Class Initialized
+INFO - 2017-11-30 05:53:06 --> Router Class Initialized
+INFO - 2017-11-30 05:53:06 --> Output Class Initialized
+INFO - 2017-11-30 05:53:06 --> Security Class Initialized
+DEBUG - 2017-11-30 05:53:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 05:53:06 --> Input Class Initialized
+INFO - 2017-11-30 05:53:06 --> Language Class Initialized
+INFO - 2017-11-30 05:53:06 --> Language Class Initialized
+INFO - 2017-11-30 05:53:06 --> Config Class Initialized
+INFO - 2017-11-30 05:53:06 --> Loader Class Initialized
+INFO - 2017-11-30 05:53:06 --> Helper loaded: url_helper
+INFO - 2017-11-30 05:53:06 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 05:53:06 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 05:53:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 05:53:06 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 05:53:06 --> User Agent Class Initialized
+DEBUG - 2017-11-30 05:53:06 --> Template class Initialized
+INFO - 2017-11-30 05:53:06 --> Model Class Initialized
+INFO - 2017-11-30 05:53:06 --> Controller Class Initialized
+DEBUG - 2017-11-30 05:53:06 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/login/models/User_model.php
+INFO - 2017-11-30 05:53:06 --> Model Class Initialized
+INFO - 2017-11-30 05:53:06 --> Helper loaded: form_helper
+INFO - 2017-11-30 05:53:06 --> Form Validation Class Initialized
+INFO - 2017-11-30 05:53:06 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 05:53:06 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/login/views/login.php
+DEBUG - 2017-11-30 05:53:06 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/front/index.php
+INFO - 2017-11-30 05:53:06 --> Final output sent to browser
+DEBUG - 2017-11-30 05:53:06 --> Total execution time: 0.0329
+INFO - 2017-11-30 05:56:33 --> Config Class Initialized
+INFO - 2017-11-30 05:56:33 --> Hooks Class Initialized
+DEBUG - 2017-11-30 05:56:33 --> UTF-8 Support Enabled
+INFO - 2017-11-30 05:56:33 --> Utf8 Class Initialized
+INFO - 2017-11-30 05:56:33 --> URI Class Initialized
+DEBUG - 2017-11-30 05:56:33 --> No URI present. Default controller set.
+INFO - 2017-11-30 05:56:33 --> Router Class Initialized
+INFO - 2017-11-30 05:56:33 --> Output Class Initialized
+INFO - 2017-11-30 05:56:33 --> Security Class Initialized
+DEBUG - 2017-11-30 05:56:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 05:56:33 --> Input Class Initialized
+INFO - 2017-11-30 05:56:33 --> Language Class Initialized
+INFO - 2017-11-30 05:56:33 --> Language Class Initialized
+INFO - 2017-11-30 05:56:33 --> Config Class Initialized
+INFO - 2017-11-30 05:56:33 --> Loader Class Initialized
+INFO - 2017-11-30 05:56:33 --> Helper loaded: url_helper
+INFO - 2017-11-30 05:56:33 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 05:56:33 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 05:56:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 05:56:33 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 05:56:33 --> User Agent Class Initialized
+DEBUG - 2017-11-30 05:56:33 --> Template class Initialized
+INFO - 2017-11-30 05:56:33 --> Model Class Initialized
+INFO - 2017-11-30 05:56:33 --> Controller Class Initialized
+DEBUG - 2017-11-30 05:56:33 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/models/User_model.php
+INFO - 2017-11-30 05:56:33 --> Model Class Initialized
+INFO - 2017-11-30 05:56:33 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 05:56:33 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/views/home.php
+DEBUG - 2017-11-30 05:56:33 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/front/index.php
+INFO - 2017-11-30 05:56:33 --> Final output sent to browser
+DEBUG - 2017-11-30 05:56:33 --> Total execution time: 0.0279
+INFO - 2017-11-30 05:57:52 --> Config Class Initialized
+INFO - 2017-11-30 05:57:52 --> Hooks Class Initialized
+DEBUG - 2017-11-30 05:57:52 --> UTF-8 Support Enabled
+INFO - 2017-11-30 05:57:52 --> Utf8 Class Initialized
+INFO - 2017-11-30 05:57:52 --> URI Class Initialized
+INFO - 2017-11-30 05:57:52 --> Router Class Initialized
+INFO - 2017-11-30 05:57:52 --> Output Class Initialized
+INFO - 2017-11-30 05:57:52 --> Security Class Initialized
+DEBUG - 2017-11-30 05:57:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 05:57:52 --> Input Class Initialized
+INFO - 2017-11-30 05:57:52 --> Language Class Initialized
+INFO - 2017-11-30 05:57:52 --> Language Class Initialized
+INFO - 2017-11-30 05:57:52 --> Config Class Initialized
+INFO - 2017-11-30 05:57:52 --> Loader Class Initialized
+INFO - 2017-11-30 05:57:52 --> Helper loaded: url_helper
+INFO - 2017-11-30 05:57:52 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 05:57:52 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 05:57:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 05:57:52 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 05:57:52 --> User Agent Class Initialized
+DEBUG - 2017-11-30 05:57:52 --> Template class Initialized
+INFO - 2017-11-30 05:57:52 --> Model Class Initialized
+INFO - 2017-11-30 05:57:52 --> Controller Class Initialized
+DEBUG - 2017-11-30 05:57:52 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/login/models/Login_model.php
+INFO - 2017-11-30 05:57:52 --> Model Class Initialized
+INFO - 2017-11-30 05:57:52 --> Helper loaded: form_helper
+INFO - 2017-11-30 05:57:52 --> Form Validation Class Initialized
+DEBUG - 2017-11-30 05:57:52 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/login/views/login.php
+INFO - 2017-11-30 05:57:52 --> Final output sent to browser
+DEBUG - 2017-11-30 05:57:52 --> Total execution time: 0.0294
+INFO - 2017-11-30 05:58:24 --> Config Class Initialized
+INFO - 2017-11-30 05:58:24 --> Hooks Class Initialized
+DEBUG - 2017-11-30 05:58:24 --> UTF-8 Support Enabled
+INFO - 2017-11-30 05:58:24 --> Utf8 Class Initialized
+INFO - 2017-11-30 05:58:24 --> URI Class Initialized
+INFO - 2017-11-30 05:58:24 --> Router Class Initialized
+INFO - 2017-11-30 05:58:24 --> Output Class Initialized
+INFO - 2017-11-30 05:58:24 --> Security Class Initialized
+DEBUG - 2017-11-30 05:58:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 05:58:24 --> Input Class Initialized
+INFO - 2017-11-30 05:58:24 --> Language Class Initialized
+INFO - 2017-11-30 05:58:24 --> Language Class Initialized
+INFO - 2017-11-30 05:58:24 --> Config Class Initialized
+INFO - 2017-11-30 05:58:24 --> Loader Class Initialized
+INFO - 2017-11-30 05:58:24 --> Helper loaded: url_helper
+INFO - 2017-11-30 05:58:24 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 05:58:24 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 05:58:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 05:58:24 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 05:58:24 --> User Agent Class Initialized
+DEBUG - 2017-11-30 05:58:24 --> Template class Initialized
+INFO - 2017-11-30 05:58:24 --> Model Class Initialized
+INFO - 2017-11-30 05:58:24 --> Controller Class Initialized
+DEBUG - 2017-11-30 05:58:24 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/login/models/Login_model.php
+INFO - 2017-11-30 05:58:24 --> Model Class Initialized
+INFO - 2017-11-30 05:58:24 --> Helper loaded: form_helper
+INFO - 2017-11-30 05:58:24 --> Form Validation Class Initialized
+INFO - 2017-11-30 05:58:24 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2017-11-30 05:58:24 --> Encrypt Class Initialized
+INFO - 2017-11-30 05:58:24 --> Config Class Initialized
+INFO - 2017-11-30 05:58:24 --> Hooks Class Initialized
+DEBUG - 2017-11-30 05:58:24 --> UTF-8 Support Enabled
+INFO - 2017-11-30 05:58:24 --> Utf8 Class Initialized
+INFO - 2017-11-30 05:58:24 --> URI Class Initialized
+INFO - 2017-11-30 05:58:24 --> Router Class Initialized
+INFO - 2017-11-30 05:58:24 --> Output Class Initialized
+INFO - 2017-11-30 05:58:24 --> Security Class Initialized
+DEBUG - 2017-11-30 05:58:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 05:58:24 --> Input Class Initialized
+INFO - 2017-11-30 05:58:24 --> Language Class Initialized
+INFO - 2017-11-30 05:58:24 --> Language Class Initialized
+INFO - 2017-11-30 05:58:24 --> Config Class Initialized
+INFO - 2017-11-30 05:58:24 --> Loader Class Initialized
+INFO - 2017-11-30 05:58:24 --> Helper loaded: url_helper
+INFO - 2017-11-30 05:58:24 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 05:58:24 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 05:58:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 05:58:24 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 05:58:24 --> User Agent Class Initialized
+DEBUG - 2017-11-30 05:58:24 --> Template class Initialized
+INFO - 2017-11-30 05:58:24 --> Model Class Initialized
+INFO - 2017-11-30 05:58:24 --> Controller Class Initialized
+DEBUG - 2017-11-30 05:58:24 --> Dashboard MX_Controller Initialized
+DEBUG - 2017-11-30 05:58:24 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/dashboard/models/Admin_model.php
+INFO - 2017-11-30 05:58:24 --> Model Class Initialized
+INFO - 2017-11-30 05:58:24 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 05:58:24 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/dashboard/views/dashboard.php
+DEBUG - 2017-11-30 05:58:24 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/admin/index.php
+INFO - 2017-11-30 05:58:24 --> Final output sent to browser
+DEBUG - 2017-11-30 05:58:24 --> Total execution time: 0.0287
+INFO - 2017-11-30 05:58:40 --> Config Class Initialized
+INFO - 2017-11-30 05:58:40 --> Hooks Class Initialized
+DEBUG - 2017-11-30 05:58:40 --> UTF-8 Support Enabled
+INFO - 2017-11-30 05:58:40 --> Utf8 Class Initialized
+INFO - 2017-11-30 05:58:40 --> URI Class Initialized
+INFO - 2017-11-30 05:58:40 --> Router Class Initialized
+INFO - 2017-11-30 05:58:40 --> Output Class Initialized
+INFO - 2017-11-30 05:58:40 --> Security Class Initialized
+DEBUG - 2017-11-30 05:58:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 05:58:40 --> Input Class Initialized
+INFO - 2017-11-30 05:58:40 --> Language Class Initialized
+INFO - 2017-11-30 05:58:40 --> Language Class Initialized
+INFO - 2017-11-30 05:58:40 --> Config Class Initialized
+INFO - 2017-11-30 05:58:40 --> Loader Class Initialized
+INFO - 2017-11-30 05:58:40 --> Helper loaded: url_helper
+INFO - 2017-11-30 05:58:40 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 05:58:40 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 05:58:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 05:58:40 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 05:58:40 --> User Agent Class Initialized
+DEBUG - 2017-11-30 05:58:40 --> Template class Initialized
+INFO - 2017-11-30 05:58:40 --> Model Class Initialized
+INFO - 2017-11-30 05:58:40 --> Controller Class Initialized
+DEBUG - 2017-11-30 05:58:40 --> Seller MX_Controller Initialized
+DEBUG - 2017-11-30 05:58:40 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/seller/models/Seller_model.php
+INFO - 2017-11-30 05:58:40 --> Model Class Initialized
+INFO - 2017-11-30 05:58:40 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 05:58:40 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/seller/views/all_seller.php
+DEBUG - 2017-11-30 05:58:40 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/admin/index.php
+INFO - 2017-11-30 05:58:40 --> Final output sent to browser
+DEBUG - 2017-11-30 05:58:40 --> Total execution time: 0.0719
+INFO - 2017-11-30 05:58:40 --> Config Class Initialized
+INFO - 2017-11-30 05:58:40 --> Hooks Class Initialized
+DEBUG - 2017-11-30 05:58:40 --> UTF-8 Support Enabled
+INFO - 2017-11-30 05:58:40 --> Utf8 Class Initialized
+INFO - 2017-11-30 05:58:40 --> URI Class Initialized
+INFO - 2017-11-30 05:58:40 --> Router Class Initialized
+INFO - 2017-11-30 05:58:40 --> Output Class Initialized
+INFO - 2017-11-30 05:58:40 --> Security Class Initialized
+DEBUG - 2017-11-30 05:58:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 05:58:40 --> Input Class Initialized
+INFO - 2017-11-30 05:58:40 --> Language Class Initialized
+INFO - 2017-11-30 05:58:40 --> Language Class Initialized
+INFO - 2017-11-30 05:58:40 --> Config Class Initialized
+INFO - 2017-11-30 05:58:40 --> Loader Class Initialized
+INFO - 2017-11-30 05:58:40 --> Helper loaded: url_helper
+INFO - 2017-11-30 05:58:40 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 05:58:40 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 05:58:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 05:58:40 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 05:58:40 --> User Agent Class Initialized
+DEBUG - 2017-11-30 05:58:40 --> Template class Initialized
+INFO - 2017-11-30 05:58:40 --> Model Class Initialized
+INFO - 2017-11-30 05:58:40 --> Controller Class Initialized
+DEBUG - 2017-11-30 05:58:40 --> Seller MX_Controller Initialized
+DEBUG - 2017-11-30 05:58:40 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/seller/models/Seller_model.php
+INFO - 2017-11-30 05:58:40 --> Model Class Initialized
+DEBUG - 2017-11-30 05:58:40 --> Pagination Class Initialized
+DEBUG - 2017-11-30 05:58:40 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/seller/views/all_seller_listing.php
+INFO - 2017-11-30 05:58:40 --> Final output sent to browser
+DEBUG - 2017-11-30 05:58:40 --> Total execution time: 0.0508
+INFO - 2017-11-30 05:58:49 --> Config Class Initialized
+INFO - 2017-11-30 05:58:49 --> Hooks Class Initialized
+DEBUG - 2017-11-30 05:58:49 --> UTF-8 Support Enabled
+INFO - 2017-11-30 05:58:49 --> Utf8 Class Initialized
+INFO - 2017-11-30 05:58:49 --> URI Class Initialized
+INFO - 2017-11-30 05:58:49 --> Router Class Initialized
+INFO - 2017-11-30 05:58:49 --> Output Class Initialized
+INFO - 2017-11-30 05:58:49 --> Security Class Initialized
+DEBUG - 2017-11-30 05:58:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 05:58:49 --> Input Class Initialized
+INFO - 2017-11-30 05:58:49 --> Language Class Initialized
+INFO - 2017-11-30 05:58:49 --> Language Class Initialized
+INFO - 2017-11-30 05:58:49 --> Config Class Initialized
+INFO - 2017-11-30 05:58:49 --> Loader Class Initialized
+INFO - 2017-11-30 05:58:49 --> Helper loaded: url_helper
+INFO - 2017-11-30 05:58:49 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 05:58:49 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 05:58:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 05:58:49 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 05:58:49 --> User Agent Class Initialized
+DEBUG - 2017-11-30 05:58:49 --> Template class Initialized
+INFO - 2017-11-30 05:58:49 --> Model Class Initialized
+INFO - 2017-11-30 05:58:49 --> Controller Class Initialized
+DEBUG - 2017-11-30 05:58:49 --> Buyer MX_Controller Initialized
+DEBUG - 2017-11-30 05:58:49 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/buyer/models/Buyer_model.php
+INFO - 2017-11-30 05:58:49 --> Model Class Initialized
+INFO - 2017-11-30 05:58:49 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 05:58:49 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/buyer/views/all_buyer.php
+DEBUG - 2017-11-30 05:58:49 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/admin/index.php
+INFO - 2017-11-30 05:58:49 --> Final output sent to browser
+DEBUG - 2017-11-30 05:58:49 --> Total execution time: 0.0721
+INFO - 2017-11-30 05:58:50 --> Config Class Initialized
+INFO - 2017-11-30 05:58:50 --> Hooks Class Initialized
+DEBUG - 2017-11-30 05:58:50 --> UTF-8 Support Enabled
+INFO - 2017-11-30 05:58:50 --> Utf8 Class Initialized
+INFO - 2017-11-30 05:58:50 --> URI Class Initialized
+INFO - 2017-11-30 05:58:50 --> Router Class Initialized
+INFO - 2017-11-30 05:58:50 --> Output Class Initialized
+INFO - 2017-11-30 05:58:50 --> Security Class Initialized
+DEBUG - 2017-11-30 05:58:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 05:58:50 --> Input Class Initialized
+INFO - 2017-11-30 05:58:50 --> Language Class Initialized
+INFO - 2017-11-30 05:58:50 --> Language Class Initialized
+INFO - 2017-11-30 05:58:50 --> Config Class Initialized
+INFO - 2017-11-30 05:58:50 --> Loader Class Initialized
+INFO - 2017-11-30 05:58:50 --> Helper loaded: url_helper
+INFO - 2017-11-30 05:58:50 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 05:58:50 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 05:58:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 05:58:50 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 05:58:50 --> User Agent Class Initialized
+DEBUG - 2017-11-30 05:58:50 --> Template class Initialized
+INFO - 2017-11-30 05:58:50 --> Model Class Initialized
+INFO - 2017-11-30 05:58:50 --> Controller Class Initialized
+DEBUG - 2017-11-30 05:58:50 --> Buyer MX_Controller Initialized
+DEBUG - 2017-11-30 05:58:50 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/buyer/models/Buyer_model.php
+INFO - 2017-11-30 05:58:50 --> Model Class Initialized
+DEBUG - 2017-11-30 05:58:50 --> Pagination Class Initialized
+DEBUG - 2017-11-30 05:58:50 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/buyer/views/all_buyer_listing.php
+INFO - 2017-11-30 05:58:50 --> Final output sent to browser
+DEBUG - 2017-11-30 05:58:50 --> Total execution time: 0.0352
+INFO - 2017-11-30 05:59:54 --> Config Class Initialized
+INFO - 2017-11-30 05:59:54 --> Hooks Class Initialized
+DEBUG - 2017-11-30 05:59:54 --> UTF-8 Support Enabled
+INFO - 2017-11-30 05:59:54 --> Utf8 Class Initialized
+INFO - 2017-11-30 05:59:54 --> URI Class Initialized
+INFO - 2017-11-30 05:59:54 --> Router Class Initialized
+INFO - 2017-11-30 05:59:54 --> Output Class Initialized
+INFO - 2017-11-30 05:59:54 --> Security Class Initialized
+DEBUG - 2017-11-30 05:59:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 05:59:54 --> Input Class Initialized
+INFO - 2017-11-30 05:59:54 --> Language Class Initialized
+INFO - 2017-11-30 05:59:54 --> Language Class Initialized
+INFO - 2017-11-30 05:59:54 --> Config Class Initialized
+INFO - 2017-11-30 05:59:54 --> Loader Class Initialized
+INFO - 2017-11-30 05:59:54 --> Helper loaded: url_helper
+INFO - 2017-11-30 05:59:54 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 05:59:54 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 05:59:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 05:59:54 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 05:59:54 --> User Agent Class Initialized
+DEBUG - 2017-11-30 05:59:54 --> Template class Initialized
+INFO - 2017-11-30 05:59:54 --> Model Class Initialized
+INFO - 2017-11-30 05:59:54 --> Controller Class Initialized
+DEBUG - 2017-11-30 05:59:54 --> Dashboard MX_Controller Initialized
+DEBUG - 2017-11-30 05:59:54 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/dashboard/models/Admin_model.php
+INFO - 2017-11-30 05:59:54 --> Model Class Initialized
+INFO - 2017-11-30 05:59:54 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 05:59:54 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/dashboard/views/dashboard.php
+DEBUG - 2017-11-30 05:59:54 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/admin/index.php
+INFO - 2017-11-30 05:59:54 --> Final output sent to browser
+DEBUG - 2017-11-30 05:59:54 --> Total execution time: 0.0435
+INFO - 2017-11-30 06:01:00 --> Config Class Initialized
+INFO - 2017-11-30 06:01:00 --> Hooks Class Initialized
+DEBUG - 2017-11-30 06:01:00 --> UTF-8 Support Enabled
+INFO - 2017-11-30 06:01:00 --> Utf8 Class Initialized
+INFO - 2017-11-30 06:01:00 --> URI Class Initialized
+INFO - 2017-11-30 06:01:00 --> Router Class Initialized
+INFO - 2017-11-30 06:01:00 --> Output Class Initialized
+INFO - 2017-11-30 06:01:00 --> Security Class Initialized
+DEBUG - 2017-11-30 06:01:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 06:01:00 --> Input Class Initialized
+INFO - 2017-11-30 06:01:00 --> Language Class Initialized
+INFO - 2017-11-30 06:01:00 --> Language Class Initialized
+INFO - 2017-11-30 06:01:00 --> Config Class Initialized
+INFO - 2017-11-30 06:01:00 --> Loader Class Initialized
+INFO - 2017-11-30 06:01:00 --> Helper loaded: url_helper
+INFO - 2017-11-30 06:01:00 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 06:01:00 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 06:01:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 06:01:00 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 06:01:00 --> User Agent Class Initialized
+DEBUG - 2017-11-30 06:01:00 --> Template class Initialized
+INFO - 2017-11-30 06:01:00 --> Model Class Initialized
+INFO - 2017-11-30 06:01:00 --> Controller Class Initialized
+DEBUG - 2017-11-30 06:01:00 --> Seller MX_Controller Initialized
+DEBUG - 2017-11-30 06:01:00 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/seller/models/Seller_model.php
+INFO - 2017-11-30 06:01:00 --> Model Class Initialized
+INFO - 2017-11-30 06:01:00 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 06:01:00 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/seller/views/all_seller.php
+DEBUG - 2017-11-30 06:01:00 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/admin/index.php
+INFO - 2017-11-30 06:01:00 --> Final output sent to browser
+DEBUG - 2017-11-30 06:01:00 --> Total execution time: 0.0277
+INFO - 2017-11-30 06:01:01 --> Config Class Initialized
+INFO - 2017-11-30 06:01:01 --> Hooks Class Initialized
+DEBUG - 2017-11-30 06:01:01 --> UTF-8 Support Enabled
+INFO - 2017-11-30 06:01:01 --> Utf8 Class Initialized
+INFO - 2017-11-30 06:01:01 --> URI Class Initialized
+INFO - 2017-11-30 06:01:01 --> Router Class Initialized
+INFO - 2017-11-30 06:01:01 --> Output Class Initialized
+INFO - 2017-11-30 06:01:01 --> Security Class Initialized
+DEBUG - 2017-11-30 06:01:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 06:01:01 --> Input Class Initialized
+INFO - 2017-11-30 06:01:01 --> Language Class Initialized
+INFO - 2017-11-30 06:01:01 --> Language Class Initialized
+INFO - 2017-11-30 06:01:01 --> Config Class Initialized
+INFO - 2017-11-30 06:01:01 --> Loader Class Initialized
+INFO - 2017-11-30 06:01:01 --> Helper loaded: url_helper
+INFO - 2017-11-30 06:01:01 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 06:01:01 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 06:01:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 06:01:01 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 06:01:01 --> User Agent Class Initialized
+DEBUG - 2017-11-30 06:01:01 --> Template class Initialized
+INFO - 2017-11-30 06:01:01 --> Model Class Initialized
+INFO - 2017-11-30 06:01:01 --> Controller Class Initialized
+DEBUG - 2017-11-30 06:01:01 --> Seller MX_Controller Initialized
+DEBUG - 2017-11-30 06:01:01 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/seller/models/Seller_model.php
+INFO - 2017-11-30 06:01:01 --> Model Class Initialized
+DEBUG - 2017-11-30 06:01:01 --> Pagination Class Initialized
+DEBUG - 2017-11-30 06:01:01 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/seller/views/all_seller_listing.php
+INFO - 2017-11-30 06:01:01 --> Final output sent to browser
+DEBUG - 2017-11-30 06:01:01 --> Total execution time: 0.0422
+INFO - 2017-11-30 06:01:09 --> Config Class Initialized
+INFO - 2017-11-30 06:01:09 --> Hooks Class Initialized
+DEBUG - 2017-11-30 06:01:09 --> UTF-8 Support Enabled
+INFO - 2017-11-30 06:01:09 --> Utf8 Class Initialized
+INFO - 2017-11-30 06:01:09 --> URI Class Initialized
+INFO - 2017-11-30 06:01:09 --> Router Class Initialized
+INFO - 2017-11-30 06:01:09 --> Output Class Initialized
+INFO - 2017-11-30 06:01:09 --> Security Class Initialized
+DEBUG - 2017-11-30 06:01:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 06:01:09 --> Input Class Initialized
+INFO - 2017-11-30 06:01:09 --> Language Class Initialized
+INFO - 2017-11-30 06:01:09 --> Language Class Initialized
+INFO - 2017-11-30 06:01:09 --> Config Class Initialized
+INFO - 2017-11-30 06:01:09 --> Loader Class Initialized
+INFO - 2017-11-30 06:01:09 --> Helper loaded: url_helper
+INFO - 2017-11-30 06:01:09 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 06:01:09 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 06:01:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 06:01:09 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 06:01:09 --> User Agent Class Initialized
+DEBUG - 2017-11-30 06:01:09 --> Template class Initialized
+INFO - 2017-11-30 06:01:09 --> Model Class Initialized
+INFO - 2017-11-30 06:01:09 --> Controller Class Initialized
+DEBUG - 2017-11-30 06:01:09 --> Dashboard MX_Controller Initialized
+DEBUG - 2017-11-30 06:01:09 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/dashboard/models/Admin_model.php
+INFO - 2017-11-30 06:01:09 --> Model Class Initialized
+INFO - 2017-11-30 06:01:09 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 06:01:09 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/dashboard/views/dashboard.php
+DEBUG - 2017-11-30 06:01:09 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/admin/index.php
+INFO - 2017-11-30 06:01:09 --> Final output sent to browser
+DEBUG - 2017-11-30 06:01:09 --> Total execution time: 0.0467
+INFO - 2017-11-30 06:01:16 --> Config Class Initialized
+INFO - 2017-11-30 06:01:16 --> Hooks Class Initialized
+DEBUG - 2017-11-30 06:01:16 --> UTF-8 Support Enabled
+INFO - 2017-11-30 06:01:16 --> Utf8 Class Initialized
+INFO - 2017-11-30 06:01:16 --> URI Class Initialized
+INFO - 2017-11-30 06:01:16 --> Router Class Initialized
+INFO - 2017-11-30 06:01:16 --> Output Class Initialized
+INFO - 2017-11-30 06:01:16 --> Security Class Initialized
+DEBUG - 2017-11-30 06:01:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 06:01:16 --> Input Class Initialized
+INFO - 2017-11-30 06:01:16 --> Language Class Initialized
+INFO - 2017-11-30 06:01:16 --> Language Class Initialized
+INFO - 2017-11-30 06:01:16 --> Config Class Initialized
+INFO - 2017-11-30 06:01:16 --> Loader Class Initialized
+INFO - 2017-11-30 06:01:16 --> Helper loaded: url_helper
+INFO - 2017-11-30 06:01:16 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 06:01:16 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 06:01:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 06:01:16 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 06:01:16 --> User Agent Class Initialized
+DEBUG - 2017-11-30 06:01:16 --> Template class Initialized
+INFO - 2017-11-30 06:01:16 --> Model Class Initialized
+INFO - 2017-11-30 06:01:16 --> Controller Class Initialized
+DEBUG - 2017-11-30 06:01:16 --> Dashboard MX_Controller Initialized
+DEBUG - 2017-11-30 06:01:16 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/dashboard/models/Admin_model.php
+INFO - 2017-11-30 06:01:16 --> Model Class Initialized
+INFO - 2017-11-30 06:01:16 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 06:01:16 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/dashboard/views/dashboard.php
+DEBUG - 2017-11-30 06:01:16 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/admin/index.php
+INFO - 2017-11-30 06:01:16 --> Final output sent to browser
+DEBUG - 2017-11-30 06:01:16 --> Total execution time: 0.0304
+INFO - 2017-11-30 06:02:01 --> Config Class Initialized
+INFO - 2017-11-30 06:02:01 --> Hooks Class Initialized
+DEBUG - 2017-11-30 06:02:01 --> UTF-8 Support Enabled
+INFO - 2017-11-30 06:02:01 --> Utf8 Class Initialized
+INFO - 2017-11-30 06:02:01 --> URI Class Initialized
+INFO - 2017-11-30 06:02:01 --> Router Class Initialized
+INFO - 2017-11-30 06:02:01 --> Output Class Initialized
+INFO - 2017-11-30 06:02:01 --> Security Class Initialized
+DEBUG - 2017-11-30 06:02:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 06:02:01 --> Input Class Initialized
+INFO - 2017-11-30 06:02:01 --> Language Class Initialized
+INFO - 2017-11-30 06:02:01 --> Language Class Initialized
+INFO - 2017-11-30 06:02:01 --> Config Class Initialized
+INFO - 2017-11-30 06:02:01 --> Loader Class Initialized
+INFO - 2017-11-30 06:02:01 --> Helper loaded: url_helper
+INFO - 2017-11-30 06:02:01 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 06:02:01 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 06:02:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 06:02:01 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 06:02:01 --> User Agent Class Initialized
+DEBUG - 2017-11-30 06:02:01 --> Template class Initialized
+INFO - 2017-11-30 06:02:01 --> Model Class Initialized
+INFO - 2017-11-30 06:02:01 --> Controller Class Initialized
+DEBUG - 2017-11-30 06:02:01 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/models/User_model.php
+INFO - 2017-11-30 06:02:01 --> Model Class Initialized
+INFO - 2017-11-30 06:02:01 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 06:02:01 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/views/mortgage_broker.php
+DEBUG - 2017-11-30 06:02:01 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/front/index.php
+INFO - 2017-11-30 06:02:01 --> Final output sent to browser
+DEBUG - 2017-11-30 06:02:01 --> Total execution time: 0.0280
+INFO - 2017-11-30 06:02:48 --> Config Class Initialized
+INFO - 2017-11-30 06:02:48 --> Hooks Class Initialized
+DEBUG - 2017-11-30 06:02:48 --> UTF-8 Support Enabled
+INFO - 2017-11-30 06:02:48 --> Utf8 Class Initialized
+INFO - 2017-11-30 06:02:48 --> URI Class Initialized
+DEBUG - 2017-11-30 06:02:48 --> No URI present. Default controller set.
+INFO - 2017-11-30 06:02:48 --> Router Class Initialized
+INFO - 2017-11-30 06:02:48 --> Output Class Initialized
+INFO - 2017-11-30 06:02:48 --> Security Class Initialized
+DEBUG - 2017-11-30 06:02:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 06:02:48 --> Input Class Initialized
+INFO - 2017-11-30 06:02:48 --> Language Class Initialized
+INFO - 2017-11-30 06:02:48 --> Language Class Initialized
+INFO - 2017-11-30 06:02:48 --> Config Class Initialized
+INFO - 2017-11-30 06:02:48 --> Loader Class Initialized
+INFO - 2017-11-30 06:02:48 --> Helper loaded: url_helper
+INFO - 2017-11-30 06:02:48 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 06:02:48 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 06:02:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 06:02:48 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 06:02:48 --> User Agent Class Initialized
+DEBUG - 2017-11-30 06:02:48 --> Template class Initialized
+INFO - 2017-11-30 06:02:48 --> Model Class Initialized
+INFO - 2017-11-30 06:02:48 --> Controller Class Initialized
+DEBUG - 2017-11-30 06:02:48 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/models/User_model.php
+INFO - 2017-11-30 06:02:48 --> Model Class Initialized
+INFO - 2017-11-30 06:02:48 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 06:02:48 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/views/home.php
+DEBUG - 2017-11-30 06:02:48 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/front/index.php
+INFO - 2017-11-30 06:02:48 --> Final output sent to browser
+DEBUG - 2017-11-30 06:02:48 --> Total execution time: 0.0317
+INFO - 2017-11-30 06:03:22 --> Config Class Initialized
+INFO - 2017-11-30 06:03:22 --> Hooks Class Initialized
+DEBUG - 2017-11-30 06:03:22 --> UTF-8 Support Enabled
+INFO - 2017-11-30 06:03:22 --> Utf8 Class Initialized
+INFO - 2017-11-30 06:03:22 --> URI Class Initialized
+INFO - 2017-11-30 06:03:22 --> Router Class Initialized
+INFO - 2017-11-30 06:03:22 --> Output Class Initialized
+INFO - 2017-11-30 06:03:22 --> Security Class Initialized
+DEBUG - 2017-11-30 06:03:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 06:03:22 --> Input Class Initialized
+INFO - 2017-11-30 06:03:22 --> Language Class Initialized
+INFO - 2017-11-30 06:03:22 --> Language Class Initialized
+INFO - 2017-11-30 06:03:22 --> Config Class Initialized
+INFO - 2017-11-30 06:03:22 --> Loader Class Initialized
+INFO - 2017-11-30 06:03:22 --> Helper loaded: url_helper
+INFO - 2017-11-30 06:03:22 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 06:03:22 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 06:03:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 06:03:22 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 06:03:22 --> User Agent Class Initialized
+DEBUG - 2017-11-30 06:03:22 --> Template class Initialized
+INFO - 2017-11-30 06:03:22 --> Model Class Initialized
+INFO - 2017-11-30 06:03:22 --> Controller Class Initialized
+DEBUG - 2017-11-30 06:03:22 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/models/User_model.php
+INFO - 2017-11-30 06:03:22 --> Model Class Initialized
+INFO - 2017-11-30 06:03:22 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 06:03:22 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/views/mortgage_broker.php
+DEBUG - 2017-11-30 06:03:22 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/front/index.php
+INFO - 2017-11-30 06:03:22 --> Final output sent to browser
+DEBUG - 2017-11-30 06:03:22 --> Total execution time: 0.0565
+INFO - 2017-11-30 06:04:33 --> Config Class Initialized
+INFO - 2017-11-30 06:04:33 --> Hooks Class Initialized
+DEBUG - 2017-11-30 06:04:33 --> UTF-8 Support Enabled
+INFO - 2017-11-30 06:04:33 --> Utf8 Class Initialized
+INFO - 2017-11-30 06:04:33 --> URI Class Initialized
+DEBUG - 2017-11-30 06:04:33 --> No URI present. Default controller set.
+INFO - 2017-11-30 06:04:33 --> Router Class Initialized
+INFO - 2017-11-30 06:04:33 --> Output Class Initialized
+INFO - 2017-11-30 06:04:33 --> Security Class Initialized
+DEBUG - 2017-11-30 06:04:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 06:04:33 --> Input Class Initialized
+INFO - 2017-11-30 06:04:33 --> Language Class Initialized
+INFO - 2017-11-30 06:04:33 --> Language Class Initialized
+INFO - 2017-11-30 06:04:33 --> Config Class Initialized
+INFO - 2017-11-30 06:04:33 --> Loader Class Initialized
+INFO - 2017-11-30 06:04:33 --> Helper loaded: url_helper
+INFO - 2017-11-30 06:04:33 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 06:04:33 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 06:04:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 06:04:33 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 06:04:33 --> User Agent Class Initialized
+DEBUG - 2017-11-30 06:04:33 --> Template class Initialized
+INFO - 2017-11-30 06:04:33 --> Model Class Initialized
+INFO - 2017-11-30 06:04:33 --> Controller Class Initialized
+DEBUG - 2017-11-30 06:04:33 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/models/User_model.php
+INFO - 2017-11-30 06:04:33 --> Model Class Initialized
+INFO - 2017-11-30 06:04:33 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 06:04:33 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/views/home.php
+DEBUG - 2017-11-30 06:04:33 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/front/index.php
+INFO - 2017-11-30 06:04:33 --> Final output sent to browser
+DEBUG - 2017-11-30 06:04:33 --> Total execution time: 0.0290
+INFO - 2017-11-30 06:04:45 --> Config Class Initialized
+INFO - 2017-11-30 06:04:45 --> Hooks Class Initialized
+DEBUG - 2017-11-30 06:04:45 --> UTF-8 Support Enabled
+INFO - 2017-11-30 06:04:45 --> Utf8 Class Initialized
+INFO - 2017-11-30 06:04:45 --> URI Class Initialized
+INFO - 2017-11-30 06:04:45 --> Router Class Initialized
+INFO - 2017-11-30 06:04:45 --> Output Class Initialized
+INFO - 2017-11-30 06:04:45 --> Security Class Initialized
+DEBUG - 2017-11-30 06:04:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 06:04:45 --> Input Class Initialized
+INFO - 2017-11-30 06:04:45 --> Language Class Initialized
+INFO - 2017-11-30 06:04:45 --> Language Class Initialized
+INFO - 2017-11-30 06:04:45 --> Config Class Initialized
+INFO - 2017-11-30 06:04:45 --> Loader Class Initialized
+INFO - 2017-11-30 06:04:45 --> Helper loaded: url_helper
+INFO - 2017-11-30 06:04:45 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 06:04:45 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 06:04:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 06:04:45 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 06:04:45 --> User Agent Class Initialized
+DEBUG - 2017-11-30 06:04:45 --> Template class Initialized
+INFO - 2017-11-30 06:04:45 --> Model Class Initialized
+INFO - 2017-11-30 06:04:45 --> Controller Class Initialized
+DEBUG - 2017-11-30 06:04:45 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/login/models/Login_model.php
+INFO - 2017-11-30 06:04:45 --> Model Class Initialized
+INFO - 2017-11-30 06:04:45 --> Helper loaded: form_helper
+INFO - 2017-11-30 06:04:45 --> Form Validation Class Initialized
+DEBUG - 2017-11-30 06:04:45 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/login/views/login.php
+INFO - 2017-11-30 06:04:45 --> Final output sent to browser
+DEBUG - 2017-11-30 06:04:45 --> Total execution time: 0.0329
+INFO - 2017-11-30 06:04:56 --> Config Class Initialized
+INFO - 2017-11-30 06:04:56 --> Hooks Class Initialized
+DEBUG - 2017-11-30 06:04:56 --> UTF-8 Support Enabled
+INFO - 2017-11-30 06:04:56 --> Utf8 Class Initialized
+INFO - 2017-11-30 06:04:56 --> URI Class Initialized
+INFO - 2017-11-30 06:04:56 --> Router Class Initialized
+INFO - 2017-11-30 06:04:56 --> Output Class Initialized
+INFO - 2017-11-30 06:04:56 --> Security Class Initialized
+DEBUG - 2017-11-30 06:04:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 06:04:56 --> Input Class Initialized
+INFO - 2017-11-30 06:04:56 --> Language Class Initialized
+INFO - 2017-11-30 06:04:56 --> Language Class Initialized
+INFO - 2017-11-30 06:04:56 --> Config Class Initialized
+INFO - 2017-11-30 06:04:56 --> Loader Class Initialized
+INFO - 2017-11-30 06:04:56 --> Helper loaded: url_helper
+INFO - 2017-11-30 06:04:56 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 06:04:56 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 06:04:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 06:04:56 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 06:04:56 --> User Agent Class Initialized
+DEBUG - 2017-11-30 06:04:56 --> Template class Initialized
+INFO - 2017-11-30 06:04:56 --> Model Class Initialized
+INFO - 2017-11-30 06:04:56 --> Controller Class Initialized
+DEBUG - 2017-11-30 06:04:56 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/login/models/Login_model.php
+INFO - 2017-11-30 06:04:56 --> Model Class Initialized
+INFO - 2017-11-30 06:04:56 --> Helper loaded: form_helper
+INFO - 2017-11-30 06:04:56 --> Form Validation Class Initialized
+INFO - 2017-11-30 06:04:56 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2017-11-30 06:04:56 --> Encrypt Class Initialized
+INFO - 2017-11-30 06:04:56 --> Config Class Initialized
+INFO - 2017-11-30 06:04:56 --> Hooks Class Initialized
+DEBUG - 2017-11-30 06:04:56 --> UTF-8 Support Enabled
+INFO - 2017-11-30 06:04:56 --> Utf8 Class Initialized
+INFO - 2017-11-30 06:04:56 --> URI Class Initialized
+INFO - 2017-11-30 06:04:56 --> Router Class Initialized
+INFO - 2017-11-30 06:04:56 --> Output Class Initialized
+INFO - 2017-11-30 06:04:56 --> Security Class Initialized
+DEBUG - 2017-11-30 06:04:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 06:04:56 --> Input Class Initialized
+INFO - 2017-11-30 06:04:56 --> Language Class Initialized
+INFO - 2017-11-30 06:04:56 --> Language Class Initialized
+INFO - 2017-11-30 06:04:56 --> Config Class Initialized
+INFO - 2017-11-30 06:04:56 --> Loader Class Initialized
+INFO - 2017-11-30 06:04:56 --> Helper loaded: url_helper
+INFO - 2017-11-30 06:04:56 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 06:04:56 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 06:04:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 06:04:56 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 06:04:56 --> User Agent Class Initialized
+DEBUG - 2017-11-30 06:04:56 --> Template class Initialized
+INFO - 2017-11-30 06:04:56 --> Model Class Initialized
+INFO - 2017-11-30 06:04:56 --> Controller Class Initialized
+DEBUG - 2017-11-30 06:04:56 --> Dashboard MX_Controller Initialized
+DEBUG - 2017-11-30 06:04:56 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/dashboard/models/Admin_model.php
+INFO - 2017-11-30 06:04:56 --> Model Class Initialized
+INFO - 2017-11-30 06:04:56 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 06:04:56 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/dashboard/views/dashboard.php
+DEBUG - 2017-11-30 06:04:56 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/admin/index.php
+INFO - 2017-11-30 06:04:56 --> Final output sent to browser
+DEBUG - 2017-11-30 06:04:56 --> Total execution time: 0.0478
+INFO - 2017-11-30 06:05:03 --> Config Class Initialized
+INFO - 2017-11-30 06:05:03 --> Hooks Class Initialized
+DEBUG - 2017-11-30 06:05:03 --> UTF-8 Support Enabled
+INFO - 2017-11-30 06:05:03 --> Utf8 Class Initialized
+INFO - 2017-11-30 06:05:03 --> URI Class Initialized
+INFO - 2017-11-30 06:05:03 --> Router Class Initialized
+INFO - 2017-11-30 06:05:03 --> Output Class Initialized
+INFO - 2017-11-30 06:05:03 --> Security Class Initialized
+DEBUG - 2017-11-30 06:05:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 06:05:03 --> Input Class Initialized
+INFO - 2017-11-30 06:05:03 --> Language Class Initialized
+INFO - 2017-11-30 06:05:03 --> Language Class Initialized
+INFO - 2017-11-30 06:05:03 --> Config Class Initialized
+INFO - 2017-11-30 06:05:03 --> Loader Class Initialized
+INFO - 2017-11-30 06:05:03 --> Helper loaded: url_helper
+INFO - 2017-11-30 06:05:03 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 06:05:03 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 06:05:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 06:05:03 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 06:05:03 --> User Agent Class Initialized
+DEBUG - 2017-11-30 06:05:03 --> Template class Initialized
+INFO - 2017-11-30 06:05:03 --> Model Class Initialized
+INFO - 2017-11-30 06:05:03 --> Controller Class Initialized
+DEBUG - 2017-11-30 06:05:03 --> Buyer MX_Controller Initialized
+DEBUG - 2017-11-30 06:05:03 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/buyer/models/Buyer_model.php
+INFO - 2017-11-30 06:05:03 --> Model Class Initialized
+INFO - 2017-11-30 06:05:03 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 06:05:03 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/buyer/views/all_buyer.php
+DEBUG - 2017-11-30 06:05:03 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/admin/index.php
+INFO - 2017-11-30 06:05:03 --> Final output sent to browser
+DEBUG - 2017-11-30 06:05:03 --> Total execution time: 0.0409
+INFO - 2017-11-30 06:05:03 --> Config Class Initialized
+INFO - 2017-11-30 06:05:03 --> Hooks Class Initialized
+DEBUG - 2017-11-30 06:05:03 --> UTF-8 Support Enabled
+INFO - 2017-11-30 06:05:03 --> Utf8 Class Initialized
+INFO - 2017-11-30 06:05:03 --> URI Class Initialized
+INFO - 2017-11-30 06:05:03 --> Router Class Initialized
+INFO - 2017-11-30 06:05:03 --> Output Class Initialized
+INFO - 2017-11-30 06:05:03 --> Security Class Initialized
+DEBUG - 2017-11-30 06:05:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 06:05:03 --> Input Class Initialized
+INFO - 2017-11-30 06:05:03 --> Language Class Initialized
+INFO - 2017-11-30 06:05:03 --> Language Class Initialized
+INFO - 2017-11-30 06:05:03 --> Config Class Initialized
+INFO - 2017-11-30 06:05:03 --> Loader Class Initialized
+INFO - 2017-11-30 06:05:03 --> Helper loaded: url_helper
+INFO - 2017-11-30 06:05:03 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 06:05:03 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 06:05:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 06:05:03 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 06:05:03 --> User Agent Class Initialized
+DEBUG - 2017-11-30 06:05:03 --> Template class Initialized
+INFO - 2017-11-30 06:05:03 --> Model Class Initialized
+INFO - 2017-11-30 06:05:03 --> Controller Class Initialized
+DEBUG - 2017-11-30 06:05:03 --> Buyer MX_Controller Initialized
+DEBUG - 2017-11-30 06:05:03 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/buyer/models/Buyer_model.php
+INFO - 2017-11-30 06:05:03 --> Model Class Initialized
+DEBUG - 2017-11-30 06:05:03 --> Pagination Class Initialized
+DEBUG - 2017-11-30 06:05:03 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/buyer/views/all_buyer_listing.php
+INFO - 2017-11-30 06:05:03 --> Final output sent to browser
+DEBUG - 2017-11-30 06:05:03 --> Total execution time: 0.0488
+INFO - 2017-11-30 06:05:06 --> Config Class Initialized
+INFO - 2017-11-30 06:05:06 --> Hooks Class Initialized
+DEBUG - 2017-11-30 06:05:06 --> UTF-8 Support Enabled
+INFO - 2017-11-30 06:05:06 --> Utf8 Class Initialized
+INFO - 2017-11-30 06:05:06 --> URI Class Initialized
+INFO - 2017-11-30 06:05:06 --> Router Class Initialized
+INFO - 2017-11-30 06:05:06 --> Output Class Initialized
+INFO - 2017-11-30 06:05:06 --> Security Class Initialized
+DEBUG - 2017-11-30 06:05:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 06:05:06 --> Input Class Initialized
+INFO - 2017-11-30 06:05:06 --> Language Class Initialized
+INFO - 2017-11-30 06:05:06 --> Language Class Initialized
+INFO - 2017-11-30 06:05:06 --> Config Class Initialized
+INFO - 2017-11-30 06:05:06 --> Loader Class Initialized
+INFO - 2017-11-30 06:05:06 --> Helper loaded: url_helper
+INFO - 2017-11-30 06:05:06 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 06:05:06 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 06:05:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 06:05:06 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 06:05:06 --> User Agent Class Initialized
+DEBUG - 2017-11-30 06:05:06 --> Template class Initialized
+INFO - 2017-11-30 06:05:06 --> Model Class Initialized
+INFO - 2017-11-30 06:05:06 --> Controller Class Initialized
+DEBUG - 2017-11-30 06:05:06 --> Seller MX_Controller Initialized
+DEBUG - 2017-11-30 06:05:06 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/seller/models/Seller_model.php
+INFO - 2017-11-30 06:05:06 --> Model Class Initialized
+INFO - 2017-11-30 06:05:06 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 06:05:06 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/seller/views/all_seller.php
+DEBUG - 2017-11-30 06:05:06 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/admin/index.php
+INFO - 2017-11-30 06:05:06 --> Final output sent to browser
+DEBUG - 2017-11-30 06:05:06 --> Total execution time: 0.0300
+INFO - 2017-11-30 06:05:06 --> Config Class Initialized
+INFO - 2017-11-30 06:05:06 --> Hooks Class Initialized
+DEBUG - 2017-11-30 06:05:06 --> UTF-8 Support Enabled
+INFO - 2017-11-30 06:05:06 --> Utf8 Class Initialized
+INFO - 2017-11-30 06:05:06 --> URI Class Initialized
+INFO - 2017-11-30 06:05:06 --> Router Class Initialized
+INFO - 2017-11-30 06:05:06 --> Output Class Initialized
+INFO - 2017-11-30 06:05:06 --> Security Class Initialized
+DEBUG - 2017-11-30 06:05:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 06:05:06 --> Input Class Initialized
+INFO - 2017-11-30 06:05:06 --> Language Class Initialized
+INFO - 2017-11-30 06:05:06 --> Language Class Initialized
+INFO - 2017-11-30 06:05:06 --> Config Class Initialized
+INFO - 2017-11-30 06:05:06 --> Loader Class Initialized
+INFO - 2017-11-30 06:05:06 --> Helper loaded: url_helper
+INFO - 2017-11-30 06:05:06 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 06:05:06 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 06:05:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 06:05:06 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 06:05:06 --> User Agent Class Initialized
+DEBUG - 2017-11-30 06:05:06 --> Template class Initialized
+INFO - 2017-11-30 06:05:06 --> Model Class Initialized
+INFO - 2017-11-30 06:05:06 --> Controller Class Initialized
+DEBUG - 2017-11-30 06:05:06 --> Seller MX_Controller Initialized
+DEBUG - 2017-11-30 06:05:06 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/seller/models/Seller_model.php
+INFO - 2017-11-30 06:05:06 --> Model Class Initialized
+DEBUG - 2017-11-30 06:05:06 --> Pagination Class Initialized
+DEBUG - 2017-11-30 06:05:06 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/seller/views/all_seller_listing.php
+INFO - 2017-11-30 06:05:06 --> Final output sent to browser
+DEBUG - 2017-11-30 06:05:06 --> Total execution time: 0.0303
+INFO - 2017-11-30 06:05:12 --> Config Class Initialized
+INFO - 2017-11-30 06:05:12 --> Hooks Class Initialized
+DEBUG - 2017-11-30 06:05:12 --> UTF-8 Support Enabled
+INFO - 2017-11-30 06:05:12 --> Utf8 Class Initialized
+INFO - 2017-11-30 06:05:12 --> URI Class Initialized
+INFO - 2017-11-30 06:05:12 --> Router Class Initialized
+INFO - 2017-11-30 06:05:12 --> Output Class Initialized
+INFO - 2017-11-30 06:05:12 --> Security Class Initialized
+DEBUG - 2017-11-30 06:05:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 06:05:12 --> Input Class Initialized
+INFO - 2017-11-30 06:05:12 --> Language Class Initialized
+INFO - 2017-11-30 06:05:12 --> Language Class Initialized
+INFO - 2017-11-30 06:05:12 --> Config Class Initialized
+INFO - 2017-11-30 06:05:12 --> Loader Class Initialized
+INFO - 2017-11-30 06:05:12 --> Helper loaded: url_helper
+INFO - 2017-11-30 06:05:12 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 06:05:12 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 06:05:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 06:05:12 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 06:05:13 --> User Agent Class Initialized
+DEBUG - 2017-11-30 06:05:13 --> Template class Initialized
+INFO - 2017-11-30 06:05:13 --> Model Class Initialized
+INFO - 2017-11-30 06:05:13 --> Controller Class Initialized
+DEBUG - 2017-11-30 06:05:13 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/models/User_model.php
+INFO - 2017-11-30 06:05:13 --> Model Class Initialized
+INFO - 2017-11-30 06:05:13 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 06:05:13 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/views/mortgage_broker.php
+DEBUG - 2017-11-30 06:05:13 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/front/index.php
+INFO - 2017-11-30 06:05:13 --> Final output sent to browser
+DEBUG - 2017-11-30 06:05:13 --> Total execution time: 0.0418
+INFO - 2017-11-30 06:07:10 --> Config Class Initialized
+INFO - 2017-11-30 06:07:10 --> Hooks Class Initialized
+DEBUG - 2017-11-30 06:07:10 --> UTF-8 Support Enabled
+INFO - 2017-11-30 06:07:10 --> Utf8 Class Initialized
+INFO - 2017-11-30 06:07:10 --> URI Class Initialized
+DEBUG - 2017-11-30 06:07:10 --> No URI present. Default controller set.
+INFO - 2017-11-30 06:07:10 --> Router Class Initialized
+INFO - 2017-11-30 06:07:10 --> Output Class Initialized
+INFO - 2017-11-30 06:07:10 --> Security Class Initialized
+DEBUG - 2017-11-30 06:07:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 06:07:10 --> Input Class Initialized
+INFO - 2017-11-30 06:07:10 --> Language Class Initialized
+INFO - 2017-11-30 06:07:10 --> Language Class Initialized
+INFO - 2017-11-30 06:07:10 --> Config Class Initialized
+INFO - 2017-11-30 06:07:10 --> Loader Class Initialized
+INFO - 2017-11-30 06:07:10 --> Helper loaded: url_helper
+INFO - 2017-11-30 06:07:10 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 06:07:10 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 06:07:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 06:07:10 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 06:07:10 --> User Agent Class Initialized
+DEBUG - 2017-11-30 06:07:10 --> Template class Initialized
+INFO - 2017-11-30 06:07:10 --> Model Class Initialized
+INFO - 2017-11-30 06:07:10 --> Controller Class Initialized
+DEBUG - 2017-11-30 06:07:10 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/models/User_model.php
+INFO - 2017-11-30 06:07:10 --> Model Class Initialized
+INFO - 2017-11-30 06:07:10 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 06:07:10 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/views/home.php
+DEBUG - 2017-11-30 06:07:10 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/front/index.php
+INFO - 2017-11-30 06:07:10 --> Final output sent to browser
+DEBUG - 2017-11-30 06:07:10 --> Total execution time: 0.0297
+INFO - 2017-11-30 06:07:13 --> Config Class Initialized
+INFO - 2017-11-30 06:07:13 --> Hooks Class Initialized
+DEBUG - 2017-11-30 06:07:13 --> UTF-8 Support Enabled
+INFO - 2017-11-30 06:07:13 --> Utf8 Class Initialized
+INFO - 2017-11-30 06:07:13 --> URI Class Initialized
+INFO - 2017-11-30 06:07:13 --> Router Class Initialized
+INFO - 2017-11-30 06:07:13 --> Output Class Initialized
+INFO - 2017-11-30 06:07:13 --> Security Class Initialized
+DEBUG - 2017-11-30 06:07:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 06:07:13 --> Input Class Initialized
+INFO - 2017-11-30 06:07:13 --> Language Class Initialized
+INFO - 2017-11-30 06:07:13 --> Language Class Initialized
+INFO - 2017-11-30 06:07:13 --> Config Class Initialized
+INFO - 2017-11-30 06:07:13 --> Loader Class Initialized
+INFO - 2017-11-30 06:07:13 --> Helper loaded: url_helper
+INFO - 2017-11-30 06:07:13 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 06:07:13 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 06:07:13 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 06:07:13 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 06:07:13 --> User Agent Class Initialized
+DEBUG - 2017-11-30 06:07:13 --> Template class Initialized
+INFO - 2017-11-30 06:07:13 --> Model Class Initialized
+INFO - 2017-11-30 06:07:13 --> Controller Class Initialized
+DEBUG - 2017-11-30 06:07:13 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/models/User_model.php
+INFO - 2017-11-30 06:07:13 --> Model Class Initialized
+INFO - 2017-11-30 06:07:13 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 06:07:13 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/views/mortgage_broker.php
+DEBUG - 2017-11-30 06:07:13 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/front/index.php
+INFO - 2017-11-30 06:07:13 --> Final output sent to browser
+DEBUG - 2017-11-30 06:07:13 --> Total execution time: 0.0276
+INFO - 2017-11-30 06:08:17 --> Config Class Initialized
+INFO - 2017-11-30 06:08:17 --> Hooks Class Initialized
+DEBUG - 2017-11-30 06:08:17 --> UTF-8 Support Enabled
+INFO - 2017-11-30 06:08:17 --> Utf8 Class Initialized
+INFO - 2017-11-30 06:08:17 --> URI Class Initialized
+DEBUG - 2017-11-30 06:08:17 --> No URI present. Default controller set.
+INFO - 2017-11-30 06:08:17 --> Router Class Initialized
+INFO - 2017-11-30 06:08:17 --> Output Class Initialized
+INFO - 2017-11-30 06:08:17 --> Security Class Initialized
+DEBUG - 2017-11-30 06:08:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 06:08:17 --> Input Class Initialized
+INFO - 2017-11-30 06:08:17 --> Language Class Initialized
+INFO - 2017-11-30 06:08:17 --> Language Class Initialized
+INFO - 2017-11-30 06:08:17 --> Config Class Initialized
+INFO - 2017-11-30 06:08:17 --> Loader Class Initialized
+INFO - 2017-11-30 06:08:17 --> Helper loaded: url_helper
+INFO - 2017-11-30 06:08:17 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 06:08:17 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 06:08:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 06:08:17 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 06:08:17 --> User Agent Class Initialized
+DEBUG - 2017-11-30 06:08:17 --> Template class Initialized
+INFO - 2017-11-30 06:08:17 --> Model Class Initialized
+INFO - 2017-11-30 06:08:17 --> Controller Class Initialized
+DEBUG - 2017-11-30 06:08:17 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/models/User_model.php
+INFO - 2017-11-30 06:08:17 --> Model Class Initialized
+INFO - 2017-11-30 06:08:17 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 06:08:17 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/views/home.php
+DEBUG - 2017-11-30 06:08:17 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/front/index.php
+INFO - 2017-11-30 06:08:17 --> Final output sent to browser
+DEBUG - 2017-11-30 06:08:17 --> Total execution time: 0.0286
+INFO - 2017-11-30 06:08:17 --> Config Class Initialized
+INFO - 2017-11-30 06:08:17 --> Hooks Class Initialized
+DEBUG - 2017-11-30 06:08:17 --> UTF-8 Support Enabled
+INFO - 2017-11-30 06:08:17 --> Utf8 Class Initialized
+INFO - 2017-11-30 06:08:17 --> URI Class Initialized
+INFO - 2017-11-30 06:08:17 --> Router Class Initialized
+INFO - 2017-11-30 06:08:17 --> Output Class Initialized
+INFO - 2017-11-30 06:08:17 --> Security Class Initialized
+DEBUG - 2017-11-30 06:08:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 06:08:17 --> Input Class Initialized
+INFO - 2017-11-30 06:08:17 --> Language Class Initialized
+INFO - 2017-11-30 06:08:17 --> Language Class Initialized
+INFO - 2017-11-30 06:08:17 --> Config Class Initialized
+INFO - 2017-11-30 06:08:17 --> Loader Class Initialized
+INFO - 2017-11-30 06:08:17 --> Helper loaded: url_helper
+INFO - 2017-11-30 06:08:17 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 06:08:17 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 06:08:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 06:08:17 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 06:08:17 --> User Agent Class Initialized
+DEBUG - 2017-11-30 06:08:17 --> Template class Initialized
+INFO - 2017-11-30 06:08:17 --> Model Class Initialized
+INFO - 2017-11-30 06:08:17 --> Controller Class Initialized
+DEBUG - 2017-11-30 06:08:17 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/models/User_model.php
+INFO - 2017-11-30 06:08:17 --> Model Class Initialized
+INFO - 2017-11-30 06:08:17 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 06:08:17 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/views/mortgage_broker.php
+DEBUG - 2017-11-30 06:08:17 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/front/index.php
+INFO - 2017-11-30 06:08:17 --> Final output sent to browser
+DEBUG - 2017-11-30 06:08:17 --> Total execution time: 0.0449
+INFO - 2017-11-30 06:08:18 --> Config Class Initialized
+INFO - 2017-11-30 06:08:18 --> Hooks Class Initialized
+DEBUG - 2017-11-30 06:08:18 --> UTF-8 Support Enabled
+INFO - 2017-11-30 06:08:18 --> Utf8 Class Initialized
+INFO - 2017-11-30 06:08:18 --> URI Class Initialized
+INFO - 2017-11-30 06:08:18 --> Router Class Initialized
+INFO - 2017-11-30 06:08:18 --> Output Class Initialized
+INFO - 2017-11-30 06:08:18 --> Security Class Initialized
+DEBUG - 2017-11-30 06:08:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 06:08:18 --> Input Class Initialized
+INFO - 2017-11-30 06:08:18 --> Language Class Initialized
+INFO - 2017-11-30 06:08:18 --> Language Class Initialized
+INFO - 2017-11-30 06:08:18 --> Config Class Initialized
+INFO - 2017-11-30 06:08:18 --> Loader Class Initialized
+INFO - 2017-11-30 06:08:18 --> Helper loaded: url_helper
+INFO - 2017-11-30 06:08:18 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 06:08:18 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 06:08:18 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 06:08:18 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 06:08:18 --> User Agent Class Initialized
+DEBUG - 2017-11-30 06:08:18 --> Template class Initialized
+INFO - 2017-11-30 06:08:18 --> Model Class Initialized
+INFO - 2017-11-30 06:08:18 --> Controller Class Initialized
+DEBUG - 2017-11-30 06:08:18 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/models/User_model.php
+INFO - 2017-11-30 06:08:18 --> Model Class Initialized
+INFO - 2017-11-30 06:08:18 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 06:08:18 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/views/mortgage_broker.php
+DEBUG - 2017-11-30 06:08:18 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/front/index.php
+INFO - 2017-11-30 06:08:18 --> Final output sent to browser
+DEBUG - 2017-11-30 06:08:18 --> Total execution time: 0.0412
+INFO - 2017-11-30 06:08:23 --> Config Class Initialized
+INFO - 2017-11-30 06:08:23 --> Hooks Class Initialized
+DEBUG - 2017-11-30 06:08:23 --> UTF-8 Support Enabled
+INFO - 2017-11-30 06:08:23 --> Utf8 Class Initialized
+INFO - 2017-11-30 06:08:23 --> URI Class Initialized
+DEBUG - 2017-11-30 06:08:23 --> No URI present. Default controller set.
+INFO - 2017-11-30 06:08:23 --> Router Class Initialized
+INFO - 2017-11-30 06:08:23 --> Output Class Initialized
+INFO - 2017-11-30 06:08:23 --> Security Class Initialized
+DEBUG - 2017-11-30 06:08:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 06:08:23 --> Input Class Initialized
+INFO - 2017-11-30 06:08:23 --> Language Class Initialized
+INFO - 2017-11-30 06:08:23 --> Language Class Initialized
+INFO - 2017-11-30 06:08:23 --> Config Class Initialized
+INFO - 2017-11-30 06:08:23 --> Loader Class Initialized
+INFO - 2017-11-30 06:08:23 --> Helper loaded: url_helper
+INFO - 2017-11-30 06:08:23 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 06:08:23 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 06:08:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 06:08:23 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 06:08:23 --> User Agent Class Initialized
+DEBUG - 2017-11-30 06:08:23 --> Template class Initialized
+INFO - 2017-11-30 06:08:23 --> Model Class Initialized
+INFO - 2017-11-30 06:08:23 --> Controller Class Initialized
+DEBUG - 2017-11-30 06:08:23 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/models/User_model.php
+INFO - 2017-11-30 06:08:23 --> Model Class Initialized
+INFO - 2017-11-30 06:08:23 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 06:08:23 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/views/home.php
+DEBUG - 2017-11-30 06:08:23 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/front/index.php
+INFO - 2017-11-30 06:08:23 --> Final output sent to browser
+DEBUG - 2017-11-30 06:08:23 --> Total execution time: 0.0403
+INFO - 2017-11-30 06:08:23 --> Config Class Initialized
+INFO - 2017-11-30 06:08:23 --> Hooks Class Initialized
+DEBUG - 2017-11-30 06:08:23 --> UTF-8 Support Enabled
+INFO - 2017-11-30 06:08:23 --> Utf8 Class Initialized
+INFO - 2017-11-30 06:08:23 --> URI Class Initialized
+INFO - 2017-11-30 06:08:23 --> Router Class Initialized
+INFO - 2017-11-30 06:08:23 --> Output Class Initialized
+INFO - 2017-11-30 06:08:23 --> Security Class Initialized
+DEBUG - 2017-11-30 06:08:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 06:08:23 --> Input Class Initialized
+INFO - 2017-11-30 06:08:23 --> Language Class Initialized
+INFO - 2017-11-30 06:08:23 --> Language Class Initialized
+INFO - 2017-11-30 06:08:23 --> Config Class Initialized
+INFO - 2017-11-30 06:08:23 --> Loader Class Initialized
+INFO - 2017-11-30 06:08:23 --> Helper loaded: url_helper
+INFO - 2017-11-30 06:08:23 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 06:08:23 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 06:08:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 06:08:23 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 06:08:23 --> User Agent Class Initialized
+DEBUG - 2017-11-30 06:08:23 --> Template class Initialized
+INFO - 2017-11-30 06:08:23 --> Model Class Initialized
+INFO - 2017-11-30 06:08:23 --> Controller Class Initialized
+DEBUG - 2017-11-30 06:08:23 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/models/User_model.php
+INFO - 2017-11-30 06:08:23 --> Model Class Initialized
+INFO - 2017-11-30 06:08:23 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 06:08:23 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/views/mortgage_broker.php
+DEBUG - 2017-11-30 06:08:23 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/front/index.php
+INFO - 2017-11-30 06:08:23 --> Final output sent to browser
+DEBUG - 2017-11-30 06:08:23 --> Total execution time: 0.0293
+INFO - 2017-11-30 06:10:29 --> Config Class Initialized
+INFO - 2017-11-30 06:10:29 --> Hooks Class Initialized
+DEBUG - 2017-11-30 06:10:29 --> UTF-8 Support Enabled
+INFO - 2017-11-30 06:10:29 --> Utf8 Class Initialized
+INFO - 2017-11-30 06:10:29 --> URI Class Initialized
+DEBUG - 2017-11-30 06:10:29 --> No URI present. Default controller set.
+INFO - 2017-11-30 06:10:29 --> Router Class Initialized
+INFO - 2017-11-30 06:10:29 --> Output Class Initialized
+INFO - 2017-11-30 06:10:29 --> Security Class Initialized
+DEBUG - 2017-11-30 06:10:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 06:10:29 --> Input Class Initialized
+INFO - 2017-11-30 06:10:29 --> Language Class Initialized
+INFO - 2017-11-30 06:10:29 --> Language Class Initialized
+INFO - 2017-11-30 06:10:29 --> Config Class Initialized
+INFO - 2017-11-30 06:10:29 --> Loader Class Initialized
+INFO - 2017-11-30 06:10:29 --> Helper loaded: url_helper
+INFO - 2017-11-30 06:10:29 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 06:10:29 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 06:10:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 06:10:29 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 06:10:29 --> User Agent Class Initialized
+DEBUG - 2017-11-30 06:10:29 --> Template class Initialized
+INFO - 2017-11-30 06:10:29 --> Model Class Initialized
+INFO - 2017-11-30 06:10:29 --> Controller Class Initialized
+DEBUG - 2017-11-30 06:10:29 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/models/User_model.php
+INFO - 2017-11-30 06:10:29 --> Model Class Initialized
+INFO - 2017-11-30 06:10:29 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 06:10:29 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/views/home.php
+DEBUG - 2017-11-30 06:10:29 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/front/index.php
+INFO - 2017-11-30 06:10:29 --> Final output sent to browser
+DEBUG - 2017-11-30 06:10:29 --> Total execution time: 0.0333
+INFO - 2017-11-30 06:10:45 --> Config Class Initialized
+INFO - 2017-11-30 06:10:45 --> Hooks Class Initialized
+DEBUG - 2017-11-30 06:10:45 --> UTF-8 Support Enabled
+INFO - 2017-11-30 06:10:45 --> Utf8 Class Initialized
+INFO - 2017-11-30 06:10:45 --> URI Class Initialized
+DEBUG - 2017-11-30 06:10:45 --> No URI present. Default controller set.
+INFO - 2017-11-30 06:10:45 --> Router Class Initialized
+INFO - 2017-11-30 06:10:45 --> Output Class Initialized
+INFO - 2017-11-30 06:10:45 --> Security Class Initialized
+DEBUG - 2017-11-30 06:10:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 06:10:45 --> Input Class Initialized
+INFO - 2017-11-30 06:10:45 --> Language Class Initialized
+INFO - 2017-11-30 06:10:45 --> Language Class Initialized
+INFO - 2017-11-30 06:10:45 --> Config Class Initialized
+INFO - 2017-11-30 06:10:45 --> Loader Class Initialized
+INFO - 2017-11-30 06:10:45 --> Helper loaded: url_helper
+INFO - 2017-11-30 06:10:45 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 06:10:45 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 06:10:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 06:10:45 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 06:10:45 --> User Agent Class Initialized
+DEBUG - 2017-11-30 06:10:45 --> Template class Initialized
+INFO - 2017-11-30 06:10:45 --> Model Class Initialized
+INFO - 2017-11-30 06:10:45 --> Controller Class Initialized
+DEBUG - 2017-11-30 06:10:45 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/models/User_model.php
+INFO - 2017-11-30 06:10:45 --> Model Class Initialized
+INFO - 2017-11-30 06:10:45 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 06:10:45 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/views/home.php
+DEBUG - 2017-11-30 06:10:45 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/front/index.php
+INFO - 2017-11-30 06:10:45 --> Final output sent to browser
+DEBUG - 2017-11-30 06:10:45 --> Total execution time: 0.0286
+INFO - 2017-11-30 06:24:50 --> Config Class Initialized
+INFO - 2017-11-30 06:24:50 --> Hooks Class Initialized
+DEBUG - 2017-11-30 06:24:50 --> UTF-8 Support Enabled
+INFO - 2017-11-30 06:24:50 --> Utf8 Class Initialized
+INFO - 2017-11-30 06:24:50 --> URI Class Initialized
+DEBUG - 2017-11-30 06:24:50 --> No URI present. Default controller set.
+INFO - 2017-11-30 06:24:50 --> Router Class Initialized
+INFO - 2017-11-30 06:24:50 --> Output Class Initialized
+INFO - 2017-11-30 06:24:50 --> Security Class Initialized
+DEBUG - 2017-11-30 06:24:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 06:24:50 --> Input Class Initialized
+INFO - 2017-11-30 06:24:50 --> Language Class Initialized
+INFO - 2017-11-30 06:24:50 --> Language Class Initialized
+INFO - 2017-11-30 06:24:50 --> Config Class Initialized
+INFO - 2017-11-30 06:24:50 --> Loader Class Initialized
+INFO - 2017-11-30 06:24:50 --> Helper loaded: url_helper
+INFO - 2017-11-30 06:24:50 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 06:24:50 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 06:24:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 06:24:50 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 06:24:50 --> User Agent Class Initialized
+DEBUG - 2017-11-30 06:24:50 --> Template class Initialized
+INFO - 2017-11-30 06:24:50 --> Model Class Initialized
+INFO - 2017-11-30 06:24:50 --> Controller Class Initialized
+DEBUG - 2017-11-30 06:24:50 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/models/User_model.php
+INFO - 2017-11-30 06:24:50 --> Model Class Initialized
+INFO - 2017-11-30 06:24:50 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 06:24:50 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/views/home.php
+DEBUG - 2017-11-30 06:24:50 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/front/index.php
+INFO - 2017-11-30 06:24:50 --> Final output sent to browser
+DEBUG - 2017-11-30 06:24:50 --> Total execution time: 0.0279
+INFO - 2017-11-30 06:28:51 --> Config Class Initialized
+INFO - 2017-11-30 06:28:51 --> Hooks Class Initialized
+DEBUG - 2017-11-30 06:28:51 --> UTF-8 Support Enabled
+INFO - 2017-11-30 06:28:51 --> Utf8 Class Initialized
+INFO - 2017-11-30 06:28:51 --> URI Class Initialized
+DEBUG - 2017-11-30 06:28:51 --> No URI present. Default controller set.
+INFO - 2017-11-30 06:28:51 --> Router Class Initialized
+INFO - 2017-11-30 06:28:51 --> Output Class Initialized
+INFO - 2017-11-30 06:28:51 --> Security Class Initialized
+DEBUG - 2017-11-30 06:28:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 06:28:51 --> Input Class Initialized
+INFO - 2017-11-30 06:28:51 --> Language Class Initialized
+INFO - 2017-11-30 06:28:51 --> Language Class Initialized
+INFO - 2017-11-30 06:28:51 --> Config Class Initialized
+INFO - 2017-11-30 06:28:51 --> Loader Class Initialized
+INFO - 2017-11-30 06:28:51 --> Helper loaded: url_helper
+INFO - 2017-11-30 06:28:51 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 06:28:51 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 06:28:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 06:28:51 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 06:28:51 --> User Agent Class Initialized
+DEBUG - 2017-11-30 06:28:51 --> Template class Initialized
+INFO - 2017-11-30 06:28:51 --> Model Class Initialized
+INFO - 2017-11-30 06:28:51 --> Controller Class Initialized
+DEBUG - 2017-11-30 06:28:51 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/models/User_model.php
+INFO - 2017-11-30 06:28:51 --> Model Class Initialized
+INFO - 2017-11-30 06:28:51 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 06:28:51 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/views/home.php
+DEBUG - 2017-11-30 06:28:51 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/front/index.php
+INFO - 2017-11-30 06:28:51 --> Final output sent to browser
+DEBUG - 2017-11-30 06:28:51 --> Total execution time: 0.0281
+INFO - 2017-11-30 06:57:12 --> Config Class Initialized
+INFO - 2017-11-30 06:57:12 --> Hooks Class Initialized
+DEBUG - 2017-11-30 06:57:12 --> UTF-8 Support Enabled
+INFO - 2017-11-30 06:57:12 --> Utf8 Class Initialized
+INFO - 2017-11-30 06:57:12 --> URI Class Initialized
+DEBUG - 2017-11-30 06:57:12 --> No URI present. Default controller set.
+INFO - 2017-11-30 06:57:12 --> Router Class Initialized
+INFO - 2017-11-30 06:57:12 --> Output Class Initialized
+INFO - 2017-11-30 06:57:12 --> Security Class Initialized
+DEBUG - 2017-11-30 06:57:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 06:57:12 --> Input Class Initialized
+INFO - 2017-11-30 06:57:12 --> Language Class Initialized
+INFO - 2017-11-30 06:57:12 --> Language Class Initialized
+INFO - 2017-11-30 06:57:12 --> Config Class Initialized
+INFO - 2017-11-30 06:57:12 --> Loader Class Initialized
+INFO - 2017-11-30 06:57:12 --> Helper loaded: url_helper
+INFO - 2017-11-30 06:57:12 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 06:57:12 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 06:57:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 06:57:12 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 06:57:12 --> User Agent Class Initialized
+DEBUG - 2017-11-30 06:57:12 --> Template class Initialized
+INFO - 2017-11-30 06:57:12 --> Model Class Initialized
+INFO - 2017-11-30 06:57:12 --> Controller Class Initialized
+DEBUG - 2017-11-30 06:57:12 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/models/User_model.php
+INFO - 2017-11-30 06:57:12 --> Model Class Initialized
+INFO - 2017-11-30 06:57:12 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 06:57:12 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/views/home.php
+DEBUG - 2017-11-30 06:57:12 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/front/index.php
+INFO - 2017-11-30 06:57:12 --> Final output sent to browser
+DEBUG - 2017-11-30 06:57:12 --> Total execution time: 0.0311
+INFO - 2017-11-30 07:02:38 --> Config Class Initialized
+INFO - 2017-11-30 07:02:38 --> Hooks Class Initialized
+DEBUG - 2017-11-30 07:02:38 --> UTF-8 Support Enabled
+INFO - 2017-11-30 07:02:38 --> Utf8 Class Initialized
+INFO - 2017-11-30 07:02:38 --> URI Class Initialized
+INFO - 2017-11-30 07:02:38 --> Router Class Initialized
+INFO - 2017-11-30 07:02:38 --> Output Class Initialized
+INFO - 2017-11-30 07:02:38 --> Security Class Initialized
+DEBUG - 2017-11-30 07:02:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 07:02:38 --> Input Class Initialized
+INFO - 2017-11-30 07:02:38 --> Language Class Initialized
+INFO - 2017-11-30 07:02:38 --> Language Class Initialized
+INFO - 2017-11-30 07:02:38 --> Config Class Initialized
+INFO - 2017-11-30 07:02:38 --> Loader Class Initialized
+INFO - 2017-11-30 07:02:38 --> Helper loaded: url_helper
+INFO - 2017-11-30 07:02:38 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 07:02:38 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 07:02:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 07:02:38 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 07:02:38 --> User Agent Class Initialized
+DEBUG - 2017-11-30 07:02:38 --> Template class Initialized
+INFO - 2017-11-30 07:02:38 --> Model Class Initialized
+INFO - 2017-11-30 07:02:38 --> Controller Class Initialized
+DEBUG - 2017-11-30 07:02:38 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/models/User_model.php
+INFO - 2017-11-30 07:02:38 --> Model Class Initialized
+INFO - 2017-11-30 07:02:38 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 07:02:38 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/views/mortgage_broker.php
+DEBUG - 2017-11-30 07:02:38 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/front/index.php
+INFO - 2017-11-30 07:02:38 --> Final output sent to browser
+DEBUG - 2017-11-30 07:02:38 --> Total execution time: 0.0282
+INFO - 2017-11-30 08:34:40 --> Config Class Initialized
+INFO - 2017-11-30 08:34:40 --> Hooks Class Initialized
+DEBUG - 2017-11-30 08:34:40 --> UTF-8 Support Enabled
+INFO - 2017-11-30 08:34:40 --> Utf8 Class Initialized
+INFO - 2017-11-30 08:34:40 --> URI Class Initialized
+INFO - 2017-11-30 08:34:40 --> Router Class Initialized
+INFO - 2017-11-30 08:34:40 --> Output Class Initialized
+INFO - 2017-11-30 08:34:40 --> Security Class Initialized
+DEBUG - 2017-11-30 08:34:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 08:34:40 --> Input Class Initialized
+INFO - 2017-11-30 08:34:40 --> Language Class Initialized
+INFO - 2017-11-30 08:34:40 --> Language Class Initialized
+INFO - 2017-11-30 08:34:40 --> Config Class Initialized
+INFO - 2017-11-30 08:34:40 --> Loader Class Initialized
+INFO - 2017-11-30 08:34:40 --> Helper loaded: url_helper
+INFO - 2017-11-30 08:34:40 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 08:34:40 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 08:34:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 08:34:40 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 08:34:41 --> User Agent Class Initialized
+DEBUG - 2017-11-30 08:34:41 --> Template class Initialized
+INFO - 2017-11-30 08:34:41 --> Model Class Initialized
+INFO - 2017-11-30 08:34:41 --> Controller Class Initialized
+DEBUG - 2017-11-30 08:34:41 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/login/models/User_model.php
+INFO - 2017-11-30 08:34:41 --> Model Class Initialized
+INFO - 2017-11-30 08:34:41 --> Helper loaded: form_helper
+INFO - 2017-11-30 08:34:41 --> Form Validation Class Initialized
+INFO - 2017-11-30 08:34:41 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 08:34:41 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/login/views/login.php
+DEBUG - 2017-11-30 08:34:41 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/front/index.php
+INFO - 2017-11-30 08:34:41 --> Final output sent to browser
+DEBUG - 2017-11-30 08:34:41 --> Total execution time: 0.0982
+INFO - 2017-11-30 08:34:45 --> Config Class Initialized
+INFO - 2017-11-30 08:34:45 --> Hooks Class Initialized
+DEBUG - 2017-11-30 08:34:45 --> UTF-8 Support Enabled
+INFO - 2017-11-30 08:34:45 --> Utf8 Class Initialized
+INFO - 2017-11-30 08:34:45 --> URI Class Initialized
+INFO - 2017-11-30 08:34:45 --> Router Class Initialized
+INFO - 2017-11-30 08:34:45 --> Output Class Initialized
+INFO - 2017-11-30 08:34:45 --> Security Class Initialized
+DEBUG - 2017-11-30 08:34:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 08:34:45 --> Input Class Initialized
+INFO - 2017-11-30 08:34:45 --> Language Class Initialized
+INFO - 2017-11-30 08:34:45 --> Language Class Initialized
+INFO - 2017-11-30 08:34:45 --> Config Class Initialized
+INFO - 2017-11-30 08:34:45 --> Loader Class Initialized
+INFO - 2017-11-30 08:34:45 --> Helper loaded: url_helper
+INFO - 2017-11-30 08:34:45 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 08:34:45 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 08:34:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 08:34:45 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 08:34:45 --> User Agent Class Initialized
+DEBUG - 2017-11-30 08:34:45 --> Template class Initialized
+INFO - 2017-11-30 08:34:45 --> Model Class Initialized
+INFO - 2017-11-30 08:34:45 --> Controller Class Initialized
+DEBUG - 2017-11-30 08:34:45 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/login/models/User_model.php
+INFO - 2017-11-30 08:34:45 --> Model Class Initialized
+INFO - 2017-11-30 08:34:45 --> Helper loaded: form_helper
+INFO - 2017-11-30 08:34:45 --> Form Validation Class Initialized
+INFO - 2017-11-30 08:34:45 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 08:34:45 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/login/views/register.php
+DEBUG - 2017-11-30 08:34:45 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/front/index.php
+INFO - 2017-11-30 08:34:45 --> Final output sent to browser
+DEBUG - 2017-11-30 08:34:45 --> Total execution time: 0.0319
+INFO - 2017-11-30 08:34:45 --> Config Class Initialized
+INFO - 2017-11-30 08:34:45 --> Hooks Class Initialized
+DEBUG - 2017-11-30 08:34:45 --> UTF-8 Support Enabled
+INFO - 2017-11-30 08:34:45 --> Utf8 Class Initialized
+INFO - 2017-11-30 08:34:45 --> URI Class Initialized
+INFO - 2017-11-30 08:34:45 --> Router Class Initialized
+INFO - 2017-11-30 08:34:45 --> Output Class Initialized
+INFO - 2017-11-30 08:34:45 --> Security Class Initialized
+DEBUG - 2017-11-30 08:34:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 08:34:45 --> Input Class Initialized
+INFO - 2017-11-30 08:34:45 --> Language Class Initialized
+INFO - 2017-11-30 08:34:45 --> Language Class Initialized
+INFO - 2017-11-30 08:34:45 --> Config Class Initialized
+INFO - 2017-11-30 08:34:45 --> Loader Class Initialized
+INFO - 2017-11-30 08:34:45 --> Helper loaded: url_helper
+INFO - 2017-11-30 08:34:45 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 08:34:45 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 08:34:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 08:34:45 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 08:34:45 --> User Agent Class Initialized
+DEBUG - 2017-11-30 08:34:45 --> Template class Initialized
+INFO - 2017-11-30 08:34:45 --> Model Class Initialized
+INFO - 2017-11-30 08:34:45 --> Controller Class Initialized
+DEBUG - 2017-11-30 08:34:45 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/login/models/User_model.php
+INFO - 2017-11-30 08:34:45 --> Model Class Initialized
+INFO - 2017-11-30 08:34:45 --> Final output sent to browser
+DEBUG - 2017-11-30 08:34:45 --> Total execution time: 0.0679
+INFO - 2017-11-30 08:57:29 --> Config Class Initialized
+INFO - 2017-11-30 08:57:29 --> Hooks Class Initialized
+DEBUG - 2017-11-30 08:57:30 --> UTF-8 Support Enabled
+INFO - 2017-11-30 08:57:30 --> Utf8 Class Initialized
+INFO - 2017-11-30 08:57:30 --> URI Class Initialized
+INFO - 2017-11-30 08:57:30 --> Router Class Initialized
+INFO - 2017-11-30 08:57:30 --> Output Class Initialized
+INFO - 2017-11-30 08:57:30 --> Security Class Initialized
+DEBUG - 2017-11-30 08:57:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 08:57:30 --> Input Class Initialized
+INFO - 2017-11-30 08:57:30 --> Language Class Initialized
+INFO - 2017-11-30 08:57:30 --> Language Class Initialized
+INFO - 2017-11-30 08:57:30 --> Config Class Initialized
+INFO - 2017-11-30 08:57:30 --> Loader Class Initialized
+INFO - 2017-11-30 08:57:30 --> Helper loaded: url_helper
+INFO - 2017-11-30 08:57:30 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 08:57:30 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 08:57:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 08:57:30 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 08:57:30 --> User Agent Class Initialized
+DEBUG - 2017-11-30 08:57:30 --> Template class Initialized
+INFO - 2017-11-30 08:57:30 --> Model Class Initialized
+INFO - 2017-11-30 08:57:30 --> Controller Class Initialized
+DEBUG - 2017-11-30 08:57:30 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/login/models/Login_model.php
+INFO - 2017-11-30 08:57:30 --> Model Class Initialized
+INFO - 2017-11-30 08:57:30 --> Helper loaded: form_helper
+INFO - 2017-11-30 08:57:30 --> Form Validation Class Initialized
+DEBUG - 2017-11-30 08:57:30 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/login/views/login.php
+INFO - 2017-11-30 08:57:30 --> Final output sent to browser
+DEBUG - 2017-11-30 08:57:30 --> Total execution time: 0.0628
+INFO - 2017-11-30 08:57:35 --> Config Class Initialized
+INFO - 2017-11-30 08:57:35 --> Hooks Class Initialized
+DEBUG - 2017-11-30 08:57:35 --> UTF-8 Support Enabled
+INFO - 2017-11-30 08:57:35 --> Utf8 Class Initialized
+INFO - 2017-11-30 08:57:35 --> URI Class Initialized
+INFO - 2017-11-30 08:57:35 --> Router Class Initialized
+INFO - 2017-11-30 08:57:35 --> Output Class Initialized
+INFO - 2017-11-30 08:57:35 --> Security Class Initialized
+DEBUG - 2017-11-30 08:57:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 08:57:35 --> Input Class Initialized
+INFO - 2017-11-30 08:57:35 --> Language Class Initialized
+INFO - 2017-11-30 08:57:35 --> Language Class Initialized
+INFO - 2017-11-30 08:57:35 --> Config Class Initialized
+INFO - 2017-11-30 08:57:35 --> Loader Class Initialized
+INFO - 2017-11-30 08:57:35 --> Helper loaded: url_helper
+INFO - 2017-11-30 08:57:35 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 08:57:35 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 08:57:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 08:57:35 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 08:57:35 --> User Agent Class Initialized
+DEBUG - 2017-11-30 08:57:35 --> Template class Initialized
+INFO - 2017-11-30 08:57:35 --> Model Class Initialized
+INFO - 2017-11-30 08:57:35 --> Controller Class Initialized
+DEBUG - 2017-11-30 08:57:35 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/login/models/Login_model.php
+INFO - 2017-11-30 08:57:35 --> Model Class Initialized
+INFO - 2017-11-30 08:57:35 --> Helper loaded: form_helper
+INFO - 2017-11-30 08:57:35 --> Form Validation Class Initialized
+INFO - 2017-11-30 08:57:35 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2017-11-30 08:57:35 --> Encrypt Class Initialized
+INFO - 2017-11-30 08:57:35 --> Config Class Initialized
+INFO - 2017-11-30 08:57:35 --> Hooks Class Initialized
+DEBUG - 2017-11-30 08:57:35 --> UTF-8 Support Enabled
+INFO - 2017-11-30 08:57:35 --> Utf8 Class Initialized
+INFO - 2017-11-30 08:57:35 --> URI Class Initialized
+INFO - 2017-11-30 08:57:35 --> Router Class Initialized
+INFO - 2017-11-30 08:57:35 --> Output Class Initialized
+INFO - 2017-11-30 08:57:35 --> Security Class Initialized
+DEBUG - 2017-11-30 08:57:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 08:57:35 --> Input Class Initialized
+INFO - 2017-11-30 08:57:35 --> Language Class Initialized
+INFO - 2017-11-30 08:57:35 --> Language Class Initialized
+INFO - 2017-11-30 08:57:35 --> Config Class Initialized
+INFO - 2017-11-30 08:57:35 --> Loader Class Initialized
+INFO - 2017-11-30 08:57:35 --> Helper loaded: url_helper
+INFO - 2017-11-30 08:57:35 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 08:57:35 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 08:57:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 08:57:35 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 08:57:35 --> User Agent Class Initialized
+DEBUG - 2017-11-30 08:57:35 --> Template class Initialized
+INFO - 2017-11-30 08:57:35 --> Model Class Initialized
+INFO - 2017-11-30 08:57:35 --> Controller Class Initialized
+DEBUG - 2017-11-30 08:57:35 --> Dashboard MX_Controller Initialized
+DEBUG - 2017-11-30 08:57:35 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/dashboard/models/Admin_model.php
+INFO - 2017-11-30 08:57:35 --> Model Class Initialized
+INFO - 2017-11-30 08:57:35 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 08:57:35 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/dashboard/views/dashboard.php
+DEBUG - 2017-11-30 08:57:35 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/admin/index.php
+INFO - 2017-11-30 08:57:35 --> Final output sent to browser
+DEBUG - 2017-11-30 08:57:35 --> Total execution time: 0.0727
+INFO - 2017-11-30 08:57:39 --> Config Class Initialized
+INFO - 2017-11-30 08:57:39 --> Hooks Class Initialized
+DEBUG - 2017-11-30 08:57:39 --> UTF-8 Support Enabled
+INFO - 2017-11-30 08:57:39 --> Utf8 Class Initialized
+INFO - 2017-11-30 08:57:39 --> URI Class Initialized
+INFO - 2017-11-30 08:57:39 --> Router Class Initialized
+INFO - 2017-11-30 08:57:39 --> Output Class Initialized
+INFO - 2017-11-30 08:57:39 --> Security Class Initialized
+DEBUG - 2017-11-30 08:57:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 08:57:39 --> Input Class Initialized
+INFO - 2017-11-30 08:57:39 --> Language Class Initialized
+INFO - 2017-11-30 08:57:39 --> Language Class Initialized
+INFO - 2017-11-30 08:57:39 --> Config Class Initialized
+INFO - 2017-11-30 08:57:39 --> Loader Class Initialized
+INFO - 2017-11-30 08:57:39 --> Helper loaded: url_helper
+INFO - 2017-11-30 08:57:39 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 08:57:39 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 08:57:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 08:57:39 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 08:57:39 --> User Agent Class Initialized
+DEBUG - 2017-11-30 08:57:39 --> Template class Initialized
+INFO - 2017-11-30 08:57:39 --> Model Class Initialized
+INFO - 2017-11-30 08:57:39 --> Controller Class Initialized
+DEBUG - 2017-11-30 08:57:39 --> Seller MX_Controller Initialized
+DEBUG - 2017-11-30 08:57:39 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/seller/models/Seller_model.php
+INFO - 2017-11-30 08:57:39 --> Model Class Initialized
+INFO - 2017-11-30 08:57:39 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 08:57:39 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/seller/views/all_seller.php
+DEBUG - 2017-11-30 08:57:39 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/admin/index.php
+INFO - 2017-11-30 08:57:39 --> Final output sent to browser
+DEBUG - 2017-11-30 08:57:39 --> Total execution time: 0.0656
+INFO - 2017-11-30 08:57:39 --> Config Class Initialized
+INFO - 2017-11-30 08:57:39 --> Hooks Class Initialized
+DEBUG - 2017-11-30 08:57:39 --> UTF-8 Support Enabled
+INFO - 2017-11-30 08:57:39 --> Utf8 Class Initialized
+INFO - 2017-11-30 08:57:39 --> URI Class Initialized
+INFO - 2017-11-30 08:57:39 --> Router Class Initialized
+INFO - 2017-11-30 08:57:39 --> Output Class Initialized
+INFO - 2017-11-30 08:57:39 --> Security Class Initialized
+DEBUG - 2017-11-30 08:57:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 08:57:39 --> Input Class Initialized
+INFO - 2017-11-30 08:57:39 --> Language Class Initialized
+INFO - 2017-11-30 08:57:39 --> Language Class Initialized
+INFO - 2017-11-30 08:57:39 --> Config Class Initialized
+INFO - 2017-11-30 08:57:39 --> Loader Class Initialized
+INFO - 2017-11-30 08:57:39 --> Helper loaded: url_helper
+INFO - 2017-11-30 08:57:39 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 08:57:39 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 08:57:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 08:57:39 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 08:57:39 --> User Agent Class Initialized
+DEBUG - 2017-11-30 08:57:39 --> Template class Initialized
+INFO - 2017-11-30 08:57:39 --> Model Class Initialized
+INFO - 2017-11-30 08:57:39 --> Controller Class Initialized
+DEBUG - 2017-11-30 08:57:39 --> Seller MX_Controller Initialized
+DEBUG - 2017-11-30 08:57:39 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/seller/models/Seller_model.php
+INFO - 2017-11-30 08:57:39 --> Model Class Initialized
+DEBUG - 2017-11-30 08:57:39 --> Pagination Class Initialized
+DEBUG - 2017-11-30 08:57:39 --> File loaded: /home/minditzc/public_html/bidHome/application/back-modules/seller/views/all_seller_listing.php
+INFO - 2017-11-30 08:57:39 --> Final output sent to browser
+DEBUG - 2017-11-30 08:57:39 --> Total execution time: 0.0595
+INFO - 2017-11-30 12:42:55 --> Config Class Initialized
+INFO - 2017-11-30 12:42:55 --> Hooks Class Initialized
+DEBUG - 2017-11-30 12:42:55 --> UTF-8 Support Enabled
+INFO - 2017-11-30 12:42:55 --> Utf8 Class Initialized
+INFO - 2017-11-30 12:42:55 --> URI Class Initialized
+DEBUG - 2017-11-30 12:42:55 --> No URI present. Default controller set.
+INFO - 2017-11-30 12:42:55 --> Router Class Initialized
+INFO - 2017-11-30 12:42:55 --> Output Class Initialized
+INFO - 2017-11-30 12:42:55 --> Security Class Initialized
+DEBUG - 2017-11-30 12:42:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 12:42:55 --> Input Class Initialized
+INFO - 2017-11-30 12:42:55 --> Language Class Initialized
+INFO - 2017-11-30 12:42:55 --> Language Class Initialized
+INFO - 2017-11-30 12:42:55 --> Config Class Initialized
+INFO - 2017-11-30 12:42:55 --> Loader Class Initialized
+INFO - 2017-11-30 12:42:55 --> Helper loaded: url_helper
+INFO - 2017-11-30 12:42:55 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 12:42:55 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 12:42:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 12:42:55 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 12:42:55 --> User Agent Class Initialized
+DEBUG - 2017-11-30 12:42:55 --> Template class Initialized
+INFO - 2017-11-30 12:42:55 --> Model Class Initialized
+INFO - 2017-11-30 12:42:55 --> Controller Class Initialized
+DEBUG - 2017-11-30 12:42:55 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/models/User_model.php
+INFO - 2017-11-30 12:42:55 --> Model Class Initialized
+INFO - 2017-11-30 12:42:55 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 12:42:55 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/views/home.php
+DEBUG - 2017-11-30 12:42:55 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/front/index.php
+INFO - 2017-11-30 12:42:55 --> Final output sent to browser
+DEBUG - 2017-11-30 12:42:55 --> Total execution time: 0.1556
+INFO - 2017-11-30 12:47:57 --> Config Class Initialized
+INFO - 2017-11-30 12:47:57 --> Hooks Class Initialized
+DEBUG - 2017-11-30 12:47:57 --> UTF-8 Support Enabled
+INFO - 2017-11-30 12:47:57 --> Utf8 Class Initialized
+INFO - 2017-11-30 12:47:57 --> URI Class Initialized
+INFO - 2017-11-30 12:47:57 --> Router Class Initialized
+INFO - 2017-11-30 12:47:57 --> Output Class Initialized
+INFO - 2017-11-30 12:47:57 --> Security Class Initialized
+DEBUG - 2017-11-30 12:47:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 12:47:57 --> Input Class Initialized
+INFO - 2017-11-30 12:47:57 --> Language Class Initialized
+INFO - 2017-11-30 12:47:57 --> Language Class Initialized
+INFO - 2017-11-30 12:47:57 --> Config Class Initialized
+INFO - 2017-11-30 12:47:57 --> Loader Class Initialized
+INFO - 2017-11-30 12:47:57 --> Helper loaded: url_helper
+INFO - 2017-11-30 12:47:57 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 12:47:57 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 12:47:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 12:47:57 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 12:47:57 --> User Agent Class Initialized
+DEBUG - 2017-11-30 12:47:57 --> Template class Initialized
+INFO - 2017-11-30 12:47:57 --> Model Class Initialized
+INFO - 2017-11-30 12:47:57 --> Controller Class Initialized
+DEBUG - 2017-11-30 12:47:57 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/models/User_model.php
+INFO - 2017-11-30 12:47:57 --> Model Class Initialized
+INFO - 2017-11-30 12:47:57 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 12:47:57 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/views/mortgage_broker.php
+DEBUG - 2017-11-30 12:47:57 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/front/index.php
+INFO - 2017-11-30 12:47:57 --> Final output sent to browser
+DEBUG - 2017-11-30 12:47:57 --> Total execution time: 0.0655
+INFO - 2017-11-30 12:48:11 --> Config Class Initialized
+INFO - 2017-11-30 12:48:11 --> Hooks Class Initialized
+DEBUG - 2017-11-30 12:48:11 --> UTF-8 Support Enabled
+INFO - 2017-11-30 12:48:11 --> Utf8 Class Initialized
+INFO - 2017-11-30 12:48:11 --> URI Class Initialized
+DEBUG - 2017-11-30 12:48:11 --> No URI present. Default controller set.
+INFO - 2017-11-30 12:48:11 --> Router Class Initialized
+INFO - 2017-11-30 12:48:11 --> Output Class Initialized
+INFO - 2017-11-30 12:48:11 --> Security Class Initialized
+DEBUG - 2017-11-30 12:48:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-30 12:48:11 --> Input Class Initialized
+INFO - 2017-11-30 12:48:11 --> Language Class Initialized
+INFO - 2017-11-30 12:48:11 --> Language Class Initialized
+INFO - 2017-11-30 12:48:11 --> Config Class Initialized
+INFO - 2017-11-30 12:48:11 --> Loader Class Initialized
+INFO - 2017-11-30 12:48:11 --> Helper loaded: url_helper
+INFO - 2017-11-30 12:48:11 --> Helper loaded: emailsend_helper
+INFO - 2017-11-30 12:48:11 --> Database Driver Class Initialized
+DEBUG - 2017-11-30 12:48:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-30 12:48:11 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-30 12:48:11 --> User Agent Class Initialized
+DEBUG - 2017-11-30 12:48:11 --> Template class Initialized
+INFO - 2017-11-30 12:48:11 --> Model Class Initialized
+INFO - 2017-11-30 12:48:11 --> Controller Class Initialized
+DEBUG - 2017-11-30 12:48:11 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/models/User_model.php
+INFO - 2017-11-30 12:48:11 --> Model Class Initialized
+INFO - 2017-11-30 12:48:11 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-30 12:48:11 --> File loaded: /home/minditzc/public_html/bidHome/application/front-modules/home/views/home.php
+DEBUG - 2017-11-30 12:48:11 --> File loaded: /home/minditzc/public_html/bidHome/application/templates/front/index.php
+INFO - 2017-11-30 12:48:11 --> Final output sent to browser
+DEBUG - 2017-11-30 12:48:11 --> Total execution time: 0.0402

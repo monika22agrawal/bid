@@ -1,0 +1,245 @@
+INFO - 2017-11-22 12:53:08 --> Config Class Initialized
+INFO - 2017-11-22 12:53:08 --> Hooks Class Initialized
+DEBUG - 2017-11-22 12:53:08 --> UTF-8 Support Enabled
+INFO - 2017-11-22 12:53:08 --> Utf8 Class Initialized
+INFO - 2017-11-22 12:53:08 --> URI Class Initialized
+DEBUG - 2017-11-22 12:53:08 --> No URI present. Default controller set.
+INFO - 2017-11-22 12:53:08 --> Router Class Initialized
+INFO - 2017-11-22 12:53:08 --> Output Class Initialized
+INFO - 2017-11-22 12:53:08 --> Security Class Initialized
+DEBUG - 2017-11-22 12:53:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-22 12:53:08 --> Input Class Initialized
+INFO - 2017-11-22 12:53:08 --> Language Class Initialized
+INFO - 2017-11-22 12:53:08 --> Language Class Initialized
+INFO - 2017-11-22 12:53:08 --> Config Class Initialized
+INFO - 2017-11-22 12:53:08 --> Loader Class Initialized
+INFO - 2017-11-22 12:53:08 --> Helper loaded: url_helper
+INFO - 2017-11-22 12:53:08 --> Helper loaded: emailsend_helper
+INFO - 2017-11-22 12:53:08 --> Database Driver Class Initialized
+DEBUG - 2017-11-22 12:53:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-22 12:53:08 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-22 12:53:08 --> User Agent Class Initialized
+DEBUG - 2017-11-22 12:53:08 --> Template class Initialized
+INFO - 2017-11-22 12:53:08 --> Model Class Initialized
+INFO - 2017-11-22 12:53:08 --> Controller Class Initialized
+DEBUG - 2017-11-22 12:53:08 --> File loaded: /var/www/html/ecr/application/front-modules/home/models/User_model.php
+INFO - 2017-11-22 12:53:08 --> Model Class Initialized
+INFO - 2017-11-22 12:53:08 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-22 12:53:08 --> File loaded: /var/www/html/ecr/application/front-modules/home/views/home.php
+DEBUG - 2017-11-22 12:53:08 --> File loaded: /var/www/html/ecr/application/templates/front/index.php
+INFO - 2017-11-22 12:53:08 --> Final output sent to browser
+DEBUG - 2017-11-22 12:53:08 --> Total execution time: 0.4071
+INFO - 2017-11-22 12:53:11 --> Config Class Initialized
+INFO - 2017-11-22 12:53:11 --> Hooks Class Initialized
+DEBUG - 2017-11-22 12:53:11 --> UTF-8 Support Enabled
+INFO - 2017-11-22 12:53:11 --> Utf8 Class Initialized
+INFO - 2017-11-22 12:53:11 --> URI Class Initialized
+INFO - 2017-11-22 12:53:11 --> Router Class Initialized
+INFO - 2017-11-22 12:53:11 --> Output Class Initialized
+INFO - 2017-11-22 12:53:11 --> Security Class Initialized
+DEBUG - 2017-11-22 12:53:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-22 12:53:11 --> Input Class Initialized
+INFO - 2017-11-22 12:53:11 --> Language Class Initialized
+INFO - 2017-11-22 12:53:11 --> Language Class Initialized
+INFO - 2017-11-22 12:53:11 --> Config Class Initialized
+INFO - 2017-11-22 12:53:11 --> Loader Class Initialized
+INFO - 2017-11-22 12:53:11 --> Helper loaded: url_helper
+INFO - 2017-11-22 12:53:11 --> Helper loaded: emailsend_helper
+INFO - 2017-11-22 12:53:11 --> Database Driver Class Initialized
+DEBUG - 2017-11-22 12:53:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-22 12:53:11 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-22 12:53:11 --> User Agent Class Initialized
+DEBUG - 2017-11-22 12:53:11 --> Template class Initialized
+INFO - 2017-11-22 12:53:11 --> Model Class Initialized
+INFO - 2017-11-22 12:53:11 --> Controller Class Initialized
+DEBUG - 2017-11-22 12:53:11 --> File loaded: /var/www/html/ecr/application/front-modules/login/models/User_model.php
+INFO - 2017-11-22 12:53:11 --> Model Class Initialized
+INFO - 2017-11-22 12:53:11 --> Helper loaded: form_helper
+INFO - 2017-11-22 12:53:11 --> Form Validation Class Initialized
+DEBUG - 2017-11-22 12:53:11 --> File loaded: /var/www/html/ecr/application/front-modules/login/views/login.php
+INFO - 2017-11-22 12:53:11 --> Final output sent to browser
+DEBUG - 2017-11-22 12:53:11 --> Total execution time: 0.0846
+INFO - 2017-11-22 12:53:14 --> Config Class Initialized
+INFO - 2017-11-22 12:53:14 --> Hooks Class Initialized
+DEBUG - 2017-11-22 12:53:14 --> UTF-8 Support Enabled
+INFO - 2017-11-22 12:53:14 --> Utf8 Class Initialized
+INFO - 2017-11-22 12:53:14 --> URI Class Initialized
+INFO - 2017-11-22 12:53:14 --> Router Class Initialized
+INFO - 2017-11-22 12:53:14 --> Output Class Initialized
+INFO - 2017-11-22 12:53:14 --> Security Class Initialized
+DEBUG - 2017-11-22 12:53:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-22 12:53:14 --> Input Class Initialized
+INFO - 2017-11-22 12:53:14 --> Language Class Initialized
+INFO - 2017-11-22 12:53:14 --> Language Class Initialized
+INFO - 2017-11-22 12:53:14 --> Config Class Initialized
+INFO - 2017-11-22 12:53:14 --> Loader Class Initialized
+INFO - 2017-11-22 12:53:14 --> Helper loaded: url_helper
+INFO - 2017-11-22 12:53:14 --> Helper loaded: emailsend_helper
+INFO - 2017-11-22 12:53:14 --> Database Driver Class Initialized
+DEBUG - 2017-11-22 12:53:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-22 12:53:14 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-22 12:53:14 --> User Agent Class Initialized
+DEBUG - 2017-11-22 12:53:14 --> Template class Initialized
+INFO - 2017-11-22 12:53:14 --> Model Class Initialized
+INFO - 2017-11-22 12:53:14 --> Controller Class Initialized
+DEBUG - 2017-11-22 12:53:14 --> File loaded: /var/www/html/ecr/application/front-modules/login/models/User_model.php
+INFO - 2017-11-22 12:53:14 --> Model Class Initialized
+INFO - 2017-11-22 12:53:14 --> Helper loaded: form_helper
+INFO - 2017-11-22 12:53:14 --> Form Validation Class Initialized
+INFO - 2017-11-22 12:53:14 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2017-11-22 12:53:14 --> Config Class Initialized
+INFO - 2017-11-22 12:53:14 --> Hooks Class Initialized
+DEBUG - 2017-11-22 12:53:14 --> UTF-8 Support Enabled
+INFO - 2017-11-22 12:53:14 --> Utf8 Class Initialized
+INFO - 2017-11-22 12:53:14 --> URI Class Initialized
+INFO - 2017-11-22 12:53:14 --> Router Class Initialized
+INFO - 2017-11-22 12:53:14 --> Output Class Initialized
+INFO - 2017-11-22 12:53:14 --> Security Class Initialized
+DEBUG - 2017-11-22 12:53:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-22 12:53:14 --> Input Class Initialized
+INFO - 2017-11-22 12:53:14 --> Language Class Initialized
+INFO - 2017-11-22 12:53:14 --> Language Class Initialized
+INFO - 2017-11-22 12:53:14 --> Config Class Initialized
+INFO - 2017-11-22 12:53:14 --> Loader Class Initialized
+INFO - 2017-11-22 12:53:14 --> Helper loaded: url_helper
+INFO - 2017-11-22 12:53:14 --> Helper loaded: emailsend_helper
+INFO - 2017-11-22 12:53:14 --> Database Driver Class Initialized
+DEBUG - 2017-11-22 12:53:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-22 12:53:14 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-22 12:53:14 --> User Agent Class Initialized
+DEBUG - 2017-11-22 12:53:14 --> Template class Initialized
+INFO - 2017-11-22 12:53:14 --> Model Class Initialized
+INFO - 2017-11-22 12:53:14 --> Controller Class Initialized
+DEBUG - 2017-11-22 12:53:14 --> File loaded: /var/www/html/ecr/application/front-modules/seller/models/Seller_model.php
+INFO - 2017-11-22 12:53:14 --> Model Class Initialized
+INFO - 2017-11-22 12:53:14 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-22 12:53:14 --> File loaded: /var/www/html/ecr/application/front-modules/seller/views/profile.php
+DEBUG - 2017-11-22 12:53:14 --> File loaded: /var/www/html/ecr/application/templates/front/index.php
+INFO - 2017-11-22 12:53:14 --> Final output sent to browser
+DEBUG - 2017-11-22 12:53:14 --> Total execution time: 0.1957
+INFO - 2017-11-22 12:53:17 --> Config Class Initialized
+INFO - 2017-11-22 12:53:17 --> Hooks Class Initialized
+DEBUG - 2017-11-22 12:53:17 --> UTF-8 Support Enabled
+INFO - 2017-11-22 12:53:17 --> Utf8 Class Initialized
+INFO - 2017-11-22 12:53:17 --> URI Class Initialized
+INFO - 2017-11-22 12:53:17 --> Router Class Initialized
+INFO - 2017-11-22 12:53:17 --> Output Class Initialized
+INFO - 2017-11-22 12:53:17 --> Security Class Initialized
+DEBUG - 2017-11-22 12:53:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-22 12:53:17 --> Input Class Initialized
+INFO - 2017-11-22 12:53:17 --> Language Class Initialized
+INFO - 2017-11-22 12:53:17 --> Language Class Initialized
+INFO - 2017-11-22 12:53:17 --> Config Class Initialized
+INFO - 2017-11-22 12:53:17 --> Loader Class Initialized
+INFO - 2017-11-22 12:53:17 --> Helper loaded: url_helper
+INFO - 2017-11-22 12:53:17 --> Helper loaded: emailsend_helper
+INFO - 2017-11-22 12:53:17 --> Database Driver Class Initialized
+DEBUG - 2017-11-22 12:53:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-22 12:53:17 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-22 12:53:17 --> User Agent Class Initialized
+DEBUG - 2017-11-22 12:53:17 --> Template class Initialized
+INFO - 2017-11-22 12:53:17 --> Model Class Initialized
+INFO - 2017-11-22 12:53:17 --> Controller Class Initialized
+DEBUG - 2017-11-22 12:53:17 --> File loaded: /var/www/html/ecr/application/front-modules/seller/models/Seller_model.php
+INFO - 2017-11-22 12:53:17 --> Model Class Initialized
+INFO - 2017-11-22 12:53:17 --> Helper loaded: form_helper
+INFO - 2017-11-22 12:53:17 --> Form Validation Class Initialized
+INFO - 2017-11-22 12:53:17 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-22 12:53:17 --> File loaded: /var/www/html/ecr/application/front-modules/seller/views/add_product.php
+DEBUG - 2017-11-22 12:53:17 --> File loaded: /var/www/html/ecr/application/templates/front/index.php
+INFO - 2017-11-22 12:53:17 --> Final output sent to browser
+DEBUG - 2017-11-22 12:53:17 --> Total execution time: 0.0578
+INFO - 2017-11-22 12:53:35 --> Config Class Initialized
+INFO - 2017-11-22 12:53:35 --> Hooks Class Initialized
+DEBUG - 2017-11-22 12:53:35 --> UTF-8 Support Enabled
+INFO - 2017-11-22 12:53:35 --> Utf8 Class Initialized
+INFO - 2017-11-22 12:53:35 --> URI Class Initialized
+INFO - 2017-11-22 12:53:35 --> Router Class Initialized
+INFO - 2017-11-22 12:53:35 --> Output Class Initialized
+INFO - 2017-11-22 12:53:35 --> Security Class Initialized
+DEBUG - 2017-11-22 12:53:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-22 12:53:35 --> Input Class Initialized
+INFO - 2017-11-22 12:53:35 --> Language Class Initialized
+INFO - 2017-11-22 12:53:35 --> Language Class Initialized
+INFO - 2017-11-22 12:53:35 --> Config Class Initialized
+INFO - 2017-11-22 12:53:35 --> Loader Class Initialized
+INFO - 2017-11-22 12:53:35 --> Helper loaded: url_helper
+INFO - 2017-11-22 12:53:35 --> Helper loaded: emailsend_helper
+INFO - 2017-11-22 12:53:35 --> Database Driver Class Initialized
+DEBUG - 2017-11-22 12:53:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-22 12:53:35 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-22 12:53:35 --> User Agent Class Initialized
+DEBUG - 2017-11-22 12:53:35 --> Template class Initialized
+INFO - 2017-11-22 12:53:35 --> Model Class Initialized
+INFO - 2017-11-22 12:53:35 --> Controller Class Initialized
+DEBUG - 2017-11-22 12:53:35 --> File loaded: /var/www/html/ecr/application/front-modules/seller/models/Seller_model.php
+INFO - 2017-11-22 12:53:35 --> Model Class Initialized
+INFO - 2017-11-22 12:53:35 --> Helper loaded: form_helper
+INFO - 2017-11-22 12:53:35 --> Form Validation Class Initialized
+INFO - 2017-11-22 12:53:35 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-22 12:53:35 --> File loaded: /var/www/html/ecr/application/front-modules/seller/views/add_product.php
+DEBUG - 2017-11-22 12:53:35 --> File loaded: /var/www/html/ecr/application/templates/front/index.php
+INFO - 2017-11-22 12:53:35 --> Final output sent to browser
+DEBUG - 2017-11-22 12:53:35 --> Total execution time: 0.0108
+INFO - 2017-11-22 12:53:38 --> Config Class Initialized
+INFO - 2017-11-22 12:53:38 --> Hooks Class Initialized
+DEBUG - 2017-11-22 12:53:38 --> UTF-8 Support Enabled
+INFO - 2017-11-22 12:53:38 --> Utf8 Class Initialized
+INFO - 2017-11-22 12:53:38 --> URI Class Initialized
+INFO - 2017-11-22 12:53:38 --> Router Class Initialized
+INFO - 2017-11-22 12:53:38 --> Output Class Initialized
+INFO - 2017-11-22 12:53:38 --> Security Class Initialized
+DEBUG - 2017-11-22 12:53:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-22 12:53:38 --> Input Class Initialized
+INFO - 2017-11-22 12:53:38 --> Language Class Initialized
+INFO - 2017-11-22 12:53:38 --> Language Class Initialized
+INFO - 2017-11-22 12:53:38 --> Config Class Initialized
+INFO - 2017-11-22 12:53:38 --> Loader Class Initialized
+INFO - 2017-11-22 12:53:38 --> Helper loaded: url_helper
+INFO - 2017-11-22 12:53:38 --> Helper loaded: emailsend_helper
+INFO - 2017-11-22 12:53:38 --> Database Driver Class Initialized
+DEBUG - 2017-11-22 12:53:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-22 12:53:38 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-22 12:53:38 --> User Agent Class Initialized
+DEBUG - 2017-11-22 12:53:38 --> Template class Initialized
+INFO - 2017-11-22 12:53:38 --> Model Class Initialized
+INFO - 2017-11-22 12:53:38 --> Controller Class Initialized
+DEBUG - 2017-11-22 12:53:38 --> File loaded: /var/www/html/ecr/application/front-modules/seller/models/Seller_model.php
+INFO - 2017-11-22 12:53:38 --> Model Class Initialized
+INFO - 2017-11-22 12:53:38 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-22 12:53:38 --> File loaded: /var/www/html/ecr/application/front-modules/seller/views/profile.php
+DEBUG - 2017-11-22 12:53:38 --> File loaded: /var/www/html/ecr/application/templates/front/index.php
+INFO - 2017-11-22 12:53:38 --> Final output sent to browser
+DEBUG - 2017-11-22 12:53:38 --> Total execution time: 0.0042
+INFO - 2017-11-22 12:53:42 --> Config Class Initialized
+INFO - 2017-11-22 12:53:42 --> Hooks Class Initialized
+DEBUG - 2017-11-22 12:53:42 --> UTF-8 Support Enabled
+INFO - 2017-11-22 12:53:42 --> Utf8 Class Initialized
+INFO - 2017-11-22 12:53:42 --> URI Class Initialized
+INFO - 2017-11-22 12:53:42 --> Router Class Initialized
+INFO - 2017-11-22 12:53:42 --> Output Class Initialized
+INFO - 2017-11-22 12:53:42 --> Security Class Initialized
+DEBUG - 2017-11-22 12:53:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-22 12:53:42 --> Input Class Initialized
+INFO - 2017-11-22 12:53:42 --> Language Class Initialized
+INFO - 2017-11-22 12:53:42 --> Language Class Initialized
+INFO - 2017-11-22 12:53:42 --> Config Class Initialized
+INFO - 2017-11-22 12:53:42 --> Loader Class Initialized
+INFO - 2017-11-22 12:53:42 --> Helper loaded: url_helper
+INFO - 2017-11-22 12:53:42 --> Helper loaded: emailsend_helper
+INFO - 2017-11-22 12:53:42 --> Database Driver Class Initialized
+DEBUG - 2017-11-22 12:53:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-22 12:53:42 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-22 12:53:42 --> User Agent Class Initialized
+DEBUG - 2017-11-22 12:53:42 --> Template class Initialized
+INFO - 2017-11-22 12:53:42 --> Model Class Initialized
+INFO - 2017-11-22 12:53:42 --> Controller Class Initialized
+DEBUG - 2017-11-22 12:53:42 --> File loaded: /var/www/html/ecr/application/front-modules/seller/models/Seller_model.php
+INFO - 2017-11-22 12:53:42 --> Model Class Initialized
+INFO - 2017-11-22 12:53:42 --> Helper loaded: form_helper
+INFO - 2017-11-22 12:53:42 --> Form Validation Class Initialized
+INFO - 2017-11-22 12:53:42 --> Helper loaded: inflector_helper
+DEBUG - 2017-11-22 12:53:42 --> File loaded: /var/www/html/ecr/application/front-modules/seller/views/add_product.php
+DEBUG - 2017-11-22 12:53:42 --> File loaded: /var/www/html/ecr/application/templates/front/index.php
+INFO - 2017-11-22 12:53:42 --> Final output sent to browser
+DEBUG - 2017-11-22 12:53:42 --> Total execution time: 0.0048

@@ -1,0 +1,145 @@
+@media only screen and (max-width: 575px){
+.sliderCaption h2 {
+  font-size: 22px;
+}
+.sliderCaption p {
+  font-size: 16px;
+}
+.owl-nav {
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  top: -30px;
+}
+.single-gallery-carousel-content-box .owl-dots {
+  display: none;
+}
+.single-gallery-carousel-content-box .owl-nav {
+  bottom: -20px !important;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  top: auto;
+}
+.single-gallery-carousel-content-box .owl-nav .owl-prev, .single-gallery-carousel-content-box .owl-nav .owl-next {
+  position: static;
+  margin: 0 2px;
+  border-radius: 0 !important;
+  width: 40px; 
+}
+.owl-nav .owl-prev, .owl-nav .owl-next {
+  position: static;
+  margin: 0 2px;
+}
+.newsCnt .at-sub-btn {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.bidCnt {
+	width: 100%;
+}
+.bidPrice {
+	float: left;
+	text-align: left;
+}
+.bidPrice span {
+	display: inline;
+}
+}
+@media only screen and (min-width: 575px) and (max-width: 767px){
+.sliderCaption h2 {
+  font-size: 30px;
+}
+.sliderCaption p {
+  font-size: 18px;
+}
+.at-col-default-mar {
+  margin-bottom: 35px;
+}
+.ftHead {
+  margin-bottom: 20px;
+}
+}
+@media only screen and (max-width: 767px){
+.at-property-location h3 a {
+  font-size: 20px;
+}
+.at-about-col .at-about-title h1 {
+  font-size: 30px;
+  line-height: 45px;
+}
+.mainHead h2 {
+  font-size: 30px;
+}
+.info-banner{
+	-moz-background-size: auto;
+	-webkit-background-size: auto;
+	background-attachment: scroll !important;
+	background-position: top;
+	background-size: auto;
+}
+.prPart{
+	-moz-background-size: auto;
+	-webkit-background-size: auto;
+	background-attachment: scroll !important;
+	background-position: top;
+	background-size: auto;
+}
+.BusinessCnt {
+  margin-top: 40px;
+}
+.columns-gap {
+  column-count: 1;
+}
+.property_price.property_main-item {
+  margin-top: 20px;
+}
+.property_header-container .vcenter {
+  justify-content: left;
+}
+}
+@media only screen and (min-width: 768px) and (max-width: 991px){
+.sliderCaption h2 {
+  font-size: 40px;
+}
+.sliderCaption p {
+  font-size: 20px;
+}
+}
+@media only screen and (max-width: 991px){
+.MainHeader .navbar {
+  background: #fff !important;
+}
+.MainHeader .navbar-light .navbar-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox=\'0 0 30 30\' xmlns=\'http://www.w3.org/2000/svg\'%3E%3Cpath stroke=\'rgba(98, 160, 185, 1)\' stroke-width=\'2\' stroke-linecap=\'round\' stroke-miterlimit=\'10\' d=\'M4 7h22M4 15h22M4 23h22\'/%3E%3C/svg%3E") !important;
+}
+.MainHeader button.navbar-toggler {
+  border-color: #62a0b9 !important;
+  color: #62a0b9 !important;
+}
+.MainHeader .navbar-nav li a {
+  color: #333 !important;
+}
+.lg1 {
+  display: block;
+}
+.lg2 {
+  display: none;
+}
+.client-say-about .opacity p {
+  width: 100%;
+}
+.property_item {
+  margin-top: 20px;
+}
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1550px){
+.LRform > img {
+  max-width: 350px;
+}
+}

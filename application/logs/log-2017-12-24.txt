@@ -1,0 +1,147 @@
+DEBUG - 2017-12-24 00:27:51 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/models/Buyer_model.php
+INFO - 2017-12-24 00:27:51 --> Model Class Initialized
+DEBUG - 2017-12-24 00:27:52 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/models/Buyer_model.php
+INFO - 2017-12-24 00:27:52 --> Model Class Initialized
+INFO - 2017-12-24 00:27:52 --> Helper loaded: inflector_helper
+DEBUG - 2017-12-24 00:27:52 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/views/all_property.php
+DEBUG - 2017-12-24 00:27:52 --> File loaded: /home/f7c1xdw35s54/public_html/application/templates/front/index.php
+INFO - 2017-12-24 00:27:52 --> Final output sent to browser
+DEBUG - 2017-12-24 00:27:52 --> Total execution time: 0.0669
+DEBUG - 2017-12-24 00:27:52 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/models/Buyer_model.php
+INFO - 2017-12-24 00:27:52 --> Model Class Initialized
+DEBUG - 2017-12-24 00:27:52 --> Pagination Class Initialized
+DEBUG - 2017-12-24 00:27:52 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/views/all_property_list.php
+INFO - 2017-12-24 00:27:52 --> Final output sent to browser
+DEBUG - 2017-12-24 00:27:52 --> Total execution time: 0.0711
+DEBUG - 2017-12-24 00:27:55 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/models/Buyer_model.php
+INFO - 2017-12-24 00:27:55 --> Model Class Initialized
+DEBUG - 2017-12-24 00:27:55 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/models/Buyer_model.php
+INFO - 2017-12-24 00:27:55 --> Model Class Initialized
+INFO - 2017-12-24 00:27:55 --> Helper loaded: inflector_helper
+DEBUG - 2017-12-24 00:27:55 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/views/all_property.php
+DEBUG - 2017-12-24 00:27:55 --> File loaded: /home/f7c1xdw35s54/public_html/application/templates/front/index.php
+INFO - 2017-12-24 00:27:55 --> Final output sent to browser
+DEBUG - 2017-12-24 00:27:55 --> Total execution time: 0.0379
+DEBUG - 2017-12-24 00:27:55 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/models/Buyer_model.php
+INFO - 2017-12-24 00:27:55 --> Model Class Initialized
+DEBUG - 2017-12-24 00:27:55 --> Pagination Class Initialized
+DEBUG - 2017-12-24 00:27:55 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/views/all_property_list.php
+INFO - 2017-12-24 00:27:55 --> Final output sent to browser
+DEBUG - 2017-12-24 00:27:55 --> Total execution time: 0.0483
+DEBUG - 2017-12-24 00:27:56 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/models/Buyer_model.php
+INFO - 2017-12-24 00:27:56 --> Model Class Initialized
+INFO - 2017-12-24 00:27:56 --> Helper loaded: inflector_helper
+DEBUG - 2017-12-24 00:27:56 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/views/profile.php
+DEBUG - 2017-12-24 00:27:56 --> File loaded: /home/f7c1xdw35s54/public_html/application/templates/front/index.php
+INFO - 2017-12-24 00:27:56 --> Final output sent to browser
+DEBUG - 2017-12-24 00:27:56 --> Total execution time: 0.0642
+DEBUG - 2017-12-24 00:27:58 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/models/Buyer_model.php
+INFO - 2017-12-24 00:27:58 --> Model Class Initialized
+INFO - 2017-12-24 00:27:58 --> Helper loaded: inflector_helper
+DEBUG - 2017-12-24 00:27:58 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/views/shopping_cart.php
+DEBUG - 2017-12-24 00:27:58 --> File loaded: /home/f7c1xdw35s54/public_html/application/templates/front/index.php
+INFO - 2017-12-24 00:27:58 --> Final output sent to browser
+DEBUG - 2017-12-24 00:27:58 --> Total execution time: 0.0239
+DEBUG - 2017-12-24 00:28:49 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/models/Buyer_model.php
+INFO - 2017-12-24 00:28:49 --> Model Class Initialized
+DEBUG - 2017-12-24 00:28:49 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/models/Buyer_model.php
+INFO - 2017-12-24 00:28:49 --> Model Class Initialized
+INFO - 2017-12-24 00:28:49 --> Helper loaded: inflector_helper
+DEBUG - 2017-12-24 00:28:49 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/views/all_property.php
+DEBUG - 2017-12-24 00:28:49 --> File loaded: /home/f7c1xdw35s54/public_html/application/templates/front/index.php
+INFO - 2017-12-24 00:28:49 --> Final output sent to browser
+DEBUG - 2017-12-24 00:28:49 --> Total execution time: 0.0385
+DEBUG - 2017-12-24 00:28:49 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/models/Buyer_model.php
+INFO - 2017-12-24 00:28:49 --> Model Class Initialized
+DEBUG - 2017-12-24 00:28:49 --> Pagination Class Initialized
+DEBUG - 2017-12-24 00:28:49 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/views/all_property_list.php
+INFO - 2017-12-24 00:28:49 --> Final output sent to browser
+DEBUG - 2017-12-24 00:28:49 --> Total execution time: 0.0415
+DEBUG - 2017-12-24 00:28:52 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/models/Buyer_model.php
+INFO - 2017-12-24 00:28:52 --> Model Class Initialized
+INFO - 2017-12-24 00:28:52 --> Helper loaded: inflector_helper
+DEBUG - 2017-12-24 00:28:52 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/views/property_detail.php
+DEBUG - 2017-12-24 00:28:52 --> File loaded: /home/f7c1xdw35s54/public_html/application/templates/front/index.php
+INFO - 2017-12-24 00:28:52 --> Final output sent to browser
+DEBUG - 2017-12-24 00:28:52 --> Total execution time: 0.0508
+DEBUG - 2017-12-24 00:28:54 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/models/Buyer_model.php
+INFO - 2017-12-24 00:28:54 --> Model Class Initialized
+DEBUG - 2017-12-24 00:28:54 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/models/Buyer_model.php
+INFO - 2017-12-24 00:28:54 --> Model Class Initialized
+INFO - 2017-12-24 00:28:54 --> Helper loaded: inflector_helper
+DEBUG - 2017-12-24 00:28:54 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/views/all_property.php
+DEBUG - 2017-12-24 00:28:54 --> File loaded: /home/f7c1xdw35s54/public_html/application/templates/front/index.php
+INFO - 2017-12-24 00:28:54 --> Final output sent to browser
+DEBUG - 2017-12-24 00:28:54 --> Total execution time: 0.0379
+DEBUG - 2017-12-24 00:28:54 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/models/Buyer_model.php
+INFO - 2017-12-24 00:28:54 --> Model Class Initialized
+DEBUG - 2017-12-24 00:28:54 --> Pagination Class Initialized
+DEBUG - 2017-12-24 00:28:54 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/views/all_property_list.php
+INFO - 2017-12-24 00:28:54 --> Final output sent to browser
+DEBUG - 2017-12-24 00:28:54 --> Total execution time: 0.0411
+DEBUG - 2017-12-24 00:28:56 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/models/Buyer_model.php
+INFO - 2017-12-24 00:28:56 --> Model Class Initialized
+INFO - 2017-12-24 00:28:56 --> Helper loaded: inflector_helper
+DEBUG - 2017-12-24 00:28:56 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/views/property_detail.php
+DEBUG - 2017-12-24 00:28:56 --> File loaded: /home/f7c1xdw35s54/public_html/application/templates/front/index.php
+INFO - 2017-12-24 00:28:56 --> Final output sent to browser
+DEBUG - 2017-12-24 00:28:56 --> Total execution time: 0.0268
+DEBUG - 2017-12-24 00:28:58 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/models/Buyer_model.php
+INFO - 2017-12-24 00:28:58 --> Model Class Initialized
+DEBUG - 2017-12-24 00:28:58 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/models/Buyer_model.php
+INFO - 2017-12-24 00:28:58 --> Model Class Initialized
+INFO - 2017-12-24 00:28:58 --> Helper loaded: inflector_helper
+DEBUG - 2017-12-24 00:28:58 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/views/all_property.php
+DEBUG - 2017-12-24 00:28:58 --> File loaded: /home/f7c1xdw35s54/public_html/application/templates/front/index.php
+INFO - 2017-12-24 00:28:58 --> Final output sent to browser
+DEBUG - 2017-12-24 00:28:58 --> Total execution time: 0.0250
+DEBUG - 2017-12-24 00:28:58 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/models/Buyer_model.php
+INFO - 2017-12-24 00:28:58 --> Model Class Initialized
+DEBUG - 2017-12-24 00:28:58 --> Pagination Class Initialized
+DEBUG - 2017-12-24 00:28:58 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/views/all_property_list.php
+INFO - 2017-12-24 00:28:58 --> Final output sent to browser
+DEBUG - 2017-12-24 00:28:58 --> Total execution time: 0.0278
+DEBUG - 2017-12-24 00:29:07 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/models/Buyer_model.php
+INFO - 2017-12-24 00:29:07 --> Model Class Initialized
+INFO - 2017-12-24 00:29:07 --> Helper loaded: inflector_helper
+DEBUG - 2017-12-24 00:29:07 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/views/property_detail.php
+DEBUG - 2017-12-24 00:29:07 --> File loaded: /home/f7c1xdw35s54/public_html/application/templates/front/index.php
+INFO - 2017-12-24 00:29:07 --> Final output sent to browser
+DEBUG - 2017-12-24 00:29:07 --> Total execution time: 0.0293
+DEBUG - 2017-12-24 00:38:47 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/models/Buyer_model.php
+INFO - 2017-12-24 00:38:47 --> Model Class Initialized
+DEBUG - 2017-12-24 00:38:47 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/models/Buyer_model.php
+INFO - 2017-12-24 00:38:47 --> Model Class Initialized
+INFO - 2017-12-24 00:38:47 --> Helper loaded: inflector_helper
+DEBUG - 2017-12-24 00:38:47 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/views/all_property.php
+DEBUG - 2017-12-24 00:38:47 --> File loaded: /home/f7c1xdw35s54/public_html/application/templates/front/index.php
+INFO - 2017-12-24 00:38:47 --> Final output sent to browser
+DEBUG - 2017-12-24 00:38:47 --> Total execution time: 0.0395
+DEBUG - 2017-12-24 00:38:47 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/models/Buyer_model.php
+INFO - 2017-12-24 00:38:47 --> Model Class Initialized
+DEBUG - 2017-12-24 00:38:47 --> Pagination Class Initialized
+DEBUG - 2017-12-24 00:38:47 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/views/all_property_list.php
+INFO - 2017-12-24 00:38:47 --> Final output sent to browser
+DEBUG - 2017-12-24 00:38:47 --> Total execution time: 0.1237
+DEBUG - 2017-12-24 00:38:52 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/models/Buyer_model.php
+INFO - 2017-12-24 00:38:52 --> Model Class Initialized
+INFO - 2017-12-24 00:38:52 --> Helper loaded: inflector_helper
+DEBUG - 2017-12-24 00:38:52 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/views/property_detail.php
+DEBUG - 2017-12-24 00:38:52 --> File loaded: /home/f7c1xdw35s54/public_html/application/templates/front/index.php
+INFO - 2017-12-24 00:38:52 --> Final output sent to browser
+DEBUG - 2017-12-24 00:38:52 --> Total execution time: 0.0291
+DEBUG - 2017-12-24 00:56:24 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/models/Buyer_model.php
+INFO - 2017-12-24 00:56:24 --> Model Class Initialized
+DEBUG - 2017-12-24 00:56:24 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/models/Buyer_model.php
+INFO - 2017-12-24 00:56:24 --> Model Class Initialized
+INFO - 2017-12-24 00:56:24 --> Helper loaded: inflector_helper
+DEBUG - 2017-12-24 00:56:24 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/views/all_property.php
+DEBUG - 2017-12-24 00:56:24 --> File loaded: /home/f7c1xdw35s54/public_html/application/templates/front/index.php
+INFO - 2017-12-24 00:56:24 --> Final output sent to browser
+DEBUG - 2017-12-24 00:56:24 --> Total execution time: 0.0400
+DEBUG - 2017-12-24 00:56:25 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/models/Buyer_model.php
+INFO - 2017-12-24 00:56:25 --> Model Class Initialized
+DEBUG - 2017-12-24 00:56:25 --> Pagination Class Initialized
+DEBUG - 2017-12-24 00:56:25 --> File loaded: /home/f7c1xdw35s54/public_html/application/front-modules/buyer/views/all_property_list.php
+INFO - 2017-12-24 00:56:25 --> Final output sent to browser
+DEBUG - 2017-12-24 00:56:25 --> Total execution time: 0.0431

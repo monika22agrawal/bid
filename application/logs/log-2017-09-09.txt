@@ -1,0 +1,207 @@
+INFO - 2017-09-09 11:26:10 --> Config Class Initialized
+INFO - 2017-09-09 11:26:10 --> Hooks Class Initialized
+DEBUG - 2017-09-09 11:26:10 --> UTF-8 Support Enabled
+INFO - 2017-09-09 11:26:10 --> Utf8 Class Initialized
+INFO - 2017-09-09 11:26:10 --> URI Class Initialized
+INFO - 2017-09-09 11:26:10 --> Router Class Initialized
+INFO - 2017-09-09 11:26:10 --> Output Class Initialized
+INFO - 2017-09-09 11:26:10 --> Security Class Initialized
+DEBUG - 2017-09-09 11:26:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-09-09 11:26:10 --> Input Class Initialized
+INFO - 2017-09-09 11:26:10 --> Language Class Initialized
+INFO - 2017-09-09 11:26:10 --> Language Class Initialized
+INFO - 2017-09-09 11:26:10 --> Config Class Initialized
+INFO - 2017-09-09 11:26:10 --> Loader Class Initialized
+INFO - 2017-09-09 11:26:10 --> Helper loaded: url_helper
+INFO - 2017-09-09 11:26:10 --> Helper loaded: emailsend_helper
+INFO - 2017-09-09 11:26:10 --> Database Driver Class Initialized
+DEBUG - 2017-09-09 11:26:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-09-09 11:26:10 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 11:26:10 --> User Agent Class Initialized
+DEBUG - 2017-09-09 11:26:10 --> Template class Initialized
+INFO - 2017-09-09 11:26:10 --> Model Class Initialized
+INFO - 2017-09-09 11:26:10 --> Controller Class Initialized
+DEBUG - 2017-09-09 11:26:10 --> File loaded: /var/www/html/ecr/application/back-modules/login/models/Login_model.php
+INFO - 2017-09-09 11:26:10 --> Model Class Initialized
+INFO - 2017-09-09 11:26:10 --> Helper loaded: form_helper
+INFO - 2017-09-09 11:26:10 --> Form Validation Class Initialized
+DEBUG - 2017-09-09 11:26:10 --> File loaded: /var/www/html/ecr/application/back-modules/login/views/login.php
+INFO - 2017-09-09 11:26:10 --> Final output sent to browser
+DEBUG - 2017-09-09 11:26:10 --> Total execution time: 0.4325
+INFO - 2017-09-09 11:26:16 --> Config Class Initialized
+INFO - 2017-09-09 11:26:16 --> Hooks Class Initialized
+DEBUG - 2017-09-09 11:26:16 --> UTF-8 Support Enabled
+INFO - 2017-09-09 11:26:16 --> Utf8 Class Initialized
+INFO - 2017-09-09 11:26:16 --> URI Class Initialized
+INFO - 2017-09-09 11:26:16 --> Router Class Initialized
+INFO - 2017-09-09 11:26:16 --> Output Class Initialized
+INFO - 2017-09-09 11:26:16 --> Security Class Initialized
+DEBUG - 2017-09-09 11:26:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-09-09 11:26:16 --> Input Class Initialized
+INFO - 2017-09-09 11:26:16 --> Language Class Initialized
+INFO - 2017-09-09 11:26:16 --> Language Class Initialized
+INFO - 2017-09-09 11:26:16 --> Config Class Initialized
+INFO - 2017-09-09 11:26:16 --> Loader Class Initialized
+INFO - 2017-09-09 11:26:16 --> Helper loaded: url_helper
+INFO - 2017-09-09 11:26:16 --> Helper loaded: emailsend_helper
+INFO - 2017-09-09 11:26:16 --> Database Driver Class Initialized
+DEBUG - 2017-09-09 11:26:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-09-09 11:26:16 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 11:26:16 --> User Agent Class Initialized
+DEBUG - 2017-09-09 11:26:16 --> Template class Initialized
+INFO - 2017-09-09 11:26:16 --> Model Class Initialized
+INFO - 2017-09-09 11:26:16 --> Controller Class Initialized
+DEBUG - 2017-09-09 11:26:16 --> File loaded: /var/www/html/ecr/application/back-modules/login/models/Login_model.php
+INFO - 2017-09-09 11:26:16 --> Model Class Initialized
+INFO - 2017-09-09 11:26:16 --> Helper loaded: form_helper
+INFO - 2017-09-09 11:26:16 --> Form Validation Class Initialized
+INFO - 2017-09-09 11:26:16 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2017-09-09 11:26:16 --> Encrypt Class Initialized
+INFO - 2017-09-09 11:26:16 --> Config Class Initialized
+INFO - 2017-09-09 11:26:16 --> Hooks Class Initialized
+DEBUG - 2017-09-09 11:26:16 --> UTF-8 Support Enabled
+INFO - 2017-09-09 11:26:16 --> Utf8 Class Initialized
+INFO - 2017-09-09 11:26:16 --> URI Class Initialized
+INFO - 2017-09-09 11:26:16 --> Router Class Initialized
+INFO - 2017-09-09 11:26:16 --> Output Class Initialized
+INFO - 2017-09-09 11:26:16 --> Security Class Initialized
+DEBUG - 2017-09-09 11:26:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-09-09 11:26:16 --> Input Class Initialized
+INFO - 2017-09-09 11:26:16 --> Language Class Initialized
+INFO - 2017-09-09 11:26:17 --> Language Class Initialized
+INFO - 2017-09-09 11:26:17 --> Config Class Initialized
+INFO - 2017-09-09 11:26:17 --> Loader Class Initialized
+INFO - 2017-09-09 11:26:17 --> Helper loaded: url_helper
+INFO - 2017-09-09 11:26:17 --> Helper loaded: emailsend_helper
+INFO - 2017-09-09 11:26:17 --> Database Driver Class Initialized
+DEBUG - 2017-09-09 11:26:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-09-09 11:26:17 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 11:26:17 --> User Agent Class Initialized
+DEBUG - 2017-09-09 11:26:17 --> Template class Initialized
+INFO - 2017-09-09 11:26:17 --> Model Class Initialized
+INFO - 2017-09-09 11:26:17 --> Controller Class Initialized
+DEBUG - 2017-09-09 11:26:17 --> Dashboard MX_Controller Initialized
+DEBUG - 2017-09-09 11:26:17 --> File loaded: /var/www/html/ecr/application/back-modules/dashboard/models/Admin_model.php
+INFO - 2017-09-09 11:26:17 --> Model Class Initialized
+INFO - 2017-09-09 11:26:17 --> Helper loaded: inflector_helper
+DEBUG - 2017-09-09 11:26:17 --> File loaded: /var/www/html/ecr/application/back-modules/dashboard/views/dashboard.php
+DEBUG - 2017-09-09 11:26:17 --> File loaded: /var/www/html/ecr/application/templates/admin/index.php
+INFO - 2017-09-09 11:26:17 --> Final output sent to browser
+DEBUG - 2017-09-09 11:26:17 --> Total execution time: 0.2164
+INFO - 2017-09-09 11:26:26 --> Config Class Initialized
+INFO - 2017-09-09 11:26:26 --> Hooks Class Initialized
+DEBUG - 2017-09-09 11:26:26 --> UTF-8 Support Enabled
+INFO - 2017-09-09 11:26:26 --> Utf8 Class Initialized
+INFO - 2017-09-09 11:26:26 --> URI Class Initialized
+INFO - 2017-09-09 11:26:26 --> Router Class Initialized
+INFO - 2017-09-09 11:26:26 --> Output Class Initialized
+INFO - 2017-09-09 11:26:26 --> Security Class Initialized
+DEBUG - 2017-09-09 11:26:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-09-09 11:26:26 --> Input Class Initialized
+INFO - 2017-09-09 11:26:26 --> Language Class Initialized
+INFO - 2017-09-09 11:26:26 --> Language Class Initialized
+INFO - 2017-09-09 11:26:26 --> Config Class Initialized
+INFO - 2017-09-09 11:26:26 --> Loader Class Initialized
+INFO - 2017-09-09 11:26:26 --> Helper loaded: url_helper
+INFO - 2017-09-09 11:26:26 --> Helper loaded: emailsend_helper
+INFO - 2017-09-09 11:26:26 --> Database Driver Class Initialized
+DEBUG - 2017-09-09 11:26:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-09-09 11:26:26 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 11:26:26 --> User Agent Class Initialized
+DEBUG - 2017-09-09 11:26:26 --> Template class Initialized
+INFO - 2017-09-09 11:26:26 --> Model Class Initialized
+INFO - 2017-09-09 11:26:26 --> Controller Class Initialized
+DEBUG - 2017-09-09 11:26:26 --> User MX_Controller Initialized
+DEBUG - 2017-09-09 11:26:26 --> File loaded: /var/www/html/ecr/application/back-modules/user/models/User_model.php
+INFO - 2017-09-09 11:26:26 --> Model Class Initialized
+INFO - 2017-09-09 11:26:26 --> Helper loaded: inflector_helper
+DEBUG - 2017-09-09 11:26:26 --> File loaded: /var/www/html/ecr/application/back-modules/user/views/all_user.php
+DEBUG - 2017-09-09 11:26:26 --> File loaded: /var/www/html/ecr/application/templates/admin/index.php
+INFO - 2017-09-09 11:26:26 --> Final output sent to browser
+DEBUG - 2017-09-09 11:26:26 --> Total execution time: 0.0488
+INFO - 2017-09-09 11:26:26 --> Config Class Initialized
+INFO - 2017-09-09 11:26:26 --> Hooks Class Initialized
+DEBUG - 2017-09-09 11:26:26 --> UTF-8 Support Enabled
+INFO - 2017-09-09 11:26:26 --> Utf8 Class Initialized
+INFO - 2017-09-09 11:26:26 --> URI Class Initialized
+INFO - 2017-09-09 11:26:26 --> Router Class Initialized
+INFO - 2017-09-09 11:26:26 --> Output Class Initialized
+INFO - 2017-09-09 11:26:26 --> Security Class Initialized
+DEBUG - 2017-09-09 11:26:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-09-09 11:26:26 --> Input Class Initialized
+INFO - 2017-09-09 11:26:26 --> Language Class Initialized
+INFO - 2017-09-09 11:26:26 --> Language Class Initialized
+INFO - 2017-09-09 11:26:26 --> Config Class Initialized
+INFO - 2017-09-09 11:26:26 --> Loader Class Initialized
+INFO - 2017-09-09 11:26:26 --> Helper loaded: url_helper
+INFO - 2017-09-09 11:26:26 --> Helper loaded: emailsend_helper
+INFO - 2017-09-09 11:26:26 --> Database Driver Class Initialized
+DEBUG - 2017-09-09 11:26:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-09-09 11:26:26 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 11:26:26 --> User Agent Class Initialized
+DEBUG - 2017-09-09 11:26:26 --> Template class Initialized
+INFO - 2017-09-09 11:26:26 --> Model Class Initialized
+INFO - 2017-09-09 11:26:26 --> Controller Class Initialized
+DEBUG - 2017-09-09 11:26:26 --> User MX_Controller Initialized
+DEBUG - 2017-09-09 11:26:26 --> File loaded: /var/www/html/ecr/application/back-modules/user/models/User_model.php
+INFO - 2017-09-09 11:26:26 --> Model Class Initialized
+DEBUG - 2017-09-09 11:26:26 --> Pagination Class Initialized
+DEBUG - 2017-09-09 11:26:26 --> File loaded: /var/www/html/ecr/application/back-modules/user/views/all_user_listing.php
+INFO - 2017-09-09 11:26:26 --> Final output sent to browser
+DEBUG - 2017-09-09 11:26:26 --> Total execution time: 0.0375
+INFO - 2017-09-09 11:30:55 --> Config Class Initialized
+INFO - 2017-09-09 11:30:55 --> Hooks Class Initialized
+DEBUG - 2017-09-09 11:30:55 --> UTF-8 Support Enabled
+INFO - 2017-09-09 11:30:55 --> Utf8 Class Initialized
+INFO - 2017-09-09 11:30:55 --> URI Class Initialized
+INFO - 2017-09-09 11:30:55 --> Router Class Initialized
+INFO - 2017-09-09 11:30:55 --> Output Class Initialized
+INFO - 2017-09-09 11:30:55 --> Security Class Initialized
+DEBUG - 2017-09-09 11:30:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-09-09 11:30:55 --> Input Class Initialized
+INFO - 2017-09-09 11:30:55 --> Language Class Initialized
+INFO - 2017-09-09 11:30:55 --> Language Class Initialized
+INFO - 2017-09-09 11:30:55 --> Config Class Initialized
+INFO - 2017-09-09 11:30:55 --> Loader Class Initialized
+INFO - 2017-09-09 11:30:55 --> Helper loaded: url_helper
+INFO - 2017-09-09 11:30:55 --> Helper loaded: emailsend_helper
+INFO - 2017-09-09 11:30:55 --> Database Driver Class Initialized
+DEBUG - 2017-09-09 11:30:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-09-09 11:30:55 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 11:30:55 --> User Agent Class Initialized
+DEBUG - 2017-09-09 11:30:55 --> Template class Initialized
+INFO - 2017-09-09 11:30:55 --> Model Class Initialized
+INFO - 2017-09-09 11:30:55 --> Controller Class Initialized
+DEBUG - 2017-09-09 11:30:55 --> Dashboard MX_Controller Initialized
+DEBUG - 2017-09-09 11:30:55 --> File loaded: /var/www/html/ecr/application/back-modules/dashboard/models/Admin_model.php
+INFO - 2017-09-09 11:30:55 --> Model Class Initialized
+INFO - 2017-09-09 11:30:55 --> Config Class Initialized
+INFO - 2017-09-09 11:30:55 --> Hooks Class Initialized
+DEBUG - 2017-09-09 11:30:55 --> UTF-8 Support Enabled
+INFO - 2017-09-09 11:30:55 --> Utf8 Class Initialized
+INFO - 2017-09-09 11:30:55 --> URI Class Initialized
+INFO - 2017-09-09 11:30:55 --> Router Class Initialized
+INFO - 2017-09-09 11:30:55 --> Output Class Initialized
+INFO - 2017-09-09 11:30:55 --> Security Class Initialized
+DEBUG - 2017-09-09 11:30:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-09-09 11:30:55 --> Input Class Initialized
+INFO - 2017-09-09 11:30:55 --> Language Class Initialized
+INFO - 2017-09-09 11:30:55 --> Language Class Initialized
+INFO - 2017-09-09 11:30:55 --> Config Class Initialized
+INFO - 2017-09-09 11:30:55 --> Loader Class Initialized
+INFO - 2017-09-09 11:30:55 --> Helper loaded: url_helper
+INFO - 2017-09-09 11:30:55 --> Helper loaded: emailsend_helper
+INFO - 2017-09-09 11:30:55 --> Database Driver Class Initialized
+DEBUG - 2017-09-09 11:30:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-09-09 11:30:55 --> Session: Class initialized using 'files' driver.
+INFO - 2017-09-09 11:30:55 --> User Agent Class Initialized
+DEBUG - 2017-09-09 11:30:55 --> Template class Initialized
+INFO - 2017-09-09 11:30:55 --> Model Class Initialized
+INFO - 2017-09-09 11:30:55 --> Controller Class Initialized
+DEBUG - 2017-09-09 11:30:55 --> File loaded: /var/www/html/ecr/application/back-modules/login/models/Login_model.php
+INFO - 2017-09-09 11:30:55 --> Model Class Initialized
+INFO - 2017-09-09 11:30:55 --> Helper loaded: form_helper
+INFO - 2017-09-09 11:30:55 --> Form Validation Class Initialized
+DEBUG - 2017-09-09 11:30:55 --> File loaded: /var/www/html/ecr/application/back-modules/login/views/login.php
+INFO - 2017-09-09 11:30:55 --> Final output sent to browser
+DEBUG - 2017-09-09 11:30:55 --> Total execution time: 0.0032

@@ -1,0 +1,2514 @@
+INFO - 2017-08-16 03:53:20 --> Config Class Initialized
+INFO - 2017-08-16 03:53:20 --> Hooks Class Initialized
+DEBUG - 2017-08-16 03:53:20 --> UTF-8 Support Enabled
+INFO - 2017-08-16 03:53:20 --> Utf8 Class Initialized
+INFO - 2017-08-16 03:53:20 --> URI Class Initialized
+DEBUG - 2017-08-16 03:53:20 --> No URI present. Default controller set.
+INFO - 2017-08-16 03:53:20 --> Router Class Initialized
+INFO - 2017-08-16 03:53:20 --> Output Class Initialized
+INFO - 2017-08-16 03:53:20 --> Security Class Initialized
+DEBUG - 2017-08-16 03:53:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 03:53:20 --> CSRF cookie sent
+INFO - 2017-08-16 03:53:20 --> Input Class Initialized
+INFO - 2017-08-16 03:53:21 --> Language Class Initialized
+INFO - 2017-08-16 03:53:21 --> Language Class Initialized
+INFO - 2017-08-16 03:53:21 --> Config Class Initialized
+INFO - 2017-08-16 03:53:21 --> Loader Class Initialized
+INFO - 2017-08-16 03:53:21 --> Controller Class Initialized
+DEBUG - 2017-08-16 03:53:21 --> File loaded: D:\wamp64\www\CI_315_hmvc\application\views\welcome_message.php
+INFO - 2017-08-16 03:53:21 --> Final output sent to browser
+DEBUG - 2017-08-16 03:53:21 --> Total execution time: 1.0055
+INFO - 2017-08-16 04:08:06 --> Config Class Initialized
+INFO - 2017-08-16 04:08:06 --> Hooks Class Initialized
+DEBUG - 2017-08-16 04:08:06 --> UTF-8 Support Enabled
+INFO - 2017-08-16 04:08:06 --> Utf8 Class Initialized
+INFO - 2017-08-16 04:08:06 --> URI Class Initialized
+DEBUG - 2017-08-16 04:08:06 --> No URI present. Default controller set.
+INFO - 2017-08-16 04:08:06 --> Router Class Initialized
+INFO - 2017-08-16 04:08:06 --> Output Class Initialized
+INFO - 2017-08-16 04:08:06 --> Security Class Initialized
+DEBUG - 2017-08-16 04:08:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 04:08:06 --> CSRF cookie sent
+INFO - 2017-08-16 04:08:07 --> Input Class Initialized
+INFO - 2017-08-16 04:08:07 --> Language Class Initialized
+INFO - 2017-08-16 04:08:07 --> Language Class Initialized
+INFO - 2017-08-16 04:08:07 --> Config Class Initialized
+INFO - 2017-08-16 04:08:07 --> Loader Class Initialized
+INFO - 2017-08-16 04:08:07 --> Controller Class Initialized
+DEBUG - 2017-08-16 04:08:07 --> File loaded: D:\wamp64\www\ci_3_hmvc\application\views\welcome_message.php
+INFO - 2017-08-16 04:08:07 --> Final output sent to browser
+DEBUG - 2017-08-16 04:08:07 --> Total execution time: 0.5386
+INFO - 2017-08-16 04:08:51 --> Config Class Initialized
+INFO - 2017-08-16 04:08:51 --> Hooks Class Initialized
+DEBUG - 2017-08-16 04:08:51 --> UTF-8 Support Enabled
+INFO - 2017-08-16 04:08:51 --> Utf8 Class Initialized
+INFO - 2017-08-16 04:08:51 --> URI Class Initialized
+DEBUG - 2017-08-16 04:08:51 --> No URI present. Default controller set.
+INFO - 2017-08-16 04:08:51 --> Router Class Initialized
+INFO - 2017-08-16 04:08:51 --> Output Class Initialized
+INFO - 2017-08-16 04:08:51 --> Security Class Initialized
+DEBUG - 2017-08-16 04:08:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 04:08:51 --> CSRF cookie sent
+INFO - 2017-08-16 04:08:51 --> Input Class Initialized
+INFO - 2017-08-16 04:08:51 --> Language Class Initialized
+INFO - 2017-08-16 04:08:51 --> Language Class Initialized
+INFO - 2017-08-16 04:08:51 --> Config Class Initialized
+INFO - 2017-08-16 04:08:51 --> Loader Class Initialized
+INFO - 2017-08-16 04:08:51 --> Controller Class Initialized
+DEBUG - 2017-08-16 04:08:51 --> File loaded: D:\wamp64\www\ci_3_hmvc\application\views\welcome_message.php
+INFO - 2017-08-16 04:08:51 --> Final output sent to browser
+DEBUG - 2017-08-16 04:08:51 --> Total execution time: 0.1204
+INFO - 2017-08-16 04:09:00 --> Config Class Initialized
+INFO - 2017-08-16 04:09:00 --> Hooks Class Initialized
+DEBUG - 2017-08-16 04:09:00 --> UTF-8 Support Enabled
+INFO - 2017-08-16 04:09:00 --> Utf8 Class Initialized
+INFO - 2017-08-16 04:09:00 --> URI Class Initialized
+INFO - 2017-08-16 04:09:00 --> Router Class Initialized
+INFO - 2017-08-16 04:09:00 --> Output Class Initialized
+INFO - 2017-08-16 04:09:00 --> Security Class Initialized
+DEBUG - 2017-08-16 04:09:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 04:09:00 --> CSRF cookie sent
+INFO - 2017-08-16 04:09:00 --> Input Class Initialized
+INFO - 2017-08-16 04:09:00 --> Language Class Initialized
+INFO - 2017-08-16 04:09:01 --> Language Class Initialized
+INFO - 2017-08-16 04:09:01 --> Config Class Initialized
+INFO - 2017-08-16 04:09:01 --> Loader Class Initialized
+INFO - 2017-08-16 04:09:01 --> Controller Class Initialized
+INFO - 2017-08-16 04:09:01 --> Final output sent to browser
+DEBUG - 2017-08-16 04:09:01 --> Total execution time: 0.1063
+INFO - 2017-08-16 04:10:15 --> Config Class Initialized
+INFO - 2017-08-16 04:10:15 --> Hooks Class Initialized
+DEBUG - 2017-08-16 04:10:15 --> UTF-8 Support Enabled
+INFO - 2017-08-16 04:10:15 --> Utf8 Class Initialized
+INFO - 2017-08-16 04:10:15 --> URI Class Initialized
+INFO - 2017-08-16 04:10:15 --> Router Class Initialized
+INFO - 2017-08-16 04:10:15 --> Output Class Initialized
+INFO - 2017-08-16 04:10:15 --> Security Class Initialized
+DEBUG - 2017-08-16 04:10:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 04:10:15 --> CSRF cookie sent
+INFO - 2017-08-16 04:10:15 --> Input Class Initialized
+INFO - 2017-08-16 04:10:15 --> Language Class Initialized
+INFO - 2017-08-16 04:10:15 --> Language Class Initialized
+INFO - 2017-08-16 04:10:15 --> Config Class Initialized
+INFO - 2017-08-16 04:10:15 --> Loader Class Initialized
+INFO - 2017-08-16 04:10:15 --> Controller Class Initialized
+INFO - 2017-08-16 04:10:15 --> Final output sent to browser
+DEBUG - 2017-08-16 04:10:15 --> Total execution time: 0.1072
+INFO - 2017-08-16 04:15:13 --> Config Class Initialized
+INFO - 2017-08-16 04:15:13 --> Hooks Class Initialized
+DEBUG - 2017-08-16 04:15:13 --> UTF-8 Support Enabled
+INFO - 2017-08-16 04:15:13 --> Utf8 Class Initialized
+INFO - 2017-08-16 04:15:13 --> URI Class Initialized
+INFO - 2017-08-16 04:15:13 --> Router Class Initialized
+INFO - 2017-08-16 04:15:13 --> Output Class Initialized
+INFO - 2017-08-16 04:15:13 --> Security Class Initialized
+DEBUG - 2017-08-16 04:15:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 04:15:13 --> CSRF cookie sent
+INFO - 2017-08-16 04:15:13 --> Input Class Initialized
+INFO - 2017-08-16 04:15:13 --> Language Class Initialized
+INFO - 2017-08-16 04:15:13 --> Language Class Initialized
+INFO - 2017-08-16 04:15:13 --> Config Class Initialized
+INFO - 2017-08-16 04:15:13 --> Loader Class Initialized
+INFO - 2017-08-16 04:15:13 --> Controller Class Initialized
+INFO - 2017-08-16 04:15:13 --> Final output sent to browser
+DEBUG - 2017-08-16 04:15:13 --> Total execution time: 0.1331
+INFO - 2017-08-16 04:15:18 --> Config Class Initialized
+INFO - 2017-08-16 04:15:18 --> Hooks Class Initialized
+DEBUG - 2017-08-16 04:15:18 --> UTF-8 Support Enabled
+INFO - 2017-08-16 04:15:18 --> Utf8 Class Initialized
+INFO - 2017-08-16 04:15:18 --> URI Class Initialized
+INFO - 2017-08-16 04:15:18 --> Router Class Initialized
+INFO - 2017-08-16 04:15:18 --> Output Class Initialized
+INFO - 2017-08-16 04:15:18 --> Security Class Initialized
+DEBUG - 2017-08-16 04:15:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 04:15:18 --> CSRF cookie sent
+INFO - 2017-08-16 04:15:18 --> Input Class Initialized
+INFO - 2017-08-16 04:15:18 --> Language Class Initialized
+INFO - 2017-08-16 04:15:18 --> Language Class Initialized
+INFO - 2017-08-16 04:15:18 --> Config Class Initialized
+INFO - 2017-08-16 04:15:18 --> Loader Class Initialized
+INFO - 2017-08-16 04:15:18 --> Controller Class Initialized
+INFO - 2017-08-16 04:15:18 --> Final output sent to browser
+DEBUG - 2017-08-16 04:15:18 --> Total execution time: 0.1063
+INFO - 2017-08-16 04:17:36 --> Config Class Initialized
+INFO - 2017-08-16 04:17:36 --> Hooks Class Initialized
+DEBUG - 2017-08-16 04:17:36 --> UTF-8 Support Enabled
+INFO - 2017-08-16 04:17:36 --> Utf8 Class Initialized
+INFO - 2017-08-16 04:17:36 --> URI Class Initialized
+INFO - 2017-08-16 04:17:36 --> Router Class Initialized
+INFO - 2017-08-16 04:17:36 --> Output Class Initialized
+INFO - 2017-08-16 04:17:36 --> Security Class Initialized
+DEBUG - 2017-08-16 04:17:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 04:17:36 --> CSRF cookie sent
+INFO - 2017-08-16 04:17:36 --> Input Class Initialized
+INFO - 2017-08-16 04:17:36 --> Language Class Initialized
+INFO - 2017-08-16 04:17:36 --> Language Class Initialized
+INFO - 2017-08-16 04:17:36 --> Config Class Initialized
+INFO - 2017-08-16 04:17:36 --> Loader Class Initialized
+INFO - 2017-08-16 04:17:36 --> Controller Class Initialized
+INFO - 2017-08-16 04:17:36 --> Final output sent to browser
+DEBUG - 2017-08-16 04:17:36 --> Total execution time: 0.1101
+INFO - 2017-08-16 04:18:31 --> Config Class Initialized
+INFO - 2017-08-16 04:18:31 --> Hooks Class Initialized
+DEBUG - 2017-08-16 04:18:31 --> UTF-8 Support Enabled
+INFO - 2017-08-16 04:18:31 --> Utf8 Class Initialized
+INFO - 2017-08-16 04:18:31 --> URI Class Initialized
+INFO - 2017-08-16 04:18:31 --> Router Class Initialized
+INFO - 2017-08-16 04:18:31 --> Output Class Initialized
+INFO - 2017-08-16 04:18:31 --> Security Class Initialized
+DEBUG - 2017-08-16 04:18:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 04:18:31 --> CSRF cookie sent
+INFO - 2017-08-16 04:18:31 --> Input Class Initialized
+INFO - 2017-08-16 04:18:31 --> Language Class Initialized
+INFO - 2017-08-16 04:18:31 --> Language Class Initialized
+INFO - 2017-08-16 04:18:31 --> Config Class Initialized
+INFO - 2017-08-16 04:18:31 --> Loader Class Initialized
+INFO - 2017-08-16 04:18:31 --> Controller Class Initialized
+INFO - 2017-08-16 04:18:31 --> Final output sent to browser
+DEBUG - 2017-08-16 04:18:31 --> Total execution time: 0.1067
+INFO - 2017-08-16 04:19:22 --> Config Class Initialized
+INFO - 2017-08-16 04:19:22 --> Hooks Class Initialized
+DEBUG - 2017-08-16 04:19:22 --> UTF-8 Support Enabled
+INFO - 2017-08-16 04:19:22 --> Utf8 Class Initialized
+INFO - 2017-08-16 04:19:22 --> URI Class Initialized
+INFO - 2017-08-16 04:19:22 --> Router Class Initialized
+INFO - 2017-08-16 04:19:22 --> Output Class Initialized
+INFO - 2017-08-16 04:19:22 --> Security Class Initialized
+DEBUG - 2017-08-16 04:19:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 04:19:22 --> CSRF cookie sent
+INFO - 2017-08-16 04:19:22 --> Input Class Initialized
+INFO - 2017-08-16 04:19:22 --> Language Class Initialized
+INFO - 2017-08-16 04:19:22 --> Language Class Initialized
+INFO - 2017-08-16 04:19:22 --> Config Class Initialized
+INFO - 2017-08-16 04:19:22 --> Loader Class Initialized
+INFO - 2017-08-16 04:19:22 --> Controller Class Initialized
+INFO - 2017-08-16 04:19:22 --> Final output sent to browser
+DEBUG - 2017-08-16 04:19:22 --> Total execution time: 0.1123
+INFO - 2017-08-16 04:39:43 --> Config Class Initialized
+INFO - 2017-08-16 04:39:43 --> Hooks Class Initialized
+DEBUG - 2017-08-16 04:39:43 --> UTF-8 Support Enabled
+INFO - 2017-08-16 04:39:43 --> Utf8 Class Initialized
+INFO - 2017-08-16 04:39:43 --> URI Class Initialized
+INFO - 2017-08-16 04:39:43 --> Router Class Initialized
+INFO - 2017-08-16 04:39:43 --> Output Class Initialized
+INFO - 2017-08-16 04:39:43 --> Security Class Initialized
+DEBUG - 2017-08-16 04:39:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 04:39:43 --> CSRF cookie sent
+INFO - 2017-08-16 04:39:43 --> Input Class Initialized
+INFO - 2017-08-16 04:39:43 --> Language Class Initialized
+INFO - 2017-08-16 04:39:44 --> Language Class Initialized
+INFO - 2017-08-16 04:39:44 --> Config Class Initialized
+INFO - 2017-08-16 04:39:44 --> Loader Class Initialized
+INFO - 2017-08-16 04:39:44 --> Helper loaded: url_helper
+INFO - 2017-08-16 04:39:44 --> User Agent Class Initialized
+DEBUG - 2017-08-16 04:39:44 --> Template class Initialized
+INFO - 2017-08-16 04:39:44 --> Controller Class Initialized
+INFO - 2017-08-16 04:39:44 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 04:39:44 --> File loaded: D:\wamp64\www\ci_3_hmvc\application\front-modules/user/views/welcome_message.php
+DEBUG - 2017-08-16 04:39:44 --> File loaded: D:\wamp64\www\ci_3_hmvc\application\templates/front/index.php
+INFO - 2017-08-16 04:39:44 --> Final output sent to browser
+DEBUG - 2017-08-16 04:39:44 --> Total execution time: 0.3381
+INFO - 2017-08-16 04:40:06 --> Config Class Initialized
+INFO - 2017-08-16 04:40:06 --> Hooks Class Initialized
+DEBUG - 2017-08-16 04:40:06 --> UTF-8 Support Enabled
+INFO - 2017-08-16 04:40:06 --> Utf8 Class Initialized
+INFO - 2017-08-16 04:40:06 --> URI Class Initialized
+INFO - 2017-08-16 04:40:06 --> Router Class Initialized
+INFO - 2017-08-16 04:40:06 --> Output Class Initialized
+INFO - 2017-08-16 04:40:06 --> Security Class Initialized
+DEBUG - 2017-08-16 04:40:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 04:40:06 --> CSRF cookie sent
+INFO - 2017-08-16 04:40:06 --> Input Class Initialized
+INFO - 2017-08-16 04:40:06 --> Language Class Initialized
+INFO - 2017-08-16 04:40:06 --> Language Class Initialized
+INFO - 2017-08-16 04:40:06 --> Config Class Initialized
+INFO - 2017-08-16 04:40:06 --> Loader Class Initialized
+INFO - 2017-08-16 04:40:06 --> Helper loaded: url_helper
+INFO - 2017-08-16 04:40:06 --> User Agent Class Initialized
+DEBUG - 2017-08-16 04:40:06 --> Template class Initialized
+INFO - 2017-08-16 04:40:06 --> Controller Class Initialized
+INFO - 2017-08-16 04:40:06 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 04:40:06 --> File loaded: D:\wamp64\www\ci_3_hmvc\application\front-modules/user/views/welcome_message.php
+DEBUG - 2017-08-16 04:40:06 --> File loaded: D:\wamp64\www\ci_3_hmvc\application\templates/front/index.php
+INFO - 2017-08-16 04:40:06 --> Final output sent to browser
+DEBUG - 2017-08-16 04:40:06 --> Total execution time: 0.1523
+INFO - 2017-08-16 04:40:06 --> Config Class Initialized
+INFO - 2017-08-16 04:40:06 --> Hooks Class Initialized
+DEBUG - 2017-08-16 04:40:06 --> UTF-8 Support Enabled
+INFO - 2017-08-16 04:40:06 --> Utf8 Class Initialized
+INFO - 2017-08-16 04:40:06 --> URI Class Initialized
+INFO - 2017-08-16 04:40:06 --> Router Class Initialized
+INFO - 2017-08-16 04:40:06 --> Output Class Initialized
+INFO - 2017-08-16 04:40:06 --> Security Class Initialized
+DEBUG - 2017-08-16 04:40:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 04:40:06 --> CSRF cookie sent
+INFO - 2017-08-16 04:40:06 --> Input Class Initialized
+INFO - 2017-08-16 04:40:06 --> Language Class Initialized
+INFO - 2017-08-16 04:40:06 --> Language Class Initialized
+INFO - 2017-08-16 04:40:06 --> Config Class Initialized
+INFO - 2017-08-16 04:40:06 --> Loader Class Initialized
+INFO - 2017-08-16 04:40:06 --> Helper loaded: url_helper
+INFO - 2017-08-16 04:40:06 --> User Agent Class Initialized
+DEBUG - 2017-08-16 04:40:06 --> Template class Initialized
+INFO - 2017-08-16 04:40:06 --> Controller Class Initialized
+INFO - 2017-08-16 04:40:06 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 04:40:06 --> File loaded: D:\wamp64\www\ci_3_hmvc\application\front-modules/user/views/welcome_message.php
+DEBUG - 2017-08-16 04:40:06 --> File loaded: D:\wamp64\www\ci_3_hmvc\application\templates/front/index.php
+INFO - 2017-08-16 04:40:06 --> Final output sent to browser
+DEBUG - 2017-08-16 04:40:06 --> Total execution time: 0.1521
+INFO - 2017-08-16 05:01:40 --> Config Class Initialized
+INFO - 2017-08-16 05:01:40 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:01:40 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:01:40 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:01:40 --> URI Class Initialized
+DEBUG - 2017-08-16 05:01:40 --> No URI present. Default controller set.
+INFO - 2017-08-16 05:01:40 --> Router Class Initialized
+INFO - 2017-08-16 05:01:40 --> Output Class Initialized
+INFO - 2017-08-16 05:01:40 --> Security Class Initialized
+DEBUG - 2017-08-16 05:01:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:01:40 --> CSRF cookie sent
+INFO - 2017-08-16 05:01:40 --> Input Class Initialized
+INFO - 2017-08-16 05:01:40 --> Language Class Initialized
+INFO - 2017-08-16 05:01:40 --> Language Class Initialized
+INFO - 2017-08-16 05:01:40 --> Config Class Initialized
+INFO - 2017-08-16 05:01:40 --> Loader Class Initialized
+INFO - 2017-08-16 05:01:40 --> Helper loaded: url_helper
+INFO - 2017-08-16 05:01:40 --> User Agent Class Initialized
+DEBUG - 2017-08-16 05:01:40 --> Template class Initialized
+INFO - 2017-08-16 05:01:40 --> Controller Class Initialized
+DEBUG - 2017-08-16 05:01:40 --> File loaded: D:\wamp64\www\ci_3_hmvc\application\views\welcome_message.php
+INFO - 2017-08-16 05:01:40 --> Final output sent to browser
+DEBUG - 2017-08-16 05:01:40 --> Total execution time: 0.1412
+INFO - 2017-08-16 05:02:03 --> Config Class Initialized
+INFO - 2017-08-16 05:02:03 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:02:03 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:02:03 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:02:03 --> URI Class Initialized
+DEBUG - 2017-08-16 05:02:03 --> No URI present. Default controller set.
+INFO - 2017-08-16 05:02:03 --> Router Class Initialized
+INFO - 2017-08-16 05:02:03 --> Output Class Initialized
+INFO - 2017-08-16 05:02:03 --> Security Class Initialized
+DEBUG - 2017-08-16 05:02:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:02:03 --> CSRF cookie sent
+INFO - 2017-08-16 05:02:03 --> Input Class Initialized
+INFO - 2017-08-16 05:02:03 --> Language Class Initialized
+INFO - 2017-08-16 05:02:03 --> Language Class Initialized
+INFO - 2017-08-16 05:02:03 --> Config Class Initialized
+INFO - 2017-08-16 05:02:03 --> Loader Class Initialized
+INFO - 2017-08-16 05:02:03 --> Helper loaded: url_helper
+INFO - 2017-08-16 05:02:03 --> User Agent Class Initialized
+DEBUG - 2017-08-16 05:02:03 --> Template class Initialized
+INFO - 2017-08-16 05:02:03 --> Controller Class Initialized
+DEBUG - 2017-08-16 05:02:03 --> File loaded: D:\wamp64\www\ci_3_hmvc\application\views\welcome_message.php
+INFO - 2017-08-16 05:02:03 --> Final output sent to browser
+DEBUG - 2017-08-16 05:02:03 --> Total execution time: 0.1692
+INFO - 2017-08-16 05:02:04 --> Config Class Initialized
+INFO - 2017-08-16 05:02:04 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:02:04 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:02:04 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:02:04 --> URI Class Initialized
+DEBUG - 2017-08-16 05:02:04 --> No URI present. Default controller set.
+INFO - 2017-08-16 05:02:04 --> Router Class Initialized
+INFO - 2017-08-16 05:02:04 --> Output Class Initialized
+INFO - 2017-08-16 05:02:04 --> Security Class Initialized
+DEBUG - 2017-08-16 05:02:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:02:04 --> CSRF cookie sent
+INFO - 2017-08-16 05:02:04 --> Input Class Initialized
+INFO - 2017-08-16 05:02:04 --> Language Class Initialized
+INFO - 2017-08-16 05:02:04 --> Language Class Initialized
+INFO - 2017-08-16 05:02:04 --> Config Class Initialized
+INFO - 2017-08-16 05:02:04 --> Loader Class Initialized
+INFO - 2017-08-16 05:02:04 --> Helper loaded: url_helper
+INFO - 2017-08-16 05:02:04 --> User Agent Class Initialized
+DEBUG - 2017-08-16 05:02:04 --> Template class Initialized
+INFO - 2017-08-16 05:02:04 --> Controller Class Initialized
+DEBUG - 2017-08-16 05:02:04 --> File loaded: D:\wamp64\www\ci_3_hmvc\application\views\welcome_message.php
+INFO - 2017-08-16 05:02:04 --> Final output sent to browser
+DEBUG - 2017-08-16 05:02:04 --> Total execution time: 0.1488
+INFO - 2017-08-16 05:02:04 --> Config Class Initialized
+INFO - 2017-08-16 05:02:04 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:02:04 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:02:04 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:02:04 --> URI Class Initialized
+DEBUG - 2017-08-16 05:02:04 --> No URI present. Default controller set.
+INFO - 2017-08-16 05:02:04 --> Router Class Initialized
+INFO - 2017-08-16 05:02:04 --> Output Class Initialized
+INFO - 2017-08-16 05:02:04 --> Security Class Initialized
+DEBUG - 2017-08-16 05:02:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:02:04 --> CSRF cookie sent
+INFO - 2017-08-16 05:02:04 --> Input Class Initialized
+INFO - 2017-08-16 05:02:04 --> Language Class Initialized
+INFO - 2017-08-16 05:02:04 --> Language Class Initialized
+INFO - 2017-08-16 05:02:04 --> Config Class Initialized
+INFO - 2017-08-16 05:02:04 --> Loader Class Initialized
+INFO - 2017-08-16 05:02:04 --> Helper loaded: url_helper
+INFO - 2017-08-16 05:02:04 --> User Agent Class Initialized
+DEBUG - 2017-08-16 05:02:04 --> Template class Initialized
+INFO - 2017-08-16 05:02:04 --> Controller Class Initialized
+DEBUG - 2017-08-16 05:02:04 --> File loaded: D:\wamp64\www\ci_3_hmvc\application\views\welcome_message.php
+INFO - 2017-08-16 05:02:04 --> Final output sent to browser
+DEBUG - 2017-08-16 05:02:04 --> Total execution time: 0.1475
+INFO - 2017-08-16 05:02:04 --> Config Class Initialized
+INFO - 2017-08-16 05:02:04 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:02:04 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:02:04 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:02:04 --> URI Class Initialized
+DEBUG - 2017-08-16 05:02:04 --> No URI present. Default controller set.
+INFO - 2017-08-16 05:02:04 --> Router Class Initialized
+INFO - 2017-08-16 05:02:04 --> Output Class Initialized
+INFO - 2017-08-16 05:02:04 --> Security Class Initialized
+DEBUG - 2017-08-16 05:02:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:02:04 --> CSRF cookie sent
+INFO - 2017-08-16 05:02:04 --> Input Class Initialized
+INFO - 2017-08-16 05:02:04 --> Language Class Initialized
+INFO - 2017-08-16 05:02:04 --> Language Class Initialized
+INFO - 2017-08-16 05:02:04 --> Config Class Initialized
+INFO - 2017-08-16 05:02:04 --> Loader Class Initialized
+INFO - 2017-08-16 05:02:04 --> Helper loaded: url_helper
+INFO - 2017-08-16 05:02:04 --> User Agent Class Initialized
+DEBUG - 2017-08-16 05:02:04 --> Template class Initialized
+INFO - 2017-08-16 05:02:04 --> Controller Class Initialized
+DEBUG - 2017-08-16 05:02:04 --> File loaded: D:\wamp64\www\ci_3_hmvc\application\views\welcome_message.php
+INFO - 2017-08-16 05:02:04 --> Final output sent to browser
+DEBUG - 2017-08-16 05:02:04 --> Total execution time: 0.1415
+INFO - 2017-08-16 05:02:08 --> Config Class Initialized
+INFO - 2017-08-16 05:02:08 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:02:08 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:02:08 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:02:08 --> URI Class Initialized
+DEBUG - 2017-08-16 05:02:08 --> No URI present. Default controller set.
+INFO - 2017-08-16 05:02:08 --> Router Class Initialized
+INFO - 2017-08-16 05:02:08 --> Output Class Initialized
+INFO - 2017-08-16 05:02:08 --> Security Class Initialized
+DEBUG - 2017-08-16 05:02:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:02:08 --> CSRF cookie sent
+INFO - 2017-08-16 05:02:08 --> Input Class Initialized
+INFO - 2017-08-16 05:02:08 --> Language Class Initialized
+INFO - 2017-08-16 05:02:08 --> Language Class Initialized
+INFO - 2017-08-16 05:02:08 --> Config Class Initialized
+INFO - 2017-08-16 05:02:08 --> Loader Class Initialized
+INFO - 2017-08-16 05:02:08 --> Helper loaded: url_helper
+INFO - 2017-08-16 05:02:08 --> User Agent Class Initialized
+DEBUG - 2017-08-16 05:02:08 --> Template class Initialized
+INFO - 2017-08-16 05:02:08 --> Controller Class Initialized
+DEBUG - 2017-08-16 05:02:08 --> File loaded: D:\wamp64\www\ci_3_hmvc\application\views\welcome_message.php
+INFO - 2017-08-16 05:02:08 --> Final output sent to browser
+DEBUG - 2017-08-16 05:02:08 --> Total execution time: 0.1421
+INFO - 2017-08-16 05:02:58 --> Config Class Initialized
+INFO - 2017-08-16 05:02:58 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:02:58 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:02:58 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:02:58 --> URI Class Initialized
+DEBUG - 2017-08-16 05:02:58 --> No URI present. Default controller set.
+INFO - 2017-08-16 05:02:58 --> Router Class Initialized
+INFO - 2017-08-16 05:02:58 --> Output Class Initialized
+INFO - 2017-08-16 05:02:58 --> Security Class Initialized
+DEBUG - 2017-08-16 05:02:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:02:59 --> CSRF cookie sent
+INFO - 2017-08-16 05:02:59 --> Input Class Initialized
+INFO - 2017-08-16 05:02:59 --> Language Class Initialized
+INFO - 2017-08-16 05:02:59 --> Language Class Initialized
+INFO - 2017-08-16 05:02:59 --> Config Class Initialized
+INFO - 2017-08-16 05:02:59 --> Loader Class Initialized
+INFO - 2017-08-16 05:02:59 --> Helper loaded: url_helper
+INFO - 2017-08-16 05:02:59 --> User Agent Class Initialized
+DEBUG - 2017-08-16 05:02:59 --> Template class Initialized
+INFO - 2017-08-16 05:02:59 --> Controller Class Initialized
+DEBUG - 2017-08-16 05:02:59 --> File loaded: D:\wamp64\www\ci_3_hmvc\application\views\welcome_message.php
+INFO - 2017-08-16 05:02:59 --> Final output sent to browser
+DEBUG - 2017-08-16 05:02:59 --> Total execution time: 0.1426
+INFO - 2017-08-16 05:03:03 --> Config Class Initialized
+INFO - 2017-08-16 05:03:03 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:03:03 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:03:03 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:03:03 --> URI Class Initialized
+DEBUG - 2017-08-16 05:03:03 --> No URI present. Default controller set.
+INFO - 2017-08-16 05:03:03 --> Router Class Initialized
+INFO - 2017-08-16 05:03:03 --> Output Class Initialized
+INFO - 2017-08-16 05:03:03 --> Security Class Initialized
+DEBUG - 2017-08-16 05:03:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:03:03 --> CSRF cookie sent
+INFO - 2017-08-16 05:03:03 --> Input Class Initialized
+INFO - 2017-08-16 05:03:03 --> Language Class Initialized
+INFO - 2017-08-16 05:03:03 --> Language Class Initialized
+INFO - 2017-08-16 05:03:03 --> Config Class Initialized
+INFO - 2017-08-16 05:03:03 --> Loader Class Initialized
+INFO - 2017-08-16 05:03:03 --> Helper loaded: url_helper
+INFO - 2017-08-16 05:03:03 --> User Agent Class Initialized
+DEBUG - 2017-08-16 05:03:03 --> Template class Initialized
+INFO - 2017-08-16 05:03:04 --> Controller Class Initialized
+DEBUG - 2017-08-16 05:03:04 --> File loaded: D:\wamp64\www\ci_3_hmvc\application\views\welcome_message.php
+INFO - 2017-08-16 05:03:04 --> Final output sent to browser
+DEBUG - 2017-08-16 05:03:04 --> Total execution time: 0.1425
+INFO - 2017-08-16 05:03:20 --> Config Class Initialized
+INFO - 2017-08-16 05:03:20 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:03:20 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:03:20 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:03:20 --> URI Class Initialized
+INFO - 2017-08-16 05:03:20 --> Router Class Initialized
+INFO - 2017-08-16 05:03:20 --> Output Class Initialized
+INFO - 2017-08-16 05:03:20 --> Security Class Initialized
+DEBUG - 2017-08-16 05:03:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:03:20 --> CSRF cookie sent
+INFO - 2017-08-16 05:03:20 --> Input Class Initialized
+INFO - 2017-08-16 05:03:20 --> Language Class Initialized
+INFO - 2017-08-16 05:03:20 --> Language Class Initialized
+INFO - 2017-08-16 05:03:20 --> Config Class Initialized
+INFO - 2017-08-16 05:03:20 --> Loader Class Initialized
+INFO - 2017-08-16 05:03:20 --> Helper loaded: url_helper
+INFO - 2017-08-16 05:03:20 --> User Agent Class Initialized
+DEBUG - 2017-08-16 05:03:20 --> Template class Initialized
+INFO - 2017-08-16 05:03:20 --> Controller Class Initialized
+INFO - 2017-08-16 05:03:20 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 05:03:20 --> File loaded: D:\wamp64\www\ci_3_hmvc\application\views\welcome_message.php
+DEBUG - 2017-08-16 05:03:20 --> File loaded: D:\wamp64\www\ci_3_hmvc\application\templates/admin/index.php
+INFO - 2017-08-16 05:03:20 --> Final output sent to browser
+DEBUG - 2017-08-16 05:03:20 --> Total execution time: 0.1532
+INFO - 2017-08-16 05:04:43 --> Config Class Initialized
+INFO - 2017-08-16 05:04:43 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:04:43 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:04:43 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:04:43 --> URI Class Initialized
+INFO - 2017-08-16 05:04:43 --> Router Class Initialized
+INFO - 2017-08-16 05:04:43 --> Output Class Initialized
+INFO - 2017-08-16 05:04:43 --> Security Class Initialized
+DEBUG - 2017-08-16 05:04:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:04:43 --> CSRF cookie sent
+INFO - 2017-08-16 05:04:43 --> Input Class Initialized
+INFO - 2017-08-16 05:04:43 --> Language Class Initialized
+ERROR - 2017-08-16 05:04:43 --> 404 Page Not Found: /index
+INFO - 2017-08-16 05:04:48 --> Config Class Initialized
+INFO - 2017-08-16 05:04:48 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:04:48 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:04:48 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:04:48 --> URI Class Initialized
+DEBUG - 2017-08-16 05:04:48 --> No URI present. Default controller set.
+INFO - 2017-08-16 05:04:48 --> Router Class Initialized
+INFO - 2017-08-16 05:04:48 --> Output Class Initialized
+INFO - 2017-08-16 05:04:48 --> Security Class Initialized
+DEBUG - 2017-08-16 05:04:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:04:48 --> CSRF cookie sent
+INFO - 2017-08-16 05:04:48 --> Input Class Initialized
+INFO - 2017-08-16 05:04:48 --> Language Class Initialized
+INFO - 2017-08-16 05:04:48 --> Language Class Initialized
+INFO - 2017-08-16 05:04:48 --> Config Class Initialized
+INFO - 2017-08-16 05:04:48 --> Loader Class Initialized
+INFO - 2017-08-16 05:04:48 --> Helper loaded: url_helper
+INFO - 2017-08-16 05:04:48 --> User Agent Class Initialized
+DEBUG - 2017-08-16 05:04:48 --> Template class Initialized
+INFO - 2017-08-16 05:04:48 --> Controller Class Initialized
+DEBUG - 2017-08-16 05:04:48 --> File loaded: D:\wamp64\www\ci_3_hmvc\application\views\welcome_message.php
+INFO - 2017-08-16 05:04:48 --> Final output sent to browser
+DEBUG - 2017-08-16 05:04:48 --> Total execution time: 0.1448
+INFO - 2017-08-16 05:04:54 --> Config Class Initialized
+INFO - 2017-08-16 05:04:54 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:04:54 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:04:54 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:04:54 --> URI Class Initialized
+INFO - 2017-08-16 05:04:54 --> Router Class Initialized
+INFO - 2017-08-16 05:04:54 --> Output Class Initialized
+INFO - 2017-08-16 05:04:54 --> Security Class Initialized
+DEBUG - 2017-08-16 05:04:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:04:54 --> CSRF cookie sent
+INFO - 2017-08-16 05:04:54 --> Input Class Initialized
+INFO - 2017-08-16 05:04:54 --> Language Class Initialized
+INFO - 2017-08-16 05:04:54 --> Language Class Initialized
+INFO - 2017-08-16 05:04:54 --> Config Class Initialized
+INFO - 2017-08-16 05:04:54 --> Loader Class Initialized
+INFO - 2017-08-16 05:04:54 --> Helper loaded: url_helper
+INFO - 2017-08-16 05:04:54 --> User Agent Class Initialized
+DEBUG - 2017-08-16 05:04:54 --> Template class Initialized
+INFO - 2017-08-16 05:04:54 --> Controller Class Initialized
+INFO - 2017-08-16 05:04:54 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 05:04:54 --> File loaded: D:\wamp64\www\ci_3_hmvc\application\views\welcome_message.php
+DEBUG - 2017-08-16 05:04:54 --> File loaded: D:\wamp64\www\ci_3_hmvc\application\templates/admin/index.php
+INFO - 2017-08-16 05:04:54 --> Final output sent to browser
+DEBUG - 2017-08-16 05:04:54 --> Total execution time: 0.1525
+INFO - 2017-08-16 05:07:24 --> Config Class Initialized
+INFO - 2017-08-16 05:07:24 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:07:24 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:07:24 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:07:24 --> URI Class Initialized
+INFO - 2017-08-16 05:07:24 --> Router Class Initialized
+INFO - 2017-08-16 05:07:24 --> Output Class Initialized
+INFO - 2017-08-16 05:07:24 --> Security Class Initialized
+DEBUG - 2017-08-16 05:07:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:07:24 --> CSRF cookie sent
+INFO - 2017-08-16 05:07:25 --> Input Class Initialized
+INFO - 2017-08-16 05:07:25 --> Language Class Initialized
+INFO - 2017-08-16 05:07:25 --> Language Class Initialized
+INFO - 2017-08-16 05:07:25 --> Config Class Initialized
+INFO - 2017-08-16 05:07:25 --> Loader Class Initialized
+INFO - 2017-08-16 05:07:25 --> Helper loaded: url_helper
+INFO - 2017-08-16 05:07:25 --> User Agent Class Initialized
+DEBUG - 2017-08-16 05:07:25 --> Template class Initialized
+INFO - 2017-08-16 05:07:25 --> Controller Class Initialized
+INFO - 2017-08-16 05:07:25 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 05:07:25 --> File loaded: D:\wamp64\www\ci_3_hmvc\application\views\welcome_message.php
+DEBUG - 2017-08-16 05:07:25 --> File loaded: D:\wamp64\www\ci_3_hmvc\application\templates/admin/index.php
+INFO - 2017-08-16 05:07:25 --> Final output sent to browser
+DEBUG - 2017-08-16 05:07:25 --> Total execution time: 0.1515
+INFO - 2017-08-16 05:07:27 --> Config Class Initialized
+INFO - 2017-08-16 05:07:27 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:07:27 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:07:27 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:07:27 --> URI Class Initialized
+DEBUG - 2017-08-16 05:07:27 --> No URI present. Default controller set.
+INFO - 2017-08-16 05:07:27 --> Router Class Initialized
+INFO - 2017-08-16 05:07:27 --> Output Class Initialized
+INFO - 2017-08-16 05:07:27 --> Security Class Initialized
+DEBUG - 2017-08-16 05:07:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:07:27 --> CSRF cookie sent
+INFO - 2017-08-16 05:07:27 --> Input Class Initialized
+INFO - 2017-08-16 05:07:27 --> Language Class Initialized
+INFO - 2017-08-16 05:07:27 --> Language Class Initialized
+INFO - 2017-08-16 05:07:27 --> Config Class Initialized
+INFO - 2017-08-16 05:07:27 --> Loader Class Initialized
+INFO - 2017-08-16 05:07:27 --> Helper loaded: url_helper
+INFO - 2017-08-16 05:07:27 --> User Agent Class Initialized
+DEBUG - 2017-08-16 05:07:27 --> Template class Initialized
+INFO - 2017-08-16 05:07:27 --> Controller Class Initialized
+DEBUG - 2017-08-16 05:07:27 --> File loaded: D:\wamp64\www\ci_3_hmvc\application\views\welcome_message.php
+INFO - 2017-08-16 05:07:27 --> Final output sent to browser
+DEBUG - 2017-08-16 05:07:27 --> Total execution time: 0.1432
+INFO - 2017-08-16 05:07:38 --> Config Class Initialized
+INFO - 2017-08-16 05:07:38 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:07:38 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:07:38 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:07:38 --> URI Class Initialized
+DEBUG - 2017-08-16 05:07:38 --> No URI present. Default controller set.
+INFO - 2017-08-16 05:07:38 --> Router Class Initialized
+INFO - 2017-08-16 05:07:38 --> Output Class Initialized
+INFO - 2017-08-16 05:07:38 --> Security Class Initialized
+DEBUG - 2017-08-16 05:07:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:07:38 --> CSRF cookie sent
+INFO - 2017-08-16 05:07:38 --> Input Class Initialized
+INFO - 2017-08-16 05:07:38 --> Language Class Initialized
+INFO - 2017-08-16 05:07:38 --> Language Class Initialized
+INFO - 2017-08-16 05:07:38 --> Config Class Initialized
+INFO - 2017-08-16 05:07:38 --> Loader Class Initialized
+INFO - 2017-08-16 05:07:38 --> Helper loaded: url_helper
+INFO - 2017-08-16 05:07:38 --> User Agent Class Initialized
+DEBUG - 2017-08-16 05:07:38 --> Template class Initialized
+INFO - 2017-08-16 05:07:38 --> Controller Class Initialized
+DEBUG - 2017-08-16 05:07:38 --> File loaded: D:\wamp64\www\ci_3_hmvc\application\views\welcome_message.php
+INFO - 2017-08-16 05:07:38 --> Final output sent to browser
+DEBUG - 2017-08-16 05:07:38 --> Total execution time: 0.1704
+INFO - 2017-08-16 05:07:41 --> Config Class Initialized
+INFO - 2017-08-16 05:07:41 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:07:41 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:07:41 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:07:41 --> URI Class Initialized
+INFO - 2017-08-16 05:07:41 --> Router Class Initialized
+INFO - 2017-08-16 05:07:41 --> Output Class Initialized
+INFO - 2017-08-16 05:07:41 --> Security Class Initialized
+DEBUG - 2017-08-16 05:07:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:07:41 --> CSRF cookie sent
+INFO - 2017-08-16 05:07:41 --> Input Class Initialized
+INFO - 2017-08-16 05:07:41 --> Language Class Initialized
+INFO - 2017-08-16 05:07:41 --> Language Class Initialized
+INFO - 2017-08-16 05:07:41 --> Config Class Initialized
+INFO - 2017-08-16 05:07:41 --> Loader Class Initialized
+INFO - 2017-08-16 05:07:41 --> Helper loaded: url_helper
+INFO - 2017-08-16 05:07:41 --> User Agent Class Initialized
+DEBUG - 2017-08-16 05:07:41 --> Template class Initialized
+INFO - 2017-08-16 05:07:41 --> Controller Class Initialized
+INFO - 2017-08-16 05:07:41 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 05:07:41 --> File loaded: D:\wamp64\www\ci_3_hmvc\application\views\welcome_message.php
+DEBUG - 2017-08-16 05:07:41 --> File loaded: D:\wamp64\www\ci_3_hmvc\application\templates/admin/index.php
+INFO - 2017-08-16 05:07:41 --> Final output sent to browser
+DEBUG - 2017-08-16 05:07:41 --> Total execution time: 0.1498
+INFO - 2017-08-16 05:08:03 --> Config Class Initialized
+INFO - 2017-08-16 05:08:03 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:08:03 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:08:03 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:08:03 --> URI Class Initialized
+INFO - 2017-08-16 05:08:03 --> Router Class Initialized
+INFO - 2017-08-16 05:08:03 --> Output Class Initialized
+INFO - 2017-08-16 05:08:03 --> Security Class Initialized
+DEBUG - 2017-08-16 05:08:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:08:03 --> CSRF cookie sent
+INFO - 2017-08-16 05:08:03 --> Input Class Initialized
+INFO - 2017-08-16 05:08:03 --> Language Class Initialized
+INFO - 2017-08-16 05:08:03 --> Language Class Initialized
+INFO - 2017-08-16 05:08:03 --> Config Class Initialized
+INFO - 2017-08-16 05:08:03 --> Loader Class Initialized
+INFO - 2017-08-16 05:08:03 --> Helper loaded: url_helper
+INFO - 2017-08-16 05:08:03 --> User Agent Class Initialized
+DEBUG - 2017-08-16 05:08:03 --> Template class Initialized
+INFO - 2017-08-16 05:08:03 --> Controller Class Initialized
+INFO - 2017-08-16 05:08:03 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 05:08:03 --> File loaded: D:\wamp64\www\ci_3_hmvc\application\views\welcome_message.php
+DEBUG - 2017-08-16 05:08:03 --> File loaded: D:\wamp64\www\ci_3_hmvc\application\templates/admin/index.php
+INFO - 2017-08-16 05:08:03 --> Final output sent to browser
+DEBUG - 2017-08-16 05:08:03 --> Total execution time: 0.1543
+INFO - 2017-08-16 05:10:16 --> Config Class Initialized
+INFO - 2017-08-16 05:10:16 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:10:16 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:10:16 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:10:16 --> URI Class Initialized
+INFO - 2017-08-16 05:10:16 --> Router Class Initialized
+INFO - 2017-08-16 05:10:16 --> Output Class Initialized
+INFO - 2017-08-16 05:10:16 --> Security Class Initialized
+DEBUG - 2017-08-16 05:10:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:10:16 --> CSRF cookie sent
+INFO - 2017-08-16 05:10:16 --> Input Class Initialized
+INFO - 2017-08-16 05:10:16 --> Language Class Initialized
+INFO - 2017-08-16 05:10:16 --> Language Class Initialized
+INFO - 2017-08-16 05:10:16 --> Config Class Initialized
+INFO - 2017-08-16 05:10:16 --> Loader Class Initialized
+INFO - 2017-08-16 05:10:16 --> Helper loaded: url_helper
+INFO - 2017-08-16 05:10:16 --> User Agent Class Initialized
+DEBUG - 2017-08-16 05:10:16 --> Template class Initialized
+INFO - 2017-08-16 05:10:16 --> Controller Class Initialized
+INFO - 2017-08-16 05:10:16 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 05:10:16 --> File loaded: D:\wamp64\www\ci_3_hmvc\application\views\welcome_message.php
+DEBUG - 2017-08-16 05:10:16 --> File loaded: D:\wamp64\www\ci_3_hmvc\application\templates/admin/index.php
+INFO - 2017-08-16 05:10:16 --> Final output sent to browser
+DEBUG - 2017-08-16 05:10:16 --> Total execution time: 0.1586
+INFO - 2017-08-16 05:24:40 --> Config Class Initialized
+INFO - 2017-08-16 05:24:40 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:24:40 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:24:40 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:24:40 --> URI Class Initialized
+INFO - 2017-08-16 05:24:40 --> Router Class Initialized
+INFO - 2017-08-16 05:24:40 --> Output Class Initialized
+INFO - 2017-08-16 05:24:40 --> Security Class Initialized
+DEBUG - 2017-08-16 05:24:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:24:40 --> CSRF cookie sent
+INFO - 2017-08-16 05:24:40 --> Input Class Initialized
+INFO - 2017-08-16 05:24:40 --> Language Class Initialized
+INFO - 2017-08-16 05:24:40 --> Language Class Initialized
+INFO - 2017-08-16 05:24:40 --> Config Class Initialized
+INFO - 2017-08-16 05:24:40 --> Loader Class Initialized
+INFO - 2017-08-16 05:24:40 --> Helper loaded: url_helper
+INFO - 2017-08-16 05:24:40 --> User Agent Class Initialized
+DEBUG - 2017-08-16 05:24:41 --> Template class Initialized
+INFO - 2017-08-16 05:24:41 --> Controller Class Initialized
+INFO - 2017-08-16 05:24:41 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 05:24:41 --> File loaded: D:\wamp64\www\ecr\application\views\welcome_message.php
+DEBUG - 2017-08-16 05:24:41 --> File loaded: D:\wamp64\www\ecr\application\templates/front/index.php
+INFO - 2017-08-16 05:24:41 --> Final output sent to browser
+DEBUG - 2017-08-16 05:24:41 --> Total execution time: 0.9285
+INFO - 2017-08-16 05:26:15 --> Config Class Initialized
+INFO - 2017-08-16 05:26:15 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:26:15 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:26:15 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:26:15 --> URI Class Initialized
+INFO - 2017-08-16 05:26:15 --> Router Class Initialized
+INFO - 2017-08-16 05:26:15 --> Output Class Initialized
+INFO - 2017-08-16 05:26:15 --> Security Class Initialized
+DEBUG - 2017-08-16 05:26:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:26:15 --> CSRF cookie sent
+INFO - 2017-08-16 05:26:15 --> Input Class Initialized
+INFO - 2017-08-16 05:26:15 --> Language Class Initialized
+INFO - 2017-08-16 05:26:15 --> Language Class Initialized
+INFO - 2017-08-16 05:26:16 --> Config Class Initialized
+INFO - 2017-08-16 05:26:16 --> Loader Class Initialized
+INFO - 2017-08-16 05:26:16 --> Helper loaded: url_helper
+INFO - 2017-08-16 05:26:16 --> User Agent Class Initialized
+DEBUG - 2017-08-16 05:26:16 --> Template class Initialized
+INFO - 2017-08-16 05:26:16 --> Controller Class Initialized
+INFO - 2017-08-16 05:26:16 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 05:26:16 --> File loaded: D:\wamp64\www\ecr\application\front-modules/home/views/home.php
+DEBUG - 2017-08-16 05:26:16 --> File loaded: D:\wamp64\www\ecr\application\templates/front/index.php
+INFO - 2017-08-16 05:26:16 --> Final output sent to browser
+DEBUG - 2017-08-16 05:26:16 --> Total execution time: 0.1735
+INFO - 2017-08-16 05:27:32 --> Config Class Initialized
+INFO - 2017-08-16 05:27:32 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:27:32 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:27:32 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:27:32 --> URI Class Initialized
+INFO - 2017-08-16 05:27:32 --> Router Class Initialized
+INFO - 2017-08-16 05:27:32 --> Output Class Initialized
+INFO - 2017-08-16 05:27:32 --> Security Class Initialized
+DEBUG - 2017-08-16 05:27:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:27:32 --> CSRF cookie sent
+INFO - 2017-08-16 05:27:32 --> Input Class Initialized
+INFO - 2017-08-16 05:27:32 --> Language Class Initialized
+INFO - 2017-08-16 05:27:32 --> Language Class Initialized
+INFO - 2017-08-16 05:27:32 --> Config Class Initialized
+INFO - 2017-08-16 05:27:32 --> Loader Class Initialized
+INFO - 2017-08-16 05:27:32 --> Helper loaded: url_helper
+INFO - 2017-08-16 05:27:32 --> User Agent Class Initialized
+DEBUG - 2017-08-16 05:27:32 --> Template class Initialized
+INFO - 2017-08-16 05:27:32 --> Controller Class Initialized
+INFO - 2017-08-16 05:27:32 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 05:27:32 --> File loaded: D:\wamp64\www\ecr\application\front-modules/home/views/home.php
+DEBUG - 2017-08-16 05:27:32 --> File loaded: D:\wamp64\www\ecr\application\templates/front/index.php
+INFO - 2017-08-16 05:27:32 --> Final output sent to browser
+DEBUG - 2017-08-16 05:27:32 --> Total execution time: 0.1806
+INFO - 2017-08-16 05:28:28 --> Config Class Initialized
+INFO - 2017-08-16 05:28:28 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:28:28 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:28:28 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:28:28 --> URI Class Initialized
+INFO - 2017-08-16 05:28:28 --> Router Class Initialized
+INFO - 2017-08-16 05:28:28 --> Output Class Initialized
+INFO - 2017-08-16 05:28:28 --> Security Class Initialized
+DEBUG - 2017-08-16 05:28:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:28:28 --> CSRF cookie sent
+INFO - 2017-08-16 05:28:28 --> Input Class Initialized
+INFO - 2017-08-16 05:28:28 --> Language Class Initialized
+INFO - 2017-08-16 05:28:28 --> Language Class Initialized
+INFO - 2017-08-16 05:28:28 --> Config Class Initialized
+INFO - 2017-08-16 05:28:28 --> Loader Class Initialized
+INFO - 2017-08-16 05:28:28 --> Helper loaded: url_helper
+INFO - 2017-08-16 05:28:28 --> User Agent Class Initialized
+DEBUG - 2017-08-16 05:28:28 --> Template class Initialized
+INFO - 2017-08-16 05:28:28 --> Controller Class Initialized
+INFO - 2017-08-16 05:28:28 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 05:28:28 --> File loaded: D:\wamp64\www\ecr\application\front-modules/home/views/home.php
+DEBUG - 2017-08-16 05:28:28 --> File loaded: D:\wamp64\www\ecr\application\templates/front/index.php
+INFO - 2017-08-16 05:28:28 --> Final output sent to browser
+DEBUG - 2017-08-16 05:28:28 --> Total execution time: 0.1679
+INFO - 2017-08-16 05:30:24 --> Config Class Initialized
+INFO - 2017-08-16 05:30:24 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:30:24 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:30:24 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:30:24 --> URI Class Initialized
+INFO - 2017-08-16 05:30:24 --> Router Class Initialized
+INFO - 2017-08-16 05:30:24 --> Output Class Initialized
+INFO - 2017-08-16 05:30:24 --> Security Class Initialized
+DEBUG - 2017-08-16 05:30:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:30:24 --> CSRF cookie sent
+INFO - 2017-08-16 05:30:24 --> Input Class Initialized
+INFO - 2017-08-16 05:30:24 --> Language Class Initialized
+INFO - 2017-08-16 05:30:24 --> Language Class Initialized
+INFO - 2017-08-16 05:30:24 --> Config Class Initialized
+INFO - 2017-08-16 05:30:24 --> Loader Class Initialized
+INFO - 2017-08-16 05:30:24 --> Helper loaded: url_helper
+INFO - 2017-08-16 05:30:24 --> User Agent Class Initialized
+DEBUG - 2017-08-16 05:30:24 --> Template class Initialized
+INFO - 2017-08-16 05:30:24 --> Controller Class Initialized
+INFO - 2017-08-16 05:30:24 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 05:30:24 --> File loaded: D:\wamp64\www\ecr\application\front-modules/home/views/home.php
+DEBUG - 2017-08-16 05:30:24 --> File loaded: D:\wamp64\www\ecr\application\templates/front/index.php
+INFO - 2017-08-16 05:30:24 --> Final output sent to browser
+DEBUG - 2017-08-16 05:30:24 --> Total execution time: 0.1740
+INFO - 2017-08-16 05:30:28 --> Config Class Initialized
+INFO - 2017-08-16 05:30:28 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:30:28 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:30:28 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:30:28 --> URI Class Initialized
+INFO - 2017-08-16 05:30:28 --> Router Class Initialized
+INFO - 2017-08-16 05:30:29 --> Output Class Initialized
+INFO - 2017-08-16 05:30:29 --> Security Class Initialized
+DEBUG - 2017-08-16 05:30:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:30:29 --> CSRF cookie sent
+INFO - 2017-08-16 05:30:29 --> Input Class Initialized
+INFO - 2017-08-16 05:30:29 --> Language Class Initialized
+INFO - 2017-08-16 05:30:29 --> Language Class Initialized
+INFO - 2017-08-16 05:30:29 --> Config Class Initialized
+INFO - 2017-08-16 05:30:29 --> Loader Class Initialized
+INFO - 2017-08-16 05:30:29 --> Helper loaded: url_helper
+INFO - 2017-08-16 05:30:29 --> User Agent Class Initialized
+DEBUG - 2017-08-16 05:30:29 --> Template class Initialized
+INFO - 2017-08-16 05:30:29 --> Controller Class Initialized
+INFO - 2017-08-16 05:30:29 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 05:30:29 --> File loaded: D:\wamp64\www\ecr\application\front-modules/home/views/home.php
+DEBUG - 2017-08-16 05:30:29 --> File loaded: D:\wamp64\www\ecr\application\templates/front/index.php
+INFO - 2017-08-16 05:30:29 --> Final output sent to browser
+DEBUG - 2017-08-16 05:30:29 --> Total execution time: 0.1633
+INFO - 2017-08-16 05:32:05 --> Config Class Initialized
+INFO - 2017-08-16 05:32:05 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:32:05 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:32:05 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:32:05 --> URI Class Initialized
+INFO - 2017-08-16 05:32:05 --> Router Class Initialized
+INFO - 2017-08-16 05:32:05 --> Output Class Initialized
+INFO - 2017-08-16 05:32:05 --> Security Class Initialized
+DEBUG - 2017-08-16 05:32:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:32:05 --> CSRF cookie sent
+INFO - 2017-08-16 05:32:05 --> Input Class Initialized
+INFO - 2017-08-16 05:32:05 --> Language Class Initialized
+INFO - 2017-08-16 05:32:05 --> Language Class Initialized
+INFO - 2017-08-16 05:32:05 --> Config Class Initialized
+INFO - 2017-08-16 05:32:05 --> Loader Class Initialized
+INFO - 2017-08-16 05:32:05 --> Helper loaded: url_helper
+INFO - 2017-08-16 05:32:05 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 05:32:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 05:32:05 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 05:32:05 --> User Agent Class Initialized
+DEBUG - 2017-08-16 05:32:05 --> Template class Initialized
+INFO - 2017-08-16 05:32:05 --> Controller Class Initialized
+INFO - 2017-08-16 05:32:05 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 05:32:05 --> File loaded: D:\wamp64\www\ecr\application\front-modules/home/views/home.php
+DEBUG - 2017-08-16 05:32:05 --> File loaded: D:\wamp64\www\ecr\application\templates/front/index.php
+INFO - 2017-08-16 05:32:05 --> Final output sent to browser
+DEBUG - 2017-08-16 05:32:05 --> Total execution time: 0.4157
+INFO - 2017-08-16 05:33:00 --> Config Class Initialized
+INFO - 2017-08-16 05:33:00 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:33:00 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:33:00 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:33:00 --> URI Class Initialized
+INFO - 2017-08-16 05:33:00 --> Router Class Initialized
+INFO - 2017-08-16 05:33:00 --> Output Class Initialized
+INFO - 2017-08-16 05:33:00 --> Security Class Initialized
+DEBUG - 2017-08-16 05:33:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:33:00 --> CSRF cookie sent
+INFO - 2017-08-16 05:33:00 --> Input Class Initialized
+INFO - 2017-08-16 05:33:00 --> Language Class Initialized
+INFO - 2017-08-16 05:33:00 --> Language Class Initialized
+INFO - 2017-08-16 05:33:00 --> Config Class Initialized
+INFO - 2017-08-16 05:33:00 --> Loader Class Initialized
+INFO - 2017-08-16 05:33:00 --> Helper loaded: url_helper
+INFO - 2017-08-16 05:33:00 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 05:33:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 05:33:00 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 05:33:00 --> User Agent Class Initialized
+DEBUG - 2017-08-16 05:33:00 --> Template class Initialized
+INFO - 2017-08-16 05:33:00 --> Controller Class Initialized
+INFO - 2017-08-16 05:33:00 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 05:33:00 --> File loaded: D:\wamp64\www\ecr\application\front-modules/home/views/home.php
+DEBUG - 2017-08-16 05:33:00 --> File loaded: D:\wamp64\www\ecr\application\templates/front/index.php
+INFO - 2017-08-16 05:33:00 --> Final output sent to browser
+DEBUG - 2017-08-16 05:33:00 --> Total execution time: 0.2319
+INFO - 2017-08-16 05:40:12 --> Config Class Initialized
+INFO - 2017-08-16 05:40:12 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:40:12 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:40:12 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:40:12 --> URI Class Initialized
+INFO - 2017-08-16 05:40:12 --> Router Class Initialized
+INFO - 2017-08-16 05:40:12 --> Output Class Initialized
+INFO - 2017-08-16 05:40:12 --> Security Class Initialized
+DEBUG - 2017-08-16 05:40:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:40:12 --> CSRF cookie sent
+INFO - 2017-08-16 05:40:12 --> Input Class Initialized
+INFO - 2017-08-16 05:40:12 --> Language Class Initialized
+INFO - 2017-08-16 05:40:12 --> Language Class Initialized
+INFO - 2017-08-16 05:40:12 --> Config Class Initialized
+INFO - 2017-08-16 05:40:12 --> Loader Class Initialized
+INFO - 2017-08-16 05:40:13 --> Helper loaded: url_helper
+INFO - 2017-08-16 05:40:13 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 05:40:13 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 05:40:13 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 05:40:13 --> User Agent Class Initialized
+DEBUG - 2017-08-16 05:40:13 --> Template class Initialized
+INFO - 2017-08-16 05:40:13 --> Controller Class Initialized
+INFO - 2017-08-16 05:40:13 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 05:40:13 --> File loaded: D:\wamp64\www\ecr\application\front-modules/home/views/home.php
+DEBUG - 2017-08-16 05:40:13 --> File loaded: D:\wamp64\www\ecr\application\templates/front/index.php
+INFO - 2017-08-16 05:40:13 --> Final output sent to browser
+DEBUG - 2017-08-16 05:40:13 --> Total execution time: 0.2056
+INFO - 2017-08-16 05:47:28 --> Config Class Initialized
+INFO - 2017-08-16 05:47:28 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:47:28 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:47:28 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:47:28 --> URI Class Initialized
+INFO - 2017-08-16 05:47:28 --> Router Class Initialized
+INFO - 2017-08-16 05:47:28 --> Output Class Initialized
+INFO - 2017-08-16 05:47:28 --> Security Class Initialized
+DEBUG - 2017-08-16 05:47:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:47:28 --> CSRF cookie sent
+INFO - 2017-08-16 05:47:28 --> Input Class Initialized
+INFO - 2017-08-16 05:47:28 --> Language Class Initialized
+INFO - 2017-08-16 05:47:28 --> Language Class Initialized
+INFO - 2017-08-16 05:47:28 --> Config Class Initialized
+INFO - 2017-08-16 05:47:28 --> Loader Class Initialized
+INFO - 2017-08-16 05:47:28 --> Helper loaded: url_helper
+INFO - 2017-08-16 05:47:28 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 05:47:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 05:47:28 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 05:47:28 --> User Agent Class Initialized
+DEBUG - 2017-08-16 05:47:28 --> Template class Initialized
+INFO - 2017-08-16 05:47:28 --> Controller Class Initialized
+INFO - 2017-08-16 05:47:28 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 05:47:28 --> File loaded: D:\wamp64\www\ecr\application\front-modules/home/views/home.php
+DEBUG - 2017-08-16 05:47:28 --> File loaded: D:\wamp64\www\ecr\application\templates/front/index.php
+INFO - 2017-08-16 05:47:28 --> Final output sent to browser
+DEBUG - 2017-08-16 05:47:28 --> Total execution time: 0.2050
+INFO - 2017-08-16 05:47:29 --> Config Class Initialized
+INFO - 2017-08-16 05:47:29 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:47:29 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:47:29 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:47:29 --> URI Class Initialized
+INFO - 2017-08-16 05:47:29 --> Router Class Initialized
+INFO - 2017-08-16 05:47:29 --> Output Class Initialized
+INFO - 2017-08-16 05:47:29 --> Security Class Initialized
+DEBUG - 2017-08-16 05:47:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:47:29 --> CSRF cookie sent
+INFO - 2017-08-16 05:47:29 --> Input Class Initialized
+INFO - 2017-08-16 05:47:29 --> Language Class Initialized
+ERROR - 2017-08-16 05:47:29 --> 404 Page Not Found: /index
+INFO - 2017-08-16 05:47:35 --> Config Class Initialized
+INFO - 2017-08-16 05:47:35 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:47:35 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:47:35 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:47:35 --> URI Class Initialized
+INFO - 2017-08-16 05:47:35 --> Router Class Initialized
+INFO - 2017-08-16 05:47:35 --> Output Class Initialized
+INFO - 2017-08-16 05:47:35 --> Security Class Initialized
+DEBUG - 2017-08-16 05:47:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:47:35 --> CSRF cookie sent
+INFO - 2017-08-16 05:47:35 --> Input Class Initialized
+INFO - 2017-08-16 05:47:35 --> Language Class Initialized
+INFO - 2017-08-16 05:47:35 --> Language Class Initialized
+INFO - 2017-08-16 05:47:35 --> Config Class Initialized
+INFO - 2017-08-16 05:47:35 --> Loader Class Initialized
+INFO - 2017-08-16 05:47:35 --> Helper loaded: url_helper
+INFO - 2017-08-16 05:47:35 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 05:47:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 05:47:35 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 05:47:35 --> User Agent Class Initialized
+DEBUG - 2017-08-16 05:47:35 --> Template class Initialized
+INFO - 2017-08-16 05:47:35 --> Controller Class Initialized
+INFO - 2017-08-16 05:47:35 --> Model Class Initialized
+DEBUG - 2017-08-16 05:47:35 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/models/User_model.php
+INFO - 2017-08-16 05:47:35 --> Model Class Initialized
+INFO - 2017-08-16 05:47:35 --> Helper loaded: form_helper
+INFO - 2017-08-16 05:47:35 --> Form Validation Class Initialized
+INFO - 2017-08-16 05:47:40 --> Config Class Initialized
+INFO - 2017-08-16 05:47:40 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:47:40 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:47:40 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:47:40 --> URI Class Initialized
+INFO - 2017-08-16 05:47:40 --> Router Class Initialized
+INFO - 2017-08-16 05:47:40 --> Output Class Initialized
+INFO - 2017-08-16 05:47:40 --> Security Class Initialized
+DEBUG - 2017-08-16 05:47:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:47:40 --> CSRF cookie sent
+INFO - 2017-08-16 05:47:40 --> Input Class Initialized
+INFO - 2017-08-16 05:47:40 --> Language Class Initialized
+INFO - 2017-08-16 05:47:40 --> Language Class Initialized
+INFO - 2017-08-16 05:47:40 --> Config Class Initialized
+INFO - 2017-08-16 05:47:40 --> Loader Class Initialized
+INFO - 2017-08-16 05:47:40 --> Helper loaded: url_helper
+INFO - 2017-08-16 05:47:40 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 05:47:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 05:47:40 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 05:47:40 --> User Agent Class Initialized
+DEBUG - 2017-08-16 05:47:40 --> Template class Initialized
+INFO - 2017-08-16 05:47:40 --> Controller Class Initialized
+INFO - 2017-08-16 05:47:40 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 05:47:40 --> File loaded: D:\wamp64\www\ecr\application\front-modules/home/views/home.php
+DEBUG - 2017-08-16 05:47:40 --> File loaded: D:\wamp64\www\ecr\application\templates/front/index.php
+INFO - 2017-08-16 05:47:40 --> Final output sent to browser
+DEBUG - 2017-08-16 05:47:40 --> Total execution time: 0.2026
+INFO - 2017-08-16 05:47:40 --> Config Class Initialized
+INFO - 2017-08-16 05:47:40 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:47:40 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:47:40 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:47:41 --> URI Class Initialized
+INFO - 2017-08-16 05:47:41 --> Router Class Initialized
+INFO - 2017-08-16 05:47:41 --> Output Class Initialized
+INFO - 2017-08-16 05:47:41 --> Security Class Initialized
+DEBUG - 2017-08-16 05:47:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:47:41 --> CSRF cookie sent
+INFO - 2017-08-16 05:47:41 --> Input Class Initialized
+INFO - 2017-08-16 05:47:41 --> Language Class Initialized
+ERROR - 2017-08-16 05:47:41 --> 404 Page Not Found: /index
+INFO - 2017-08-16 05:48:23 --> Config Class Initialized
+INFO - 2017-08-16 05:48:23 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:48:23 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:48:23 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:48:23 --> URI Class Initialized
+INFO - 2017-08-16 05:48:23 --> Router Class Initialized
+INFO - 2017-08-16 05:48:23 --> Output Class Initialized
+INFO - 2017-08-16 05:48:23 --> Security Class Initialized
+DEBUG - 2017-08-16 05:48:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:48:23 --> CSRF cookie sent
+INFO - 2017-08-16 05:48:23 --> Input Class Initialized
+INFO - 2017-08-16 05:48:23 --> Language Class Initialized
+INFO - 2017-08-16 05:48:23 --> Language Class Initialized
+INFO - 2017-08-16 05:48:23 --> Config Class Initialized
+INFO - 2017-08-16 05:48:23 --> Loader Class Initialized
+INFO - 2017-08-16 05:48:23 --> Helper loaded: url_helper
+INFO - 2017-08-16 05:48:23 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 05:48:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 05:48:23 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 05:48:23 --> User Agent Class Initialized
+DEBUG - 2017-08-16 05:48:23 --> Template class Initialized
+INFO - 2017-08-16 05:48:23 --> Controller Class Initialized
+INFO - 2017-08-16 05:48:23 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 05:48:23 --> File loaded: D:\wamp64\www\ecr\application\front-modules/home/views/home.php
+DEBUG - 2017-08-16 05:48:23 --> File loaded: D:\wamp64\www\ecr\application\templates/front/index.php
+INFO - 2017-08-16 05:48:23 --> Final output sent to browser
+DEBUG - 2017-08-16 05:48:23 --> Total execution time: 0.2111
+INFO - 2017-08-16 05:51:28 --> Config Class Initialized
+INFO - 2017-08-16 05:51:28 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:51:28 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:51:28 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:51:28 --> URI Class Initialized
+INFO - 2017-08-16 05:51:28 --> Router Class Initialized
+INFO - 2017-08-16 05:51:28 --> Output Class Initialized
+INFO - 2017-08-16 05:51:28 --> Security Class Initialized
+DEBUG - 2017-08-16 05:51:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:51:28 --> CSRF cookie sent
+INFO - 2017-08-16 05:51:28 --> Input Class Initialized
+INFO - 2017-08-16 05:51:28 --> Language Class Initialized
+INFO - 2017-08-16 05:51:28 --> Language Class Initialized
+INFO - 2017-08-16 05:51:28 --> Config Class Initialized
+INFO - 2017-08-16 05:51:28 --> Loader Class Initialized
+INFO - 2017-08-16 05:51:28 --> Helper loaded: url_helper
+INFO - 2017-08-16 05:51:28 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 05:51:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 05:51:28 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 05:51:28 --> User Agent Class Initialized
+DEBUG - 2017-08-16 05:51:28 --> Template class Initialized
+INFO - 2017-08-16 05:51:28 --> Controller Class Initialized
+INFO - 2017-08-16 05:51:28 --> Model Class Initialized
+DEBUG - 2017-08-16 05:51:28 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/models/User_model.php
+INFO - 2017-08-16 05:51:28 --> Model Class Initialized
+INFO - 2017-08-16 05:51:28 --> Helper loaded: form_helper
+INFO - 2017-08-16 05:51:28 --> Form Validation Class Initialized
+INFO - 2017-08-16 05:51:54 --> Config Class Initialized
+INFO - 2017-08-16 05:51:54 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:51:54 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:51:54 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:51:54 --> URI Class Initialized
+INFO - 2017-08-16 05:51:54 --> Router Class Initialized
+INFO - 2017-08-16 05:51:54 --> Output Class Initialized
+INFO - 2017-08-16 05:51:54 --> Security Class Initialized
+DEBUG - 2017-08-16 05:51:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:51:54 --> CSRF cookie sent
+INFO - 2017-08-16 05:51:54 --> Input Class Initialized
+INFO - 2017-08-16 05:51:54 --> Language Class Initialized
+INFO - 2017-08-16 05:51:54 --> Language Class Initialized
+INFO - 2017-08-16 05:51:54 --> Config Class Initialized
+INFO - 2017-08-16 05:51:54 --> Loader Class Initialized
+INFO - 2017-08-16 05:51:54 --> Helper loaded: url_helper
+INFO - 2017-08-16 05:51:54 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 05:51:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 05:51:54 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 05:51:54 --> User Agent Class Initialized
+DEBUG - 2017-08-16 05:51:54 --> Template class Initialized
+INFO - 2017-08-16 05:51:54 --> Controller Class Initialized
+INFO - 2017-08-16 05:51:54 --> Model Class Initialized
+DEBUG - 2017-08-16 05:51:54 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/models/User_model.php
+INFO - 2017-08-16 05:51:54 --> Model Class Initialized
+INFO - 2017-08-16 05:51:54 --> Helper loaded: form_helper
+INFO - 2017-08-16 05:51:54 --> Form Validation Class Initialized
+DEBUG - 2017-08-16 05:51:54 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/views/login.php
+INFO - 2017-08-16 05:51:54 --> Final output sent to browser
+DEBUG - 2017-08-16 05:51:54 --> Total execution time: 0.2466
+INFO - 2017-08-16 05:53:41 --> Config Class Initialized
+INFO - 2017-08-16 05:53:41 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:53:41 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:53:41 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:53:41 --> URI Class Initialized
+INFO - 2017-08-16 05:53:41 --> Router Class Initialized
+INFO - 2017-08-16 05:53:42 --> Output Class Initialized
+INFO - 2017-08-16 05:53:42 --> Security Class Initialized
+DEBUG - 2017-08-16 05:53:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:53:42 --> CSRF cookie sent
+INFO - 2017-08-16 05:53:42 --> Input Class Initialized
+INFO - 2017-08-16 05:53:42 --> Language Class Initialized
+INFO - 2017-08-16 05:53:42 --> Language Class Initialized
+INFO - 2017-08-16 05:53:42 --> Config Class Initialized
+INFO - 2017-08-16 05:53:42 --> Loader Class Initialized
+INFO - 2017-08-16 05:53:42 --> Helper loaded: url_helper
+INFO - 2017-08-16 05:53:42 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 05:53:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 05:53:42 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 05:53:42 --> User Agent Class Initialized
+DEBUG - 2017-08-16 05:53:42 --> Template class Initialized
+INFO - 2017-08-16 05:53:42 --> Controller Class Initialized
+INFO - 2017-08-16 05:53:42 --> Model Class Initialized
+DEBUG - 2017-08-16 05:53:42 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/models/User_model.php
+INFO - 2017-08-16 05:53:42 --> Model Class Initialized
+INFO - 2017-08-16 05:53:42 --> Helper loaded: form_helper
+INFO - 2017-08-16 05:53:42 --> Form Validation Class Initialized
+DEBUG - 2017-08-16 05:53:42 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/views/login.php
+INFO - 2017-08-16 05:53:42 --> Final output sent to browser
+DEBUG - 2017-08-16 05:53:42 --> Total execution time: 0.2280
+INFO - 2017-08-16 05:54:56 --> Config Class Initialized
+INFO - 2017-08-16 05:54:56 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:54:56 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:54:56 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:54:56 --> URI Class Initialized
+INFO - 2017-08-16 05:54:56 --> Router Class Initialized
+INFO - 2017-08-16 05:54:56 --> Output Class Initialized
+INFO - 2017-08-16 05:54:56 --> Security Class Initialized
+DEBUG - 2017-08-16 05:54:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:54:56 --> CSRF cookie sent
+INFO - 2017-08-16 05:55:05 --> Config Class Initialized
+INFO - 2017-08-16 05:55:05 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:55:05 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:55:05 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:55:05 --> URI Class Initialized
+INFO - 2017-08-16 05:55:05 --> Router Class Initialized
+INFO - 2017-08-16 05:55:05 --> Output Class Initialized
+INFO - 2017-08-16 05:55:05 --> Security Class Initialized
+DEBUG - 2017-08-16 05:55:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:55:05 --> CSRF cookie sent
+INFO - 2017-08-16 05:55:05 --> Input Class Initialized
+INFO - 2017-08-16 05:55:05 --> Language Class Initialized
+INFO - 2017-08-16 05:55:05 --> Language Class Initialized
+INFO - 2017-08-16 05:55:05 --> Config Class Initialized
+INFO - 2017-08-16 05:55:05 --> Loader Class Initialized
+INFO - 2017-08-16 05:55:05 --> Helper loaded: url_helper
+INFO - 2017-08-16 05:55:05 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 05:55:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 05:55:05 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 05:55:05 --> User Agent Class Initialized
+DEBUG - 2017-08-16 05:55:05 --> Template class Initialized
+INFO - 2017-08-16 05:55:05 --> Controller Class Initialized
+INFO - 2017-08-16 05:55:05 --> Model Class Initialized
+DEBUG - 2017-08-16 05:55:05 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/models/User_model.php
+INFO - 2017-08-16 05:55:05 --> Model Class Initialized
+INFO - 2017-08-16 05:55:05 --> Helper loaded: form_helper
+INFO - 2017-08-16 05:55:05 --> Form Validation Class Initialized
+DEBUG - 2017-08-16 05:55:05 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/views/login.php
+INFO - 2017-08-16 05:55:05 --> Final output sent to browser
+DEBUG - 2017-08-16 05:55:05 --> Total execution time: 0.2350
+INFO - 2017-08-16 05:55:39 --> Config Class Initialized
+INFO - 2017-08-16 05:55:39 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:55:39 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:55:39 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:55:39 --> URI Class Initialized
+INFO - 2017-08-16 05:55:39 --> Router Class Initialized
+INFO - 2017-08-16 05:55:39 --> Output Class Initialized
+INFO - 2017-08-16 05:55:39 --> Security Class Initialized
+DEBUG - 2017-08-16 05:55:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:55:39 --> CSRF cookie sent
+INFO - 2017-08-16 05:55:39 --> Input Class Initialized
+INFO - 2017-08-16 05:55:39 --> Language Class Initialized
+INFO - 2017-08-16 05:55:39 --> Language Class Initialized
+INFO - 2017-08-16 05:55:39 --> Config Class Initialized
+INFO - 2017-08-16 05:55:39 --> Loader Class Initialized
+INFO - 2017-08-16 05:55:39 --> Helper loaded: url_helper
+INFO - 2017-08-16 05:55:39 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 05:55:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 05:55:39 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 05:55:39 --> User Agent Class Initialized
+DEBUG - 2017-08-16 05:55:39 --> Template class Initialized
+INFO - 2017-08-16 05:55:39 --> Controller Class Initialized
+INFO - 2017-08-16 05:55:39 --> Model Class Initialized
+DEBUG - 2017-08-16 05:55:39 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/models/User_model.php
+INFO - 2017-08-16 05:55:39 --> Model Class Initialized
+INFO - 2017-08-16 05:55:39 --> Helper loaded: form_helper
+INFO - 2017-08-16 05:55:39 --> Form Validation Class Initialized
+DEBUG - 2017-08-16 05:55:39 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/views/login.php
+INFO - 2017-08-16 05:55:39 --> Final output sent to browser
+DEBUG - 2017-08-16 05:55:39 --> Total execution time: 0.2251
+INFO - 2017-08-16 05:55:41 --> Config Class Initialized
+INFO - 2017-08-16 05:55:41 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:55:41 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:55:41 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:55:41 --> URI Class Initialized
+INFO - 2017-08-16 05:55:41 --> Router Class Initialized
+INFO - 2017-08-16 05:55:41 --> Output Class Initialized
+INFO - 2017-08-16 05:55:41 --> Security Class Initialized
+DEBUG - 2017-08-16 05:55:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:55:41 --> CSRF cookie sent
+INFO - 2017-08-16 05:55:46 --> Config Class Initialized
+INFO - 2017-08-16 05:55:46 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:55:46 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:55:46 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:55:46 --> URI Class Initialized
+INFO - 2017-08-16 05:55:46 --> Router Class Initialized
+INFO - 2017-08-16 05:55:46 --> Output Class Initialized
+INFO - 2017-08-16 05:55:46 --> Security Class Initialized
+DEBUG - 2017-08-16 05:55:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:55:46 --> CSRF cookie sent
+INFO - 2017-08-16 05:55:46 --> Input Class Initialized
+INFO - 2017-08-16 05:55:46 --> Language Class Initialized
+INFO - 2017-08-16 05:55:46 --> Language Class Initialized
+INFO - 2017-08-16 05:55:46 --> Config Class Initialized
+INFO - 2017-08-16 05:55:46 --> Loader Class Initialized
+INFO - 2017-08-16 05:55:46 --> Helper loaded: url_helper
+INFO - 2017-08-16 05:55:46 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 05:55:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 05:55:47 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 05:55:47 --> User Agent Class Initialized
+DEBUG - 2017-08-16 05:55:47 --> Template class Initialized
+INFO - 2017-08-16 05:55:47 --> Controller Class Initialized
+INFO - 2017-08-16 05:55:47 --> Model Class Initialized
+DEBUG - 2017-08-16 05:55:47 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/models/User_model.php
+INFO - 2017-08-16 05:55:47 --> Model Class Initialized
+INFO - 2017-08-16 05:55:47 --> Helper loaded: form_helper
+INFO - 2017-08-16 05:55:47 --> Form Validation Class Initialized
+DEBUG - 2017-08-16 05:55:47 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/views/login.php
+INFO - 2017-08-16 05:55:47 --> Final output sent to browser
+DEBUG - 2017-08-16 05:55:47 --> Total execution time: 0.2469
+INFO - 2017-08-16 05:55:48 --> Config Class Initialized
+INFO - 2017-08-16 05:55:48 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:55:48 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:55:48 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:55:48 --> URI Class Initialized
+INFO - 2017-08-16 05:55:48 --> Router Class Initialized
+INFO - 2017-08-16 05:55:48 --> Output Class Initialized
+INFO - 2017-08-16 05:55:48 --> Security Class Initialized
+DEBUG - 2017-08-16 05:55:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:55:48 --> CSRF cookie sent
+INFO - 2017-08-16 05:55:48 --> Input Class Initialized
+INFO - 2017-08-16 05:55:48 --> Language Class Initialized
+INFO - 2017-08-16 05:55:48 --> Language Class Initialized
+INFO - 2017-08-16 05:55:48 --> Config Class Initialized
+INFO - 2017-08-16 05:55:48 --> Loader Class Initialized
+INFO - 2017-08-16 05:55:48 --> Helper loaded: url_helper
+INFO - 2017-08-16 05:55:48 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 05:55:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 05:55:48 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 05:55:48 --> User Agent Class Initialized
+DEBUG - 2017-08-16 05:55:48 --> Template class Initialized
+INFO - 2017-08-16 05:55:48 --> Controller Class Initialized
+INFO - 2017-08-16 05:55:48 --> Model Class Initialized
+DEBUG - 2017-08-16 05:55:48 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/models/User_model.php
+INFO - 2017-08-16 05:55:48 --> Model Class Initialized
+INFO - 2017-08-16 05:55:48 --> Helper loaded: form_helper
+INFO - 2017-08-16 05:55:48 --> Form Validation Class Initialized
+DEBUG - 2017-08-16 05:55:48 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/views/login.php
+INFO - 2017-08-16 05:55:48 --> Final output sent to browser
+DEBUG - 2017-08-16 05:55:48 --> Total execution time: 0.2199
+INFO - 2017-08-16 05:55:51 --> Config Class Initialized
+INFO - 2017-08-16 05:55:51 --> Hooks Class Initialized
+DEBUG - 2017-08-16 05:55:51 --> UTF-8 Support Enabled
+INFO - 2017-08-16 05:55:51 --> Utf8 Class Initialized
+INFO - 2017-08-16 05:55:51 --> URI Class Initialized
+INFO - 2017-08-16 05:55:51 --> Router Class Initialized
+INFO - 2017-08-16 05:55:51 --> Output Class Initialized
+INFO - 2017-08-16 05:55:51 --> Security Class Initialized
+DEBUG - 2017-08-16 05:55:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 05:55:51 --> CSRF cookie sent
+INFO - 2017-08-16 06:03:20 --> Config Class Initialized
+INFO - 2017-08-16 06:03:20 --> Hooks Class Initialized
+DEBUG - 2017-08-16 06:03:20 --> UTF-8 Support Enabled
+INFO - 2017-08-16 06:03:20 --> Utf8 Class Initialized
+INFO - 2017-08-16 06:03:20 --> URI Class Initialized
+INFO - 2017-08-16 06:03:20 --> Router Class Initialized
+INFO - 2017-08-16 06:03:20 --> Output Class Initialized
+INFO - 2017-08-16 06:03:20 --> Security Class Initialized
+DEBUG - 2017-08-16 06:03:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 06:03:20 --> CSRF cookie sent
+INFO - 2017-08-16 06:03:20 --> Input Class Initialized
+INFO - 2017-08-16 06:03:20 --> Language Class Initialized
+INFO - 2017-08-16 06:03:20 --> Language Class Initialized
+INFO - 2017-08-16 06:03:20 --> Config Class Initialized
+INFO - 2017-08-16 06:03:20 --> Loader Class Initialized
+INFO - 2017-08-16 06:03:20 --> Helper loaded: url_helper
+INFO - 2017-08-16 06:03:21 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 06:03:21 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 06:03:21 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 06:03:21 --> User Agent Class Initialized
+DEBUG - 2017-08-16 06:03:21 --> Template class Initialized
+INFO - 2017-08-16 06:03:21 --> Controller Class Initialized
+INFO - 2017-08-16 06:03:21 --> Model Class Initialized
+DEBUG - 2017-08-16 06:03:21 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/models/User_model.php
+INFO - 2017-08-16 06:03:21 --> Model Class Initialized
+INFO - 2017-08-16 06:03:21 --> Helper loaded: form_helper
+INFO - 2017-08-16 06:03:21 --> Form Validation Class Initialized
+DEBUG - 2017-08-16 06:03:21 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/views/login.php
+INFO - 2017-08-16 06:03:21 --> Final output sent to browser
+DEBUG - 2017-08-16 06:03:21 --> Total execution time: 0.2816
+INFO - 2017-08-16 06:03:22 --> Config Class Initialized
+INFO - 2017-08-16 06:03:22 --> Hooks Class Initialized
+DEBUG - 2017-08-16 06:03:22 --> UTF-8 Support Enabled
+INFO - 2017-08-16 06:03:22 --> Utf8 Class Initialized
+INFO - 2017-08-16 06:03:22 --> URI Class Initialized
+INFO - 2017-08-16 06:03:22 --> Router Class Initialized
+INFO - 2017-08-16 06:03:22 --> Output Class Initialized
+INFO - 2017-08-16 06:03:22 --> Security Class Initialized
+DEBUG - 2017-08-16 06:03:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 06:03:22 --> CSRF cookie sent
+INFO - 2017-08-16 06:03:22 --> Input Class Initialized
+INFO - 2017-08-16 06:03:22 --> Language Class Initialized
+INFO - 2017-08-16 06:03:22 --> Language Class Initialized
+INFO - 2017-08-16 06:03:22 --> Config Class Initialized
+INFO - 2017-08-16 06:03:22 --> Loader Class Initialized
+INFO - 2017-08-16 06:03:22 --> Helper loaded: url_helper
+INFO - 2017-08-16 06:03:22 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 06:03:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 06:03:22 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 06:03:22 --> User Agent Class Initialized
+DEBUG - 2017-08-16 06:03:22 --> Template class Initialized
+INFO - 2017-08-16 06:03:22 --> Controller Class Initialized
+INFO - 2017-08-16 06:03:22 --> Model Class Initialized
+DEBUG - 2017-08-16 06:03:22 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/models/User_model.php
+INFO - 2017-08-16 06:03:22 --> Model Class Initialized
+INFO - 2017-08-16 06:03:22 --> Helper loaded: form_helper
+INFO - 2017-08-16 06:03:22 --> Form Validation Class Initialized
+DEBUG - 2017-08-16 06:03:22 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/views/login.php
+INFO - 2017-08-16 06:03:22 --> Final output sent to browser
+DEBUG - 2017-08-16 06:03:22 --> Total execution time: 0.2230
+INFO - 2017-08-16 06:04:02 --> Config Class Initialized
+INFO - 2017-08-16 06:04:02 --> Hooks Class Initialized
+DEBUG - 2017-08-16 06:04:02 --> UTF-8 Support Enabled
+INFO - 2017-08-16 06:04:02 --> Utf8 Class Initialized
+INFO - 2017-08-16 06:04:02 --> URI Class Initialized
+INFO - 2017-08-16 06:04:02 --> Router Class Initialized
+INFO - 2017-08-16 06:04:02 --> Output Class Initialized
+INFO - 2017-08-16 06:04:02 --> Security Class Initialized
+DEBUG - 2017-08-16 06:04:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 06:04:02 --> CSRF cookie sent
+INFO - 2017-08-16 06:04:02 --> Input Class Initialized
+INFO - 2017-08-16 06:04:02 --> Language Class Initialized
+INFO - 2017-08-16 06:04:02 --> Language Class Initialized
+INFO - 2017-08-16 06:04:02 --> Config Class Initialized
+INFO - 2017-08-16 06:04:02 --> Loader Class Initialized
+INFO - 2017-08-16 06:04:02 --> Helper loaded: url_helper
+INFO - 2017-08-16 06:04:02 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 06:04:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 06:04:02 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 06:04:02 --> User Agent Class Initialized
+DEBUG - 2017-08-16 06:04:02 --> Template class Initialized
+INFO - 2017-08-16 06:04:02 --> Controller Class Initialized
+INFO - 2017-08-16 06:04:02 --> Model Class Initialized
+DEBUG - 2017-08-16 06:04:02 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/models/User_model.php
+INFO - 2017-08-16 06:04:02 --> Model Class Initialized
+INFO - 2017-08-16 06:04:02 --> Helper loaded: form_helper
+INFO - 2017-08-16 06:04:02 --> Form Validation Class Initialized
+DEBUG - 2017-08-16 06:04:02 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/views/login.php
+INFO - 2017-08-16 06:04:02 --> Final output sent to browser
+DEBUG - 2017-08-16 06:04:02 --> Total execution time: 0.2382
+INFO - 2017-08-16 06:04:04 --> Config Class Initialized
+INFO - 2017-08-16 06:04:04 --> Hooks Class Initialized
+DEBUG - 2017-08-16 06:04:04 --> UTF-8 Support Enabled
+INFO - 2017-08-16 06:04:04 --> Utf8 Class Initialized
+INFO - 2017-08-16 06:04:04 --> URI Class Initialized
+INFO - 2017-08-16 06:04:04 --> Router Class Initialized
+INFO - 2017-08-16 06:04:04 --> Output Class Initialized
+INFO - 2017-08-16 06:04:04 --> Security Class Initialized
+DEBUG - 2017-08-16 06:04:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 06:04:04 --> CSRF cookie sent
+INFO - 2017-08-16 06:04:04 --> CSRF token verified
+INFO - 2017-08-16 06:04:04 --> Input Class Initialized
+INFO - 2017-08-16 06:04:04 --> Language Class Initialized
+INFO - 2017-08-16 06:04:04 --> Language Class Initialized
+INFO - 2017-08-16 06:04:04 --> Config Class Initialized
+INFO - 2017-08-16 06:04:04 --> Loader Class Initialized
+INFO - 2017-08-16 06:04:04 --> Helper loaded: url_helper
+INFO - 2017-08-16 06:04:04 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 06:04:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 06:04:04 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 06:04:04 --> User Agent Class Initialized
+DEBUG - 2017-08-16 06:04:04 --> Template class Initialized
+INFO - 2017-08-16 06:04:04 --> Controller Class Initialized
+INFO - 2017-08-16 06:04:04 --> Model Class Initialized
+DEBUG - 2017-08-16 06:04:04 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/models/User_model.php
+INFO - 2017-08-16 06:04:04 --> Model Class Initialized
+INFO - 2017-08-16 06:04:04 --> Helper loaded: form_helper
+INFO - 2017-08-16 06:04:04 --> Form Validation Class Initialized
+INFO - 2017-08-16 06:04:04 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-08-16 06:04:04 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/views/login.php
+INFO - 2017-08-16 06:04:04 --> Final output sent to browser
+DEBUG - 2017-08-16 06:04:04 --> Total execution time: 0.2368
+INFO - 2017-08-16 06:13:02 --> Config Class Initialized
+INFO - 2017-08-16 06:13:02 --> Hooks Class Initialized
+DEBUG - 2017-08-16 06:13:02 --> UTF-8 Support Enabled
+INFO - 2017-08-16 06:13:02 --> Utf8 Class Initialized
+INFO - 2017-08-16 06:13:02 --> URI Class Initialized
+INFO - 2017-08-16 06:13:02 --> Router Class Initialized
+INFO - 2017-08-16 06:13:02 --> Output Class Initialized
+INFO - 2017-08-16 06:13:02 --> Security Class Initialized
+DEBUG - 2017-08-16 06:13:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 06:13:02 --> CSRF cookie sent
+INFO - 2017-08-16 06:13:02 --> CSRF token verified
+INFO - 2017-08-16 06:13:02 --> Input Class Initialized
+INFO - 2017-08-16 06:13:02 --> Language Class Initialized
+INFO - 2017-08-16 06:13:02 --> Language Class Initialized
+INFO - 2017-08-16 06:13:02 --> Config Class Initialized
+INFO - 2017-08-16 06:13:02 --> Loader Class Initialized
+INFO - 2017-08-16 06:13:02 --> Helper loaded: url_helper
+INFO - 2017-08-16 06:13:02 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 06:13:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 06:13:02 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 06:13:02 --> User Agent Class Initialized
+DEBUG - 2017-08-16 06:13:02 --> Template class Initialized
+INFO - 2017-08-16 06:13:02 --> Controller Class Initialized
+INFO - 2017-08-16 06:13:02 --> Model Class Initialized
+DEBUG - 2017-08-16 06:13:02 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/models/User_model.php
+INFO - 2017-08-16 06:13:02 --> Model Class Initialized
+INFO - 2017-08-16 06:13:02 --> Helper loaded: form_helper
+INFO - 2017-08-16 06:13:02 --> Form Validation Class Initialized
+INFO - 2017-08-16 06:13:02 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2017-08-16 06:13:02 --> Config Class Initialized
+INFO - 2017-08-16 06:13:02 --> Hooks Class Initialized
+DEBUG - 2017-08-16 06:13:02 --> UTF-8 Support Enabled
+INFO - 2017-08-16 06:13:02 --> Utf8 Class Initialized
+INFO - 2017-08-16 06:13:02 --> URI Class Initialized
+INFO - 2017-08-16 06:13:02 --> Router Class Initialized
+INFO - 2017-08-16 06:13:02 --> Output Class Initialized
+INFO - 2017-08-16 06:13:02 --> Security Class Initialized
+DEBUG - 2017-08-16 06:13:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 06:13:02 --> CSRF cookie sent
+INFO - 2017-08-16 06:13:02 --> Input Class Initialized
+INFO - 2017-08-16 06:13:02 --> Language Class Initialized
+INFO - 2017-08-16 06:13:02 --> Language Class Initialized
+INFO - 2017-08-16 06:13:02 --> Config Class Initialized
+INFO - 2017-08-16 06:13:02 --> Loader Class Initialized
+INFO - 2017-08-16 06:13:02 --> Helper loaded: url_helper
+INFO - 2017-08-16 06:13:02 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 06:13:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 06:13:02 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 06:13:02 --> User Agent Class Initialized
+DEBUG - 2017-08-16 06:13:02 --> Template class Initialized
+INFO - 2017-08-16 06:13:02 --> Controller Class Initialized
+INFO - 2017-08-16 06:13:02 --> Model Class Initialized
+DEBUG - 2017-08-16 06:13:02 --> File loaded: D:\wamp64\www\ecr\application\front-modules/user/models/User_model.php
+INFO - 2017-08-16 06:13:02 --> Model Class Initialized
+INFO - 2017-08-16 06:13:02 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 06:13:02 --> File loaded: D:\wamp64\www\ecr\application\front-modules/user/views/profile.php
+DEBUG - 2017-08-16 06:13:02 --> File loaded: D:\wamp64\www\ecr\application\templates/front/index.php
+INFO - 2017-08-16 06:13:02 --> Final output sent to browser
+DEBUG - 2017-08-16 06:13:02 --> Total execution time: 0.2275
+INFO - 2017-08-16 06:14:05 --> Config Class Initialized
+INFO - 2017-08-16 06:14:05 --> Hooks Class Initialized
+DEBUG - 2017-08-16 06:14:05 --> UTF-8 Support Enabled
+INFO - 2017-08-16 06:14:05 --> Utf8 Class Initialized
+INFO - 2017-08-16 06:14:05 --> URI Class Initialized
+INFO - 2017-08-16 06:14:05 --> Router Class Initialized
+INFO - 2017-08-16 06:14:05 --> Output Class Initialized
+INFO - 2017-08-16 06:14:05 --> Security Class Initialized
+DEBUG - 2017-08-16 06:14:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 06:14:05 --> CSRF cookie sent
+INFO - 2017-08-16 06:14:05 --> Input Class Initialized
+INFO - 2017-08-16 06:14:05 --> Language Class Initialized
+INFO - 2017-08-16 06:14:05 --> Language Class Initialized
+INFO - 2017-08-16 06:14:05 --> Config Class Initialized
+INFO - 2017-08-16 06:14:05 --> Loader Class Initialized
+INFO - 2017-08-16 06:14:05 --> Helper loaded: url_helper
+INFO - 2017-08-16 06:14:05 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 06:14:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 06:14:05 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 06:14:05 --> User Agent Class Initialized
+DEBUG - 2017-08-16 06:14:05 --> Template class Initialized
+INFO - 2017-08-16 06:14:05 --> Controller Class Initialized
+INFO - 2017-08-16 06:14:05 --> Model Class Initialized
+DEBUG - 2017-08-16 06:14:05 --> File loaded: D:\wamp64\www\ecr\application\front-modules/user/models/User_model.php
+INFO - 2017-08-16 06:14:05 --> Model Class Initialized
+INFO - 2017-08-16 06:14:05 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 06:14:05 --> File loaded: D:\wamp64\www\ecr\application\front-modules/user/views/profile.php
+DEBUG - 2017-08-16 06:14:05 --> File loaded: D:\wamp64\www\ecr\application\templates/front/index.php
+INFO - 2017-08-16 06:14:05 --> Final output sent to browser
+DEBUG - 2017-08-16 06:14:05 --> Total execution time: 0.2386
+INFO - 2017-08-16 06:14:20 --> Config Class Initialized
+INFO - 2017-08-16 06:14:20 --> Hooks Class Initialized
+DEBUG - 2017-08-16 06:14:20 --> UTF-8 Support Enabled
+INFO - 2017-08-16 06:14:20 --> Utf8 Class Initialized
+INFO - 2017-08-16 06:14:20 --> URI Class Initialized
+INFO - 2017-08-16 06:14:20 --> Router Class Initialized
+INFO - 2017-08-16 06:14:20 --> Output Class Initialized
+INFO - 2017-08-16 06:14:20 --> Security Class Initialized
+DEBUG - 2017-08-16 06:14:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 06:14:20 --> CSRF cookie sent
+INFO - 2017-08-16 06:14:20 --> Input Class Initialized
+INFO - 2017-08-16 06:14:20 --> Language Class Initialized
+INFO - 2017-08-16 06:14:20 --> Language Class Initialized
+INFO - 2017-08-16 06:14:20 --> Config Class Initialized
+INFO - 2017-08-16 06:14:20 --> Loader Class Initialized
+INFO - 2017-08-16 06:14:20 --> Helper loaded: url_helper
+INFO - 2017-08-16 06:14:20 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 06:14:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 06:14:20 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 06:14:20 --> User Agent Class Initialized
+DEBUG - 2017-08-16 06:14:20 --> Template class Initialized
+INFO - 2017-08-16 06:14:20 --> Controller Class Initialized
+INFO - 2017-08-16 06:14:20 --> Model Class Initialized
+DEBUG - 2017-08-16 06:14:20 --> File loaded: D:\wamp64\www\ecr\application\front-modules/user/models/User_model.php
+INFO - 2017-08-16 06:14:20 --> Model Class Initialized
+INFO - 2017-08-16 06:14:20 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 06:14:20 --> File loaded: D:\wamp64\www\ecr\application\front-modules/user/views/profile.php
+DEBUG - 2017-08-16 06:14:20 --> File loaded: D:\wamp64\www\ecr\application\templates/front/index.php
+INFO - 2017-08-16 06:14:20 --> Final output sent to browser
+DEBUG - 2017-08-16 06:14:20 --> Total execution time: 0.2233
+INFO - 2017-08-16 06:14:39 --> Config Class Initialized
+INFO - 2017-08-16 06:14:39 --> Hooks Class Initialized
+DEBUG - 2017-08-16 06:14:39 --> UTF-8 Support Enabled
+INFO - 2017-08-16 06:14:39 --> Utf8 Class Initialized
+INFO - 2017-08-16 06:14:39 --> URI Class Initialized
+DEBUG - 2017-08-16 06:14:39 --> No URI present. Default controller set.
+INFO - 2017-08-16 06:14:39 --> Router Class Initialized
+INFO - 2017-08-16 06:14:39 --> Output Class Initialized
+INFO - 2017-08-16 06:14:39 --> Security Class Initialized
+DEBUG - 2017-08-16 06:14:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 06:14:39 --> CSRF cookie sent
+INFO - 2017-08-16 06:14:39 --> Input Class Initialized
+INFO - 2017-08-16 06:14:39 --> Language Class Initialized
+INFO - 2017-08-16 06:14:39 --> Language Class Initialized
+INFO - 2017-08-16 06:14:39 --> Config Class Initialized
+INFO - 2017-08-16 06:14:39 --> Loader Class Initialized
+INFO - 2017-08-16 06:14:39 --> Helper loaded: url_helper
+INFO - 2017-08-16 06:14:39 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 06:14:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 06:14:39 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 06:14:39 --> User Agent Class Initialized
+DEBUG - 2017-08-16 06:14:39 --> Template class Initialized
+INFO - 2017-08-16 06:14:39 --> Controller Class Initialized
+INFO - 2017-08-16 06:14:39 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 06:14:39 --> File loaded: D:\wamp64\www\ecr\application\front-modules/home/views/home.php
+DEBUG - 2017-08-16 06:14:39 --> File loaded: D:\wamp64\www\ecr\application\templates/front/index.php
+INFO - 2017-08-16 06:14:39 --> Final output sent to browser
+DEBUG - 2017-08-16 06:14:39 --> Total execution time: 0.3983
+INFO - 2017-08-16 06:14:43 --> Config Class Initialized
+INFO - 2017-08-16 06:14:43 --> Hooks Class Initialized
+DEBUG - 2017-08-16 06:14:43 --> UTF-8 Support Enabled
+INFO - 2017-08-16 06:14:43 --> Utf8 Class Initialized
+INFO - 2017-08-16 06:14:43 --> URI Class Initialized
+DEBUG - 2017-08-16 06:14:43 --> No URI present. Default controller set.
+INFO - 2017-08-16 06:14:43 --> Router Class Initialized
+INFO - 2017-08-16 06:14:43 --> Output Class Initialized
+INFO - 2017-08-16 06:14:43 --> Security Class Initialized
+DEBUG - 2017-08-16 06:14:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 06:14:43 --> CSRF cookie sent
+INFO - 2017-08-16 06:14:43 --> Input Class Initialized
+INFO - 2017-08-16 06:14:43 --> Language Class Initialized
+INFO - 2017-08-16 06:14:43 --> Language Class Initialized
+INFO - 2017-08-16 06:14:43 --> Config Class Initialized
+INFO - 2017-08-16 06:14:43 --> Loader Class Initialized
+INFO - 2017-08-16 06:14:43 --> Helper loaded: url_helper
+INFO - 2017-08-16 06:14:43 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 06:14:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 06:14:43 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 06:14:43 --> User Agent Class Initialized
+DEBUG - 2017-08-16 06:14:43 --> Template class Initialized
+INFO - 2017-08-16 06:14:43 --> Controller Class Initialized
+INFO - 2017-08-16 06:14:43 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 06:14:43 --> File loaded: D:\wamp64\www\ecr\application\front-modules/home/views/home.php
+DEBUG - 2017-08-16 06:14:43 --> File loaded: D:\wamp64\www\ecr\application\templates/front/index.php
+INFO - 2017-08-16 06:14:43 --> Final output sent to browser
+DEBUG - 2017-08-16 06:14:43 --> Total execution time: 0.2146
+INFO - 2017-08-16 06:14:51 --> Config Class Initialized
+INFO - 2017-08-16 06:14:51 --> Hooks Class Initialized
+DEBUG - 2017-08-16 06:14:51 --> UTF-8 Support Enabled
+INFO - 2017-08-16 06:14:51 --> Utf8 Class Initialized
+INFO - 2017-08-16 06:14:51 --> URI Class Initialized
+INFO - 2017-08-16 06:14:51 --> Router Class Initialized
+INFO - 2017-08-16 06:14:51 --> Output Class Initialized
+INFO - 2017-08-16 06:14:51 --> Security Class Initialized
+DEBUG - 2017-08-16 06:14:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 06:14:51 --> CSRF cookie sent
+INFO - 2017-08-16 06:14:51 --> Input Class Initialized
+INFO - 2017-08-16 06:14:51 --> Language Class Initialized
+INFO - 2017-08-16 06:14:51 --> Language Class Initialized
+INFO - 2017-08-16 06:14:51 --> Config Class Initialized
+INFO - 2017-08-16 06:14:51 --> Loader Class Initialized
+INFO - 2017-08-16 06:14:51 --> Helper loaded: url_helper
+INFO - 2017-08-16 06:14:51 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 06:14:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 06:14:51 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 06:14:51 --> User Agent Class Initialized
+DEBUG - 2017-08-16 06:14:51 --> Template class Initialized
+INFO - 2017-08-16 06:14:51 --> Controller Class Initialized
+INFO - 2017-08-16 06:14:51 --> Model Class Initialized
+DEBUG - 2017-08-16 06:14:51 --> File loaded: D:\wamp64\www\ecr\application\front-modules/user/models/User_model.php
+INFO - 2017-08-16 06:14:51 --> Model Class Initialized
+INFO - 2017-08-16 06:14:51 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 06:14:51 --> File loaded: D:\wamp64\www\ecr\application\front-modules/user/views/profile.php
+DEBUG - 2017-08-16 06:14:51 --> File loaded: D:\wamp64\www\ecr\application\templates/front/index.php
+INFO - 2017-08-16 06:14:51 --> Final output sent to browser
+DEBUG - 2017-08-16 06:14:51 --> Total execution time: 0.2205
+INFO - 2017-08-16 06:14:54 --> Config Class Initialized
+INFO - 2017-08-16 06:14:54 --> Hooks Class Initialized
+DEBUG - 2017-08-16 06:14:54 --> UTF-8 Support Enabled
+INFO - 2017-08-16 06:14:54 --> Utf8 Class Initialized
+INFO - 2017-08-16 06:14:54 --> URI Class Initialized
+DEBUG - 2017-08-16 06:14:54 --> No URI present. Default controller set.
+INFO - 2017-08-16 06:14:54 --> Router Class Initialized
+INFO - 2017-08-16 06:14:54 --> Output Class Initialized
+INFO - 2017-08-16 06:14:54 --> Security Class Initialized
+DEBUG - 2017-08-16 06:14:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 06:14:54 --> CSRF cookie sent
+INFO - 2017-08-16 06:14:54 --> Input Class Initialized
+INFO - 2017-08-16 06:14:54 --> Language Class Initialized
+INFO - 2017-08-16 06:14:54 --> Language Class Initialized
+INFO - 2017-08-16 06:14:54 --> Config Class Initialized
+INFO - 2017-08-16 06:14:54 --> Loader Class Initialized
+INFO - 2017-08-16 06:14:54 --> Helper loaded: url_helper
+INFO - 2017-08-16 06:14:54 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 06:14:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 06:14:54 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 06:14:54 --> User Agent Class Initialized
+DEBUG - 2017-08-16 06:14:54 --> Template class Initialized
+INFO - 2017-08-16 06:14:54 --> Controller Class Initialized
+INFO - 2017-08-16 06:14:54 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 06:14:54 --> File loaded: D:\wamp64\www\ecr\application\front-modules/home/views/home.php
+DEBUG - 2017-08-16 06:14:54 --> File loaded: D:\wamp64\www\ecr\application\templates/front/index.php
+INFO - 2017-08-16 06:14:54 --> Final output sent to browser
+DEBUG - 2017-08-16 06:14:54 --> Total execution time: 0.2169
+INFO - 2017-08-16 06:15:18 --> Config Class Initialized
+INFO - 2017-08-16 06:15:18 --> Hooks Class Initialized
+DEBUG - 2017-08-16 06:15:18 --> UTF-8 Support Enabled
+INFO - 2017-08-16 06:15:18 --> Utf8 Class Initialized
+INFO - 2017-08-16 06:15:18 --> URI Class Initialized
+INFO - 2017-08-16 06:15:18 --> Router Class Initialized
+INFO - 2017-08-16 06:15:18 --> Output Class Initialized
+INFO - 2017-08-16 06:15:18 --> Security Class Initialized
+DEBUG - 2017-08-16 06:15:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 06:15:18 --> CSRF cookie sent
+INFO - 2017-08-16 06:15:18 --> Input Class Initialized
+INFO - 2017-08-16 06:15:18 --> Language Class Initialized
+INFO - 2017-08-16 06:15:18 --> Language Class Initialized
+INFO - 2017-08-16 06:15:19 --> Config Class Initialized
+INFO - 2017-08-16 06:15:19 --> Loader Class Initialized
+INFO - 2017-08-16 06:15:19 --> Helper loaded: url_helper
+INFO - 2017-08-16 06:15:19 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 06:15:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 06:15:19 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 06:15:19 --> User Agent Class Initialized
+DEBUG - 2017-08-16 06:15:19 --> Template class Initialized
+INFO - 2017-08-16 06:15:19 --> Controller Class Initialized
+INFO - 2017-08-16 06:15:19 --> Model Class Initialized
+DEBUG - 2017-08-16 06:15:19 --> File loaded: D:\wamp64\www\ecr\application\front-modules/user/models/User_model.php
+INFO - 2017-08-16 06:15:19 --> Model Class Initialized
+INFO - 2017-08-16 06:15:19 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 06:15:19 --> File loaded: D:\wamp64\www\ecr\application\front-modules/user/views/profile.php
+DEBUG - 2017-08-16 06:15:19 --> File loaded: D:\wamp64\www\ecr\application\templates/front/index.php
+INFO - 2017-08-16 06:15:19 --> Final output sent to browser
+DEBUG - 2017-08-16 06:15:19 --> Total execution time: 0.2223
+INFO - 2017-08-16 06:15:58 --> Config Class Initialized
+INFO - 2017-08-16 06:15:58 --> Hooks Class Initialized
+DEBUG - 2017-08-16 06:15:58 --> UTF-8 Support Enabled
+INFO - 2017-08-16 06:15:58 --> Utf8 Class Initialized
+INFO - 2017-08-16 06:15:58 --> URI Class Initialized
+INFO - 2017-08-16 06:15:58 --> Router Class Initialized
+INFO - 2017-08-16 06:15:58 --> Output Class Initialized
+INFO - 2017-08-16 06:15:58 --> Security Class Initialized
+DEBUG - 2017-08-16 06:15:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 06:15:58 --> CSRF cookie sent
+INFO - 2017-08-16 06:15:58 --> Input Class Initialized
+INFO - 2017-08-16 06:15:58 --> Language Class Initialized
+INFO - 2017-08-16 06:15:58 --> Language Class Initialized
+INFO - 2017-08-16 06:15:58 --> Config Class Initialized
+INFO - 2017-08-16 06:15:58 --> Loader Class Initialized
+INFO - 2017-08-16 06:15:58 --> Helper loaded: url_helper
+INFO - 2017-08-16 06:15:58 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 06:15:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 06:15:58 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 06:15:58 --> User Agent Class Initialized
+DEBUG - 2017-08-16 06:15:58 --> Template class Initialized
+INFO - 2017-08-16 06:15:58 --> Controller Class Initialized
+INFO - 2017-08-16 06:15:58 --> Model Class Initialized
+DEBUG - 2017-08-16 06:15:58 --> File loaded: D:\wamp64\www\ecr\application\front-modules/user/models/User_model.php
+INFO - 2017-08-16 06:15:58 --> Model Class Initialized
+INFO - 2017-08-16 06:15:59 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 06:15:59 --> File loaded: D:\wamp64\www\ecr\application\front-modules/user/views/profile.php
+DEBUG - 2017-08-16 06:15:59 --> File loaded: D:\wamp64\www\ecr\application\templates/front/index.php
+INFO - 2017-08-16 06:15:59 --> Final output sent to browser
+DEBUG - 2017-08-16 06:15:59 --> Total execution time: 0.2273
+INFO - 2017-08-16 06:16:15 --> Config Class Initialized
+INFO - 2017-08-16 06:16:15 --> Hooks Class Initialized
+DEBUG - 2017-08-16 06:16:15 --> UTF-8 Support Enabled
+INFO - 2017-08-16 06:16:15 --> Utf8 Class Initialized
+INFO - 2017-08-16 06:16:15 --> URI Class Initialized
+DEBUG - 2017-08-16 06:16:15 --> No URI present. Default controller set.
+INFO - 2017-08-16 06:16:15 --> Router Class Initialized
+INFO - 2017-08-16 06:16:15 --> Output Class Initialized
+INFO - 2017-08-16 06:16:15 --> Security Class Initialized
+DEBUG - 2017-08-16 06:16:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 06:16:15 --> CSRF cookie sent
+INFO - 2017-08-16 06:16:15 --> Input Class Initialized
+INFO - 2017-08-16 06:16:15 --> Language Class Initialized
+INFO - 2017-08-16 06:16:15 --> Language Class Initialized
+INFO - 2017-08-16 06:16:15 --> Config Class Initialized
+INFO - 2017-08-16 06:16:15 --> Loader Class Initialized
+INFO - 2017-08-16 06:16:15 --> Helper loaded: url_helper
+INFO - 2017-08-16 06:16:15 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 06:16:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 06:16:15 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 06:16:15 --> User Agent Class Initialized
+DEBUG - 2017-08-16 06:16:15 --> Template class Initialized
+INFO - 2017-08-16 06:16:15 --> Controller Class Initialized
+INFO - 2017-08-16 06:16:15 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 06:16:15 --> File loaded: D:\wamp64\www\ecr\application\front-modules/home/views/home.php
+DEBUG - 2017-08-16 06:16:15 --> File loaded: D:\wamp64\www\ecr\application\templates/front/index.php
+INFO - 2017-08-16 06:16:15 --> Final output sent to browser
+DEBUG - 2017-08-16 06:16:15 --> Total execution time: 0.2498
+INFO - 2017-08-16 06:16:23 --> Config Class Initialized
+INFO - 2017-08-16 06:16:23 --> Hooks Class Initialized
+DEBUG - 2017-08-16 06:16:23 --> UTF-8 Support Enabled
+INFO - 2017-08-16 06:16:23 --> Utf8 Class Initialized
+INFO - 2017-08-16 06:16:23 --> URI Class Initialized
+INFO - 2017-08-16 06:16:23 --> Router Class Initialized
+INFO - 2017-08-16 06:16:23 --> Output Class Initialized
+INFO - 2017-08-16 06:16:23 --> Security Class Initialized
+DEBUG - 2017-08-16 06:16:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 06:16:23 --> CSRF cookie sent
+INFO - 2017-08-16 06:16:23 --> Input Class Initialized
+INFO - 2017-08-16 06:16:23 --> Language Class Initialized
+INFO - 2017-08-16 06:16:23 --> Language Class Initialized
+INFO - 2017-08-16 06:16:23 --> Config Class Initialized
+INFO - 2017-08-16 06:16:23 --> Loader Class Initialized
+INFO - 2017-08-16 06:16:23 --> Helper loaded: url_helper
+INFO - 2017-08-16 06:16:23 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 06:16:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 06:16:23 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 06:16:23 --> User Agent Class Initialized
+DEBUG - 2017-08-16 06:16:23 --> Template class Initialized
+INFO - 2017-08-16 06:16:23 --> Controller Class Initialized
+INFO - 2017-08-16 06:16:23 --> Model Class Initialized
+DEBUG - 2017-08-16 06:16:23 --> File loaded: D:\wamp64\www\ecr\application\front-modules/user/models/User_model.php
+INFO - 2017-08-16 06:16:23 --> Model Class Initialized
+INFO - 2017-08-16 06:16:23 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 06:16:23 --> File loaded: D:\wamp64\www\ecr\application\front-modules/user/views/profile.php
+DEBUG - 2017-08-16 06:16:23 --> File loaded: D:\wamp64\www\ecr\application\templates/front/index.php
+INFO - 2017-08-16 06:16:23 --> Final output sent to browser
+DEBUG - 2017-08-16 06:16:23 --> Total execution time: 0.2324
+INFO - 2017-08-16 06:18:58 --> Config Class Initialized
+INFO - 2017-08-16 06:18:58 --> Hooks Class Initialized
+DEBUG - 2017-08-16 06:18:58 --> UTF-8 Support Enabled
+INFO - 2017-08-16 06:18:58 --> Utf8 Class Initialized
+INFO - 2017-08-16 06:18:58 --> URI Class Initialized
+INFO - 2017-08-16 06:18:58 --> Router Class Initialized
+INFO - 2017-08-16 06:18:58 --> Output Class Initialized
+INFO - 2017-08-16 06:18:58 --> Security Class Initialized
+DEBUG - 2017-08-16 06:18:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 06:18:58 --> CSRF cookie sent
+INFO - 2017-08-16 06:18:58 --> Input Class Initialized
+INFO - 2017-08-16 06:18:59 --> Language Class Initialized
+INFO - 2017-08-16 06:18:59 --> Language Class Initialized
+INFO - 2017-08-16 06:18:59 --> Config Class Initialized
+INFO - 2017-08-16 06:18:59 --> Loader Class Initialized
+INFO - 2017-08-16 06:18:59 --> Helper loaded: url_helper
+INFO - 2017-08-16 06:18:59 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 06:18:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 06:18:59 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 06:18:59 --> User Agent Class Initialized
+DEBUG - 2017-08-16 06:18:59 --> Template class Initialized
+INFO - 2017-08-16 06:18:59 --> Controller Class Initialized
+INFO - 2017-08-16 06:18:59 --> Model Class Initialized
+DEBUG - 2017-08-16 06:18:59 --> File loaded: D:\wamp64\www\ecr\application\front-modules/user/models/User_model.php
+INFO - 2017-08-16 06:18:59 --> Model Class Initialized
+INFO - 2017-08-16 06:18:59 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 06:18:59 --> File loaded: D:\wamp64\www\ecr\application\front-modules/user/views/profile.php
+DEBUG - 2017-08-16 06:18:59 --> File loaded: D:\wamp64\www\ecr\application\templates/front/index.php
+INFO - 2017-08-16 06:18:59 --> Final output sent to browser
+DEBUG - 2017-08-16 06:18:59 --> Total execution time: 0.2308
+INFO - 2017-08-16 06:19:02 --> Config Class Initialized
+INFO - 2017-08-16 06:19:02 --> Hooks Class Initialized
+DEBUG - 2017-08-16 06:19:02 --> UTF-8 Support Enabled
+INFO - 2017-08-16 06:19:02 --> Utf8 Class Initialized
+INFO - 2017-08-16 06:19:02 --> URI Class Initialized
+INFO - 2017-08-16 06:19:02 --> Router Class Initialized
+INFO - 2017-08-16 06:19:02 --> Output Class Initialized
+INFO - 2017-08-16 06:19:02 --> Security Class Initialized
+DEBUG - 2017-08-16 06:19:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 06:19:02 --> CSRF cookie sent
+INFO - 2017-08-16 06:19:02 --> Input Class Initialized
+INFO - 2017-08-16 06:19:02 --> Language Class Initialized
+INFO - 2017-08-16 06:19:02 --> Language Class Initialized
+INFO - 2017-08-16 06:19:02 --> Config Class Initialized
+INFO - 2017-08-16 06:19:02 --> Loader Class Initialized
+INFO - 2017-08-16 06:19:02 --> Helper loaded: url_helper
+INFO - 2017-08-16 06:19:02 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 06:19:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 06:19:02 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 06:19:02 --> User Agent Class Initialized
+DEBUG - 2017-08-16 06:19:02 --> Template class Initialized
+INFO - 2017-08-16 06:19:02 --> Controller Class Initialized
+INFO - 2017-08-16 06:19:02 --> Model Class Initialized
+DEBUG - 2017-08-16 06:19:02 --> File loaded: D:\wamp64\www\ecr\application\front-modules/user/models/User_model.php
+INFO - 2017-08-16 06:19:02 --> Model Class Initialized
+INFO - 2017-08-16 06:19:02 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 06:19:02 --> File loaded: D:\wamp64\www\ecr\application\front-modules/user/views/profile.php
+DEBUG - 2017-08-16 06:19:02 --> File loaded: D:\wamp64\www\ecr\application\templates/front/index.php
+INFO - 2017-08-16 06:19:02 --> Final output sent to browser
+DEBUG - 2017-08-16 06:19:02 --> Total execution time: 0.2467
+INFO - 2017-08-16 06:19:31 --> Config Class Initialized
+INFO - 2017-08-16 06:19:31 --> Hooks Class Initialized
+DEBUG - 2017-08-16 06:19:31 --> UTF-8 Support Enabled
+INFO - 2017-08-16 06:19:31 --> Utf8 Class Initialized
+INFO - 2017-08-16 06:19:31 --> URI Class Initialized
+INFO - 2017-08-16 06:19:31 --> Router Class Initialized
+INFO - 2017-08-16 06:19:31 --> Output Class Initialized
+INFO - 2017-08-16 06:19:31 --> Security Class Initialized
+DEBUG - 2017-08-16 06:19:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 06:19:31 --> CSRF cookie sent
+INFO - 2017-08-16 06:19:31 --> Input Class Initialized
+INFO - 2017-08-16 06:19:31 --> Language Class Initialized
+INFO - 2017-08-16 06:19:31 --> Language Class Initialized
+INFO - 2017-08-16 06:19:31 --> Config Class Initialized
+INFO - 2017-08-16 06:19:31 --> Loader Class Initialized
+INFO - 2017-08-16 06:19:31 --> Helper loaded: url_helper
+INFO - 2017-08-16 06:19:31 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 06:19:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 06:19:31 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 06:19:31 --> User Agent Class Initialized
+DEBUG - 2017-08-16 06:19:31 --> Template class Initialized
+INFO - 2017-08-16 06:19:31 --> Controller Class Initialized
+INFO - 2017-08-16 06:19:31 --> Model Class Initialized
+DEBUG - 2017-08-16 06:19:32 --> File loaded: D:\wamp64\www\ecr\application\front-modules/user/models/User_model.php
+INFO - 2017-08-16 06:19:32 --> Model Class Initialized
+INFO - 2017-08-16 06:19:32 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 06:19:32 --> File loaded: D:\wamp64\www\ecr\application\front-modules/user/views/profile.php
+DEBUG - 2017-08-16 06:19:32 --> File loaded: D:\wamp64\www\ecr\application\templates/front/index.php
+INFO - 2017-08-16 06:19:32 --> Final output sent to browser
+DEBUG - 2017-08-16 06:19:32 --> Total execution time: 0.2220
+INFO - 2017-08-16 06:19:43 --> Config Class Initialized
+INFO - 2017-08-16 06:19:43 --> Hooks Class Initialized
+DEBUG - 2017-08-16 06:19:43 --> UTF-8 Support Enabled
+INFO - 2017-08-16 06:19:43 --> Utf8 Class Initialized
+INFO - 2017-08-16 06:19:43 --> URI Class Initialized
+INFO - 2017-08-16 06:19:43 --> Router Class Initialized
+INFO - 2017-08-16 06:19:43 --> Output Class Initialized
+INFO - 2017-08-16 06:19:43 --> Security Class Initialized
+DEBUG - 2017-08-16 06:19:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 06:19:43 --> CSRF cookie sent
+INFO - 2017-08-16 06:19:43 --> Input Class Initialized
+INFO - 2017-08-16 06:19:43 --> Language Class Initialized
+INFO - 2017-08-16 06:19:43 --> Language Class Initialized
+INFO - 2017-08-16 06:19:43 --> Config Class Initialized
+INFO - 2017-08-16 06:19:43 --> Loader Class Initialized
+INFO - 2017-08-16 06:19:43 --> Helper loaded: url_helper
+INFO - 2017-08-16 06:19:43 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 06:19:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 06:19:43 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 06:19:43 --> User Agent Class Initialized
+DEBUG - 2017-08-16 06:19:43 --> Template class Initialized
+INFO - 2017-08-16 06:19:43 --> Controller Class Initialized
+INFO - 2017-08-16 06:19:43 --> Model Class Initialized
+DEBUG - 2017-08-16 06:19:43 --> File loaded: D:\wamp64\www\ecr\application\front-modules/user/models/User_model.php
+INFO - 2017-08-16 06:19:43 --> Model Class Initialized
+INFO - 2017-08-16 06:19:43 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 06:19:43 --> File loaded: D:\wamp64\www\ecr\application\front-modules/user/views/profile.php
+DEBUG - 2017-08-16 06:19:43 --> File loaded: D:\wamp64\www\ecr\application\templates/front/index.php
+INFO - 2017-08-16 06:19:43 --> Final output sent to browser
+DEBUG - 2017-08-16 06:19:43 --> Total execution time: 0.2241
+INFO - 2017-08-16 06:19:46 --> Config Class Initialized
+INFO - 2017-08-16 06:19:46 --> Hooks Class Initialized
+DEBUG - 2017-08-16 06:19:46 --> UTF-8 Support Enabled
+INFO - 2017-08-16 06:19:46 --> Utf8 Class Initialized
+INFO - 2017-08-16 06:19:46 --> URI Class Initialized
+INFO - 2017-08-16 06:19:46 --> Router Class Initialized
+INFO - 2017-08-16 06:19:46 --> Output Class Initialized
+INFO - 2017-08-16 06:19:46 --> Security Class Initialized
+DEBUG - 2017-08-16 06:19:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 06:19:46 --> CSRF cookie sent
+INFO - 2017-08-16 06:19:46 --> Input Class Initialized
+INFO - 2017-08-16 06:19:46 --> Language Class Initialized
+INFO - 2017-08-16 06:19:46 --> Language Class Initialized
+INFO - 2017-08-16 06:19:46 --> Config Class Initialized
+INFO - 2017-08-16 06:19:46 --> Loader Class Initialized
+INFO - 2017-08-16 06:19:46 --> Helper loaded: url_helper
+INFO - 2017-08-16 06:19:46 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 06:19:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 06:19:46 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 06:19:46 --> User Agent Class Initialized
+DEBUG - 2017-08-16 06:19:46 --> Template class Initialized
+INFO - 2017-08-16 06:19:46 --> Controller Class Initialized
+INFO - 2017-08-16 06:19:46 --> Model Class Initialized
+DEBUG - 2017-08-16 06:19:46 --> File loaded: D:\wamp64\www\ecr\application\front-modules/user/models/User_model.php
+INFO - 2017-08-16 06:19:46 --> Model Class Initialized
+INFO - 2017-08-16 06:19:46 --> Config Class Initialized
+INFO - 2017-08-16 06:19:46 --> Hooks Class Initialized
+DEBUG - 2017-08-16 06:19:46 --> UTF-8 Support Enabled
+INFO - 2017-08-16 06:19:46 --> Utf8 Class Initialized
+INFO - 2017-08-16 06:19:46 --> URI Class Initialized
+INFO - 2017-08-16 06:19:46 --> Router Class Initialized
+INFO - 2017-08-16 06:19:46 --> Output Class Initialized
+INFO - 2017-08-16 06:19:46 --> Security Class Initialized
+DEBUG - 2017-08-16 06:19:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 06:19:46 --> CSRF cookie sent
+INFO - 2017-08-16 06:19:46 --> Input Class Initialized
+INFO - 2017-08-16 06:19:46 --> Language Class Initialized
+INFO - 2017-08-16 06:19:46 --> Language Class Initialized
+INFO - 2017-08-16 06:19:46 --> Config Class Initialized
+INFO - 2017-08-16 06:19:46 --> Loader Class Initialized
+INFO - 2017-08-16 06:19:46 --> Helper loaded: url_helper
+INFO - 2017-08-16 06:19:46 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 06:19:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 06:19:46 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 06:19:46 --> User Agent Class Initialized
+DEBUG - 2017-08-16 06:19:46 --> Template class Initialized
+INFO - 2017-08-16 06:19:46 --> Controller Class Initialized
+INFO - 2017-08-16 06:19:46 --> Model Class Initialized
+DEBUG - 2017-08-16 06:19:46 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/models/User_model.php
+INFO - 2017-08-16 06:19:46 --> Model Class Initialized
+INFO - 2017-08-16 06:19:46 --> Helper loaded: form_helper
+INFO - 2017-08-16 06:19:46 --> Form Validation Class Initialized
+DEBUG - 2017-08-16 06:19:46 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/views/login.php
+INFO - 2017-08-16 06:19:46 --> Final output sent to browser
+DEBUG - 2017-08-16 06:19:46 --> Total execution time: 0.2455
+INFO - 2017-08-16 06:19:51 --> Config Class Initialized
+INFO - 2017-08-16 06:19:51 --> Hooks Class Initialized
+DEBUG - 2017-08-16 06:19:51 --> UTF-8 Support Enabled
+INFO - 2017-08-16 06:19:51 --> Utf8 Class Initialized
+INFO - 2017-08-16 06:19:51 --> URI Class Initialized
+INFO - 2017-08-16 06:19:51 --> Router Class Initialized
+INFO - 2017-08-16 06:19:51 --> Output Class Initialized
+INFO - 2017-08-16 06:19:51 --> Security Class Initialized
+DEBUG - 2017-08-16 06:19:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 06:19:51 --> CSRF cookie sent
+INFO - 2017-08-16 06:19:51 --> CSRF token verified
+INFO - 2017-08-16 06:19:51 --> Input Class Initialized
+INFO - 2017-08-16 06:19:51 --> Language Class Initialized
+INFO - 2017-08-16 06:19:51 --> Language Class Initialized
+INFO - 2017-08-16 06:19:52 --> Config Class Initialized
+INFO - 2017-08-16 06:19:52 --> Loader Class Initialized
+INFO - 2017-08-16 06:19:52 --> Helper loaded: url_helper
+INFO - 2017-08-16 06:19:52 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 06:19:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 06:19:52 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 06:19:52 --> User Agent Class Initialized
+DEBUG - 2017-08-16 06:19:52 --> Template class Initialized
+INFO - 2017-08-16 06:19:52 --> Controller Class Initialized
+INFO - 2017-08-16 06:19:52 --> Model Class Initialized
+DEBUG - 2017-08-16 06:19:52 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/models/User_model.php
+INFO - 2017-08-16 06:19:52 --> Model Class Initialized
+INFO - 2017-08-16 06:19:52 --> Helper loaded: form_helper
+INFO - 2017-08-16 06:19:52 --> Form Validation Class Initialized
+INFO - 2017-08-16 06:19:52 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-08-16 06:19:52 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/views/login.php
+INFO - 2017-08-16 06:19:52 --> Final output sent to browser
+DEBUG - 2017-08-16 06:19:52 --> Total execution time: 0.2433
+INFO - 2017-08-16 06:19:57 --> Config Class Initialized
+INFO - 2017-08-16 06:19:57 --> Hooks Class Initialized
+DEBUG - 2017-08-16 06:19:57 --> UTF-8 Support Enabled
+INFO - 2017-08-16 06:19:57 --> Utf8 Class Initialized
+INFO - 2017-08-16 06:19:57 --> URI Class Initialized
+INFO - 2017-08-16 06:19:57 --> Router Class Initialized
+INFO - 2017-08-16 06:19:57 --> Output Class Initialized
+INFO - 2017-08-16 06:19:57 --> Security Class Initialized
+DEBUG - 2017-08-16 06:19:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 06:19:57 --> CSRF cookie sent
+INFO - 2017-08-16 06:19:57 --> CSRF token verified
+INFO - 2017-08-16 06:19:57 --> Input Class Initialized
+INFO - 2017-08-16 06:19:57 --> Language Class Initialized
+INFO - 2017-08-16 06:19:57 --> Language Class Initialized
+INFO - 2017-08-16 06:19:57 --> Config Class Initialized
+INFO - 2017-08-16 06:19:57 --> Loader Class Initialized
+INFO - 2017-08-16 06:19:57 --> Helper loaded: url_helper
+INFO - 2017-08-16 06:19:57 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 06:19:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 06:19:57 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 06:19:57 --> User Agent Class Initialized
+DEBUG - 2017-08-16 06:19:57 --> Template class Initialized
+INFO - 2017-08-16 06:19:57 --> Controller Class Initialized
+INFO - 2017-08-16 06:19:57 --> Model Class Initialized
+DEBUG - 2017-08-16 06:19:57 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/models/User_model.php
+INFO - 2017-08-16 06:19:57 --> Model Class Initialized
+INFO - 2017-08-16 06:19:57 --> Helper loaded: form_helper
+INFO - 2017-08-16 06:19:57 --> Form Validation Class Initialized
+INFO - 2017-08-16 06:19:57 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2017-08-16 06:19:57 --> Config Class Initialized
+INFO - 2017-08-16 06:19:57 --> Hooks Class Initialized
+DEBUG - 2017-08-16 06:19:57 --> UTF-8 Support Enabled
+INFO - 2017-08-16 06:19:57 --> Utf8 Class Initialized
+INFO - 2017-08-16 06:19:57 --> URI Class Initialized
+INFO - 2017-08-16 06:19:57 --> Router Class Initialized
+INFO - 2017-08-16 06:19:57 --> Output Class Initialized
+INFO - 2017-08-16 06:19:57 --> Security Class Initialized
+DEBUG - 2017-08-16 06:19:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 06:19:57 --> CSRF cookie sent
+INFO - 2017-08-16 06:19:57 --> Input Class Initialized
+INFO - 2017-08-16 06:19:57 --> Language Class Initialized
+INFO - 2017-08-16 06:19:57 --> Language Class Initialized
+INFO - 2017-08-16 06:19:57 --> Config Class Initialized
+INFO - 2017-08-16 06:19:57 --> Loader Class Initialized
+INFO - 2017-08-16 06:19:57 --> Helper loaded: url_helper
+INFO - 2017-08-16 06:19:57 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 06:19:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 06:19:57 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 06:19:57 --> User Agent Class Initialized
+DEBUG - 2017-08-16 06:19:57 --> Template class Initialized
+INFO - 2017-08-16 06:19:57 --> Controller Class Initialized
+INFO - 2017-08-16 06:19:57 --> Model Class Initialized
+DEBUG - 2017-08-16 06:19:57 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/models/User_model.php
+INFO - 2017-08-16 06:19:57 --> Model Class Initialized
+INFO - 2017-08-16 06:19:57 --> Helper loaded: form_helper
+INFO - 2017-08-16 06:19:57 --> Form Validation Class Initialized
+DEBUG - 2017-08-16 06:19:57 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/views/login.php
+INFO - 2017-08-16 06:19:57 --> Final output sent to browser
+DEBUG - 2017-08-16 06:19:57 --> Total execution time: 0.2224
+INFO - 2017-08-16 06:20:03 --> Config Class Initialized
+INFO - 2017-08-16 06:20:03 --> Hooks Class Initialized
+DEBUG - 2017-08-16 06:20:03 --> UTF-8 Support Enabled
+INFO - 2017-08-16 06:20:03 --> Utf8 Class Initialized
+INFO - 2017-08-16 06:20:03 --> URI Class Initialized
+INFO - 2017-08-16 06:20:03 --> Router Class Initialized
+INFO - 2017-08-16 06:20:03 --> Output Class Initialized
+INFO - 2017-08-16 06:20:03 --> Security Class Initialized
+DEBUG - 2017-08-16 06:20:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 06:20:03 --> CSRF cookie sent
+INFO - 2017-08-16 06:20:03 --> CSRF token verified
+INFO - 2017-08-16 06:20:03 --> Input Class Initialized
+INFO - 2017-08-16 06:20:03 --> Language Class Initialized
+INFO - 2017-08-16 06:20:03 --> Language Class Initialized
+INFO - 2017-08-16 06:20:03 --> Config Class Initialized
+INFO - 2017-08-16 06:20:03 --> Loader Class Initialized
+INFO - 2017-08-16 06:20:03 --> Helper loaded: url_helper
+INFO - 2017-08-16 06:20:03 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 06:20:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 06:20:03 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 06:20:04 --> User Agent Class Initialized
+DEBUG - 2017-08-16 06:20:04 --> Template class Initialized
+INFO - 2017-08-16 06:20:04 --> Controller Class Initialized
+INFO - 2017-08-16 06:20:04 --> Model Class Initialized
+DEBUG - 2017-08-16 06:20:04 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/models/User_model.php
+INFO - 2017-08-16 06:20:04 --> Model Class Initialized
+INFO - 2017-08-16 06:20:04 --> Helper loaded: form_helper
+INFO - 2017-08-16 06:20:04 --> Form Validation Class Initialized
+INFO - 2017-08-16 06:20:04 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2017-08-16 06:20:04 --> Config Class Initialized
+INFO - 2017-08-16 06:20:04 --> Hooks Class Initialized
+DEBUG - 2017-08-16 06:20:04 --> UTF-8 Support Enabled
+INFO - 2017-08-16 06:20:04 --> Utf8 Class Initialized
+INFO - 2017-08-16 06:20:04 --> URI Class Initialized
+INFO - 2017-08-16 06:20:04 --> Router Class Initialized
+INFO - 2017-08-16 06:20:04 --> Output Class Initialized
+INFO - 2017-08-16 06:20:04 --> Security Class Initialized
+DEBUG - 2017-08-16 06:20:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 06:20:04 --> CSRF cookie sent
+INFO - 2017-08-16 06:20:04 --> Input Class Initialized
+INFO - 2017-08-16 06:20:04 --> Language Class Initialized
+INFO - 2017-08-16 06:20:04 --> Language Class Initialized
+INFO - 2017-08-16 06:20:04 --> Config Class Initialized
+INFO - 2017-08-16 06:20:04 --> Loader Class Initialized
+INFO - 2017-08-16 06:20:04 --> Helper loaded: url_helper
+INFO - 2017-08-16 06:20:04 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 06:20:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 06:20:04 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 06:20:04 --> User Agent Class Initialized
+DEBUG - 2017-08-16 06:20:04 --> Template class Initialized
+INFO - 2017-08-16 06:20:04 --> Controller Class Initialized
+INFO - 2017-08-16 06:20:04 --> Model Class Initialized
+DEBUG - 2017-08-16 06:20:04 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/models/User_model.php
+INFO - 2017-08-16 06:20:04 --> Model Class Initialized
+INFO - 2017-08-16 06:20:04 --> Helper loaded: form_helper
+INFO - 2017-08-16 06:20:04 --> Form Validation Class Initialized
+DEBUG - 2017-08-16 06:20:04 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/views/login.php
+INFO - 2017-08-16 06:20:04 --> Final output sent to browser
+DEBUG - 2017-08-16 06:20:04 --> Total execution time: 0.2244
+INFO - 2017-08-16 06:20:11 --> Config Class Initialized
+INFO - 2017-08-16 06:20:11 --> Hooks Class Initialized
+DEBUG - 2017-08-16 06:20:11 --> UTF-8 Support Enabled
+INFO - 2017-08-16 06:20:11 --> Utf8 Class Initialized
+INFO - 2017-08-16 06:20:11 --> URI Class Initialized
+INFO - 2017-08-16 06:20:11 --> Router Class Initialized
+INFO - 2017-08-16 06:20:11 --> Output Class Initialized
+INFO - 2017-08-16 06:20:11 --> Security Class Initialized
+DEBUG - 2017-08-16 06:20:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 06:20:11 --> CSRF cookie sent
+INFO - 2017-08-16 06:20:11 --> CSRF token verified
+INFO - 2017-08-16 06:20:11 --> Input Class Initialized
+INFO - 2017-08-16 06:20:11 --> Language Class Initialized
+INFO - 2017-08-16 06:20:11 --> Language Class Initialized
+INFO - 2017-08-16 06:20:11 --> Config Class Initialized
+INFO - 2017-08-16 06:20:11 --> Loader Class Initialized
+INFO - 2017-08-16 06:20:11 --> Helper loaded: url_helper
+INFO - 2017-08-16 06:20:11 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 06:20:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 06:20:11 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 06:20:12 --> User Agent Class Initialized
+DEBUG - 2017-08-16 06:20:12 --> Template class Initialized
+INFO - 2017-08-16 06:20:12 --> Controller Class Initialized
+INFO - 2017-08-16 06:20:12 --> Model Class Initialized
+DEBUG - 2017-08-16 06:20:12 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/models/User_model.php
+INFO - 2017-08-16 06:20:12 --> Model Class Initialized
+INFO - 2017-08-16 06:20:12 --> Helper loaded: form_helper
+INFO - 2017-08-16 06:20:12 --> Form Validation Class Initialized
+INFO - 2017-08-16 06:20:12 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2017-08-16 06:20:12 --> Config Class Initialized
+INFO - 2017-08-16 06:20:12 --> Hooks Class Initialized
+DEBUG - 2017-08-16 06:20:12 --> UTF-8 Support Enabled
+INFO - 2017-08-16 06:20:12 --> Utf8 Class Initialized
+INFO - 2017-08-16 06:20:12 --> URI Class Initialized
+INFO - 2017-08-16 06:20:12 --> Router Class Initialized
+INFO - 2017-08-16 06:20:12 --> Output Class Initialized
+INFO - 2017-08-16 06:20:12 --> Security Class Initialized
+DEBUG - 2017-08-16 06:20:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 06:20:12 --> CSRF cookie sent
+INFO - 2017-08-16 06:20:12 --> Input Class Initialized
+INFO - 2017-08-16 06:20:12 --> Language Class Initialized
+INFO - 2017-08-16 06:20:12 --> Language Class Initialized
+INFO - 2017-08-16 06:20:12 --> Config Class Initialized
+INFO - 2017-08-16 06:20:12 --> Loader Class Initialized
+INFO - 2017-08-16 06:20:12 --> Helper loaded: url_helper
+INFO - 2017-08-16 06:20:12 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 06:20:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 06:20:12 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 06:20:12 --> User Agent Class Initialized
+DEBUG - 2017-08-16 06:20:12 --> Template class Initialized
+INFO - 2017-08-16 06:20:12 --> Controller Class Initialized
+INFO - 2017-08-16 06:20:12 --> Model Class Initialized
+DEBUG - 2017-08-16 06:20:12 --> File loaded: D:\wamp64\www\ecr\application\front-modules/user/models/User_model.php
+INFO - 2017-08-16 06:20:12 --> Model Class Initialized
+INFO - 2017-08-16 06:20:12 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 06:20:12 --> File loaded: D:\wamp64\www\ecr\application\front-modules/user/views/profile.php
+DEBUG - 2017-08-16 06:20:12 --> File loaded: D:\wamp64\www\ecr\application\templates/front/index.php
+INFO - 2017-08-16 06:20:12 --> Final output sent to browser
+DEBUG - 2017-08-16 06:20:12 --> Total execution time: 0.2208
+INFO - 2017-08-16 06:21:42 --> Config Class Initialized
+INFO - 2017-08-16 06:21:42 --> Hooks Class Initialized
+DEBUG - 2017-08-16 06:21:42 --> UTF-8 Support Enabled
+INFO - 2017-08-16 06:21:42 --> Utf8 Class Initialized
+INFO - 2017-08-16 06:21:42 --> URI Class Initialized
+INFO - 2017-08-16 06:21:42 --> Router Class Initialized
+INFO - 2017-08-16 06:21:42 --> Output Class Initialized
+INFO - 2017-08-16 06:21:42 --> Security Class Initialized
+DEBUG - 2017-08-16 06:21:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 06:21:42 --> CSRF cookie sent
+INFO - 2017-08-16 06:21:42 --> Input Class Initialized
+INFO - 2017-08-16 06:21:42 --> Language Class Initialized
+INFO - 2017-08-16 06:21:42 --> Language Class Initialized
+INFO - 2017-08-16 06:21:42 --> Config Class Initialized
+INFO - 2017-08-16 06:21:42 --> Loader Class Initialized
+INFO - 2017-08-16 06:21:42 --> Helper loaded: url_helper
+INFO - 2017-08-16 06:21:42 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 06:21:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 06:21:42 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 06:21:42 --> User Agent Class Initialized
+DEBUG - 2017-08-16 06:21:42 --> Template class Initialized
+INFO - 2017-08-16 06:21:42 --> Controller Class Initialized
+INFO - 2017-08-16 06:21:42 --> Model Class Initialized
+DEBUG - 2017-08-16 06:21:42 --> File loaded: D:\wamp64\www\ecr\application\front-modules/user/models/User_model.php
+INFO - 2017-08-16 06:21:42 --> Model Class Initialized
+INFO - 2017-08-16 06:21:42 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 06:21:42 --> File loaded: D:\wamp64\www\ecr\application\front-modules/user/views/profile.php
+DEBUG - 2017-08-16 06:21:42 --> File loaded: D:\wamp64\www\ecr\application\templates/front/index.php
+INFO - 2017-08-16 06:21:42 --> Final output sent to browser
+DEBUG - 2017-08-16 06:21:42 --> Total execution time: 0.2295
+INFO - 2017-08-16 06:22:48 --> Config Class Initialized
+INFO - 2017-08-16 06:22:48 --> Hooks Class Initialized
+DEBUG - 2017-08-16 06:22:48 --> UTF-8 Support Enabled
+INFO - 2017-08-16 06:22:48 --> Utf8 Class Initialized
+INFO - 2017-08-16 06:22:48 --> URI Class Initialized
+INFO - 2017-08-16 06:22:48 --> Router Class Initialized
+INFO - 2017-08-16 06:22:48 --> Output Class Initialized
+INFO - 2017-08-16 06:22:48 --> Security Class Initialized
+DEBUG - 2017-08-16 06:22:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 06:22:48 --> CSRF cookie sent
+INFO - 2017-08-16 06:22:48 --> Input Class Initialized
+INFO - 2017-08-16 06:22:48 --> Language Class Initialized
+INFO - 2017-08-16 06:22:48 --> Language Class Initialized
+INFO - 2017-08-16 06:22:48 --> Config Class Initialized
+INFO - 2017-08-16 06:22:48 --> Loader Class Initialized
+INFO - 2017-08-16 06:22:48 --> Helper loaded: url_helper
+INFO - 2017-08-16 06:22:48 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 06:22:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 06:22:48 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 06:22:48 --> User Agent Class Initialized
+DEBUG - 2017-08-16 06:22:48 --> Template class Initialized
+INFO - 2017-08-16 06:22:48 --> Controller Class Initialized
+INFO - 2017-08-16 06:22:48 --> Model Class Initialized
+DEBUG - 2017-08-16 06:22:48 --> File loaded: D:\wamp64\www\ecr\application\front-modules/user/models/User_model.php
+INFO - 2017-08-16 06:22:48 --> Model Class Initialized
+INFO - 2017-08-16 06:22:48 --> Helper loaded: form_helper
+INFO - 2017-08-16 06:22:48 --> Form Validation Class Initialized
+INFO - 2017-08-16 06:22:48 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 06:22:48 --> File loaded: D:\wamp64\www\ecr\application\front-modules/user/views/editProfile.php
+DEBUG - 2017-08-16 06:22:48 --> File loaded: D:\wamp64\www\ecr\application\templates/front/index.php
+INFO - 2017-08-16 06:22:48 --> Final output sent to browser
+DEBUG - 2017-08-16 06:22:48 --> Total execution time: 0.2573
+INFO - 2017-08-16 06:23:10 --> Config Class Initialized
+INFO - 2017-08-16 06:23:10 --> Hooks Class Initialized
+DEBUG - 2017-08-16 06:23:10 --> UTF-8 Support Enabled
+INFO - 2017-08-16 06:23:10 --> Utf8 Class Initialized
+INFO - 2017-08-16 06:23:10 --> URI Class Initialized
+INFO - 2017-08-16 06:23:10 --> Router Class Initialized
+INFO - 2017-08-16 06:23:10 --> Output Class Initialized
+INFO - 2017-08-16 06:23:10 --> Security Class Initialized
+DEBUG - 2017-08-16 06:23:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 06:23:10 --> CSRF cookie sent
+INFO - 2017-08-16 06:23:10 --> Input Class Initialized
+INFO - 2017-08-16 06:23:10 --> Language Class Initialized
+INFO - 2017-08-16 06:23:10 --> Language Class Initialized
+INFO - 2017-08-16 06:23:10 --> Config Class Initialized
+INFO - 2017-08-16 06:23:11 --> Loader Class Initialized
+INFO - 2017-08-16 06:23:11 --> Helper loaded: url_helper
+INFO - 2017-08-16 06:23:11 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 06:23:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 06:23:11 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 06:23:11 --> User Agent Class Initialized
+DEBUG - 2017-08-16 06:23:11 --> Template class Initialized
+INFO - 2017-08-16 06:23:11 --> Controller Class Initialized
+INFO - 2017-08-16 06:23:11 --> Model Class Initialized
+DEBUG - 2017-08-16 06:23:11 --> File loaded: D:\wamp64\www\ecr\application\front-modules/user/models/User_model.php
+INFO - 2017-08-16 06:23:11 --> Model Class Initialized
+INFO - 2017-08-16 06:23:11 --> Helper loaded: form_helper
+INFO - 2017-08-16 06:23:11 --> Form Validation Class Initialized
+INFO - 2017-08-16 06:23:11 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 06:23:11 --> File loaded: D:\wamp64\www\ecr\application\front-modules/user/views/editProfile.php
+DEBUG - 2017-08-16 06:23:11 --> File loaded: D:\wamp64\www\ecr\application\templates/front/index.php
+INFO - 2017-08-16 06:23:11 --> Final output sent to browser
+DEBUG - 2017-08-16 06:23:11 --> Total execution time: 0.2445
+INFO - 2017-08-16 10:13:25 --> Config Class Initialized
+INFO - 2017-08-16 10:13:25 --> Hooks Class Initialized
+DEBUG - 2017-08-16 10:13:25 --> UTF-8 Support Enabled
+INFO - 2017-08-16 10:13:25 --> Utf8 Class Initialized
+INFO - 2017-08-16 10:13:25 --> URI Class Initialized
+DEBUG - 2017-08-16 10:13:25 --> No URI present. Default controller set.
+INFO - 2017-08-16 10:13:25 --> Router Class Initialized
+INFO - 2017-08-16 10:13:25 --> Output Class Initialized
+INFO - 2017-08-16 10:13:25 --> Security Class Initialized
+DEBUG - 2017-08-16 10:13:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 10:13:25 --> CSRF cookie sent
+INFO - 2017-08-16 10:13:25 --> Input Class Initialized
+INFO - 2017-08-16 10:13:25 --> Language Class Initialized
+INFO - 2017-08-16 10:13:26 --> Language Class Initialized
+INFO - 2017-08-16 10:13:26 --> Config Class Initialized
+INFO - 2017-08-16 10:13:26 --> Loader Class Initialized
+INFO - 2017-08-16 10:13:26 --> Helper loaded: url_helper
+INFO - 2017-08-16 10:13:26 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 10:13:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 10:13:26 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 10:13:26 --> User Agent Class Initialized
+DEBUG - 2017-08-16 10:13:26 --> Template class Initialized
+INFO - 2017-08-16 10:13:26 --> Controller Class Initialized
+INFO - 2017-08-16 10:13:26 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 10:13:26 --> File loaded: D:\wamp64\www\ecr\application\front-modules/home/views/home.php
+DEBUG - 2017-08-16 10:13:26 --> File loaded: D:\wamp64\www\ecr\application\templates/front/index.php
+INFO - 2017-08-16 10:13:26 --> Final output sent to browser
+DEBUG - 2017-08-16 10:13:26 --> Total execution time: 1.2212
+INFO - 2017-08-16 10:13:30 --> Config Class Initialized
+INFO - 2017-08-16 10:13:30 --> Hooks Class Initialized
+DEBUG - 2017-08-16 10:13:30 --> UTF-8 Support Enabled
+INFO - 2017-08-16 10:13:30 --> Utf8 Class Initialized
+INFO - 2017-08-16 10:13:30 --> URI Class Initialized
+INFO - 2017-08-16 10:13:30 --> Router Class Initialized
+INFO - 2017-08-16 10:13:30 --> Output Class Initialized
+INFO - 2017-08-16 10:13:30 --> Security Class Initialized
+DEBUG - 2017-08-16 10:13:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 10:13:30 --> CSRF cookie sent
+INFO - 2017-08-16 10:13:30 --> Input Class Initialized
+INFO - 2017-08-16 10:13:30 --> Language Class Initialized
+INFO - 2017-08-16 10:13:30 --> Language Class Initialized
+INFO - 2017-08-16 10:13:30 --> Config Class Initialized
+INFO - 2017-08-16 10:13:30 --> Loader Class Initialized
+INFO - 2017-08-16 10:13:30 --> Helper loaded: url_helper
+INFO - 2017-08-16 10:13:30 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 10:13:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 10:13:30 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 10:13:30 --> User Agent Class Initialized
+DEBUG - 2017-08-16 10:13:30 --> Template class Initialized
+INFO - 2017-08-16 10:13:30 --> Controller Class Initialized
+INFO - 2017-08-16 10:13:30 --> Model Class Initialized
+DEBUG - 2017-08-16 10:13:30 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/models/User_model.php
+INFO - 2017-08-16 10:13:30 --> Model Class Initialized
+INFO - 2017-08-16 10:13:30 --> Helper loaded: form_helper
+INFO - 2017-08-16 10:13:30 --> Form Validation Class Initialized
+DEBUG - 2017-08-16 10:13:30 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/views/login.php
+INFO - 2017-08-16 10:13:30 --> Final output sent to browser
+DEBUG - 2017-08-16 10:13:30 --> Total execution time: 0.4502
+INFO - 2017-08-16 10:13:39 --> Config Class Initialized
+INFO - 2017-08-16 10:13:39 --> Hooks Class Initialized
+DEBUG - 2017-08-16 10:13:39 --> UTF-8 Support Enabled
+INFO - 2017-08-16 10:13:39 --> Utf8 Class Initialized
+INFO - 2017-08-16 10:13:39 --> URI Class Initialized
+INFO - 2017-08-16 10:13:39 --> Router Class Initialized
+INFO - 2017-08-16 10:13:39 --> Output Class Initialized
+INFO - 2017-08-16 10:13:39 --> Security Class Initialized
+DEBUG - 2017-08-16 10:13:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 10:13:39 --> CSRF cookie sent
+INFO - 2017-08-16 10:13:39 --> CSRF token verified
+INFO - 2017-08-16 10:13:39 --> Input Class Initialized
+INFO - 2017-08-16 10:13:39 --> Language Class Initialized
+INFO - 2017-08-16 10:13:39 --> Language Class Initialized
+INFO - 2017-08-16 10:13:39 --> Config Class Initialized
+INFO - 2017-08-16 10:13:39 --> Loader Class Initialized
+INFO - 2017-08-16 10:13:39 --> Helper loaded: url_helper
+INFO - 2017-08-16 10:13:39 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 10:13:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 10:13:39 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 10:13:39 --> User Agent Class Initialized
+DEBUG - 2017-08-16 10:13:39 --> Template class Initialized
+INFO - 2017-08-16 10:13:39 --> Controller Class Initialized
+INFO - 2017-08-16 10:13:39 --> Model Class Initialized
+DEBUG - 2017-08-16 10:13:39 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/models/User_model.php
+INFO - 2017-08-16 10:13:39 --> Model Class Initialized
+INFO - 2017-08-16 10:13:39 --> Helper loaded: form_helper
+INFO - 2017-08-16 10:13:39 --> Form Validation Class Initialized
+INFO - 2017-08-16 10:13:39 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2017-08-16 10:13:39 --> Config Class Initialized
+INFO - 2017-08-16 10:13:39 --> Hooks Class Initialized
+DEBUG - 2017-08-16 10:13:39 --> UTF-8 Support Enabled
+INFO - 2017-08-16 10:13:39 --> Utf8 Class Initialized
+INFO - 2017-08-16 10:13:39 --> URI Class Initialized
+INFO - 2017-08-16 10:13:39 --> Router Class Initialized
+INFO - 2017-08-16 10:13:39 --> Output Class Initialized
+INFO - 2017-08-16 10:13:39 --> Security Class Initialized
+DEBUG - 2017-08-16 10:13:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 10:13:39 --> CSRF cookie sent
+INFO - 2017-08-16 10:13:39 --> Input Class Initialized
+INFO - 2017-08-16 10:13:39 --> Language Class Initialized
+INFO - 2017-08-16 10:13:39 --> Language Class Initialized
+INFO - 2017-08-16 10:13:39 --> Config Class Initialized
+INFO - 2017-08-16 10:13:39 --> Loader Class Initialized
+INFO - 2017-08-16 10:13:39 --> Helper loaded: url_helper
+INFO - 2017-08-16 10:13:39 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 10:13:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 10:13:39 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 10:13:39 --> User Agent Class Initialized
+DEBUG - 2017-08-16 10:13:39 --> Template class Initialized
+INFO - 2017-08-16 10:13:39 --> Controller Class Initialized
+INFO - 2017-08-16 10:13:39 --> Model Class Initialized
+DEBUG - 2017-08-16 10:13:39 --> File loaded: D:\wamp64\www\ecr\application\front-modules/user/models/User_model.php
+INFO - 2017-08-16 10:13:39 --> Model Class Initialized
+INFO - 2017-08-16 10:13:39 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 10:13:39 --> File loaded: D:\wamp64\www\ecr\application\front-modules/user/views/profile.php
+DEBUG - 2017-08-16 10:13:39 --> File loaded: D:\wamp64\www\ecr\application\templates/front/index.php
+INFO - 2017-08-16 10:13:39 --> Final output sent to browser
+DEBUG - 2017-08-16 10:13:39 --> Total execution time: 0.2267
+INFO - 2017-08-16 10:13:44 --> Config Class Initialized
+INFO - 2017-08-16 10:13:44 --> Hooks Class Initialized
+DEBUG - 2017-08-16 10:13:44 --> UTF-8 Support Enabled
+INFO - 2017-08-16 10:13:44 --> Utf8 Class Initialized
+INFO - 2017-08-16 10:13:44 --> URI Class Initialized
+INFO - 2017-08-16 10:13:44 --> Router Class Initialized
+INFO - 2017-08-16 10:13:44 --> Output Class Initialized
+INFO - 2017-08-16 10:13:44 --> Security Class Initialized
+DEBUG - 2017-08-16 10:13:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 10:13:44 --> CSRF cookie sent
+INFO - 2017-08-16 10:13:44 --> Input Class Initialized
+INFO - 2017-08-16 10:13:44 --> Language Class Initialized
+INFO - 2017-08-16 10:13:44 --> Language Class Initialized
+INFO - 2017-08-16 10:13:44 --> Config Class Initialized
+INFO - 2017-08-16 10:13:44 --> Loader Class Initialized
+INFO - 2017-08-16 10:13:44 --> Helper loaded: url_helper
+INFO - 2017-08-16 10:13:45 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 10:13:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 10:13:45 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 10:13:45 --> User Agent Class Initialized
+DEBUG - 2017-08-16 10:13:45 --> Template class Initialized
+INFO - 2017-08-16 10:13:45 --> Controller Class Initialized
+INFO - 2017-08-16 10:13:45 --> Model Class Initialized
+DEBUG - 2017-08-16 10:13:45 --> File loaded: D:\wamp64\www\ecr\application\front-modules/user/models/User_model.php
+INFO - 2017-08-16 10:13:45 --> Model Class Initialized
+INFO - 2017-08-16 10:13:45 --> Config Class Initialized
+INFO - 2017-08-16 10:13:45 --> Hooks Class Initialized
+DEBUG - 2017-08-16 10:13:45 --> UTF-8 Support Enabled
+INFO - 2017-08-16 10:13:45 --> Utf8 Class Initialized
+INFO - 2017-08-16 10:13:45 --> URI Class Initialized
+INFO - 2017-08-16 10:13:45 --> Router Class Initialized
+INFO - 2017-08-16 10:13:45 --> Output Class Initialized
+INFO - 2017-08-16 10:13:45 --> Security Class Initialized
+DEBUG - 2017-08-16 10:13:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 10:13:45 --> CSRF cookie sent
+INFO - 2017-08-16 10:13:45 --> Input Class Initialized
+INFO - 2017-08-16 10:13:45 --> Language Class Initialized
+INFO - 2017-08-16 10:13:45 --> Language Class Initialized
+INFO - 2017-08-16 10:13:45 --> Config Class Initialized
+INFO - 2017-08-16 10:13:45 --> Loader Class Initialized
+INFO - 2017-08-16 10:13:45 --> Helper loaded: url_helper
+INFO - 2017-08-16 10:13:45 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 10:13:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 10:13:45 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 10:13:45 --> User Agent Class Initialized
+DEBUG - 2017-08-16 10:13:45 --> Template class Initialized
+INFO - 2017-08-16 10:13:45 --> Controller Class Initialized
+INFO - 2017-08-16 10:13:45 --> Model Class Initialized
+DEBUG - 2017-08-16 10:13:45 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/models/User_model.php
+INFO - 2017-08-16 10:13:45 --> Model Class Initialized
+INFO - 2017-08-16 10:13:45 --> Helper loaded: form_helper
+INFO - 2017-08-16 10:13:45 --> Form Validation Class Initialized
+DEBUG - 2017-08-16 10:13:45 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/views/login.php
+INFO - 2017-08-16 10:13:45 --> Final output sent to browser
+DEBUG - 2017-08-16 10:13:45 --> Total execution time: 0.2148
+INFO - 2017-08-16 10:13:47 --> Config Class Initialized
+INFO - 2017-08-16 10:13:47 --> Hooks Class Initialized
+DEBUG - 2017-08-16 10:13:47 --> UTF-8 Support Enabled
+INFO - 2017-08-16 10:13:47 --> Utf8 Class Initialized
+INFO - 2017-08-16 10:13:47 --> URI Class Initialized
+INFO - 2017-08-16 10:13:47 --> Router Class Initialized
+INFO - 2017-08-16 10:13:47 --> Output Class Initialized
+INFO - 2017-08-16 10:13:47 --> Security Class Initialized
+DEBUG - 2017-08-16 10:13:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 10:13:47 --> CSRF cookie sent
+INFO - 2017-08-16 10:13:47 --> Input Class Initialized
+INFO - 2017-08-16 10:13:47 --> Language Class Initialized
+ERROR - 2017-08-16 10:13:47 --> 404 Page Not Found: ../front-modules/home/controllers/Home/login
+INFO - 2017-08-16 10:13:52 --> Config Class Initialized
+INFO - 2017-08-16 10:13:52 --> Hooks Class Initialized
+DEBUG - 2017-08-16 10:13:52 --> UTF-8 Support Enabled
+INFO - 2017-08-16 10:13:52 --> Utf8 Class Initialized
+INFO - 2017-08-16 10:13:52 --> URI Class Initialized
+INFO - 2017-08-16 10:13:52 --> Router Class Initialized
+INFO - 2017-08-16 10:13:52 --> Output Class Initialized
+INFO - 2017-08-16 10:13:52 --> Security Class Initialized
+DEBUG - 2017-08-16 10:13:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 10:13:52 --> CSRF cookie sent
+INFO - 2017-08-16 10:13:52 --> Input Class Initialized
+INFO - 2017-08-16 10:13:52 --> Language Class Initialized
+INFO - 2017-08-16 10:13:52 --> Language Class Initialized
+INFO - 2017-08-16 10:13:52 --> Config Class Initialized
+INFO - 2017-08-16 10:13:52 --> Loader Class Initialized
+INFO - 2017-08-16 10:13:52 --> Helper loaded: url_helper
+INFO - 2017-08-16 10:13:52 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 10:13:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 10:13:52 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 10:13:52 --> User Agent Class Initialized
+DEBUG - 2017-08-16 10:13:52 --> Template class Initialized
+INFO - 2017-08-16 10:13:52 --> Controller Class Initialized
+INFO - 2017-08-16 10:13:52 --> Model Class Initialized
+DEBUG - 2017-08-16 10:13:52 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/models/User_model.php
+INFO - 2017-08-16 10:13:52 --> Model Class Initialized
+INFO - 2017-08-16 10:13:52 --> Helper loaded: form_helper
+INFO - 2017-08-16 10:13:52 --> Form Validation Class Initialized
+DEBUG - 2017-08-16 10:13:52 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/views/login.php
+INFO - 2017-08-16 10:13:52 --> Final output sent to browser
+DEBUG - 2017-08-16 10:13:52 --> Total execution time: 0.2330
+INFO - 2017-08-16 10:21:29 --> Config Class Initialized
+INFO - 2017-08-16 10:21:29 --> Hooks Class Initialized
+DEBUG - 2017-08-16 10:21:29 --> UTF-8 Support Enabled
+INFO - 2017-08-16 10:21:29 --> Utf8 Class Initialized
+INFO - 2017-08-16 10:21:29 --> URI Class Initialized
+INFO - 2017-08-16 10:21:29 --> Router Class Initialized
+INFO - 2017-08-16 10:21:29 --> Output Class Initialized
+INFO - 2017-08-16 10:21:29 --> Security Class Initialized
+DEBUG - 2017-08-16 10:21:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 10:21:29 --> CSRF cookie sent
+INFO - 2017-08-16 10:21:29 --> Input Class Initialized
+INFO - 2017-08-16 10:21:29 --> Config Class Initialized
+INFO - 2017-08-16 10:21:29 --> Hooks Class Initialized
+INFO - 2017-08-16 10:21:29 --> Language Class Initialized
+ERROR - 2017-08-16 10:21:29 --> 404 Page Not Found: ../front-modules/home/controllers/Home/login
+DEBUG - 2017-08-16 10:21:29 --> UTF-8 Support Enabled
+INFO - 2017-08-16 10:21:29 --> Utf8 Class Initialized
+INFO - 2017-08-16 10:21:29 --> URI Class Initialized
+INFO - 2017-08-16 10:21:29 --> Router Class Initialized
+INFO - 2017-08-16 10:21:29 --> Output Class Initialized
+INFO - 2017-08-16 10:21:29 --> Security Class Initialized
+DEBUG - 2017-08-16 10:21:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 10:21:29 --> CSRF cookie sent
+INFO - 2017-08-16 10:21:29 --> Input Class Initialized
+INFO - 2017-08-16 10:21:29 --> Language Class Initialized
+ERROR - 2017-08-16 10:21:29 --> 404 Page Not Found: ../front-modules/home/controllers/Home/login
+INFO - 2017-08-16 10:21:31 --> Config Class Initialized
+INFO - 2017-08-16 10:21:31 --> Hooks Class Initialized
+DEBUG - 2017-08-16 10:21:31 --> UTF-8 Support Enabled
+INFO - 2017-08-16 10:21:31 --> Utf8 Class Initialized
+INFO - 2017-08-16 10:21:31 --> URI Class Initialized
+INFO - 2017-08-16 10:21:31 --> Router Class Initialized
+INFO - 2017-08-16 10:21:31 --> Output Class Initialized
+INFO - 2017-08-16 10:21:31 --> Security Class Initialized
+DEBUG - 2017-08-16 10:21:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 10:21:31 --> CSRF cookie sent
+INFO - 2017-08-16 10:21:31 --> Input Class Initialized
+INFO - 2017-08-16 10:21:31 --> Language Class Initialized
+INFO - 2017-08-16 10:21:31 --> Language Class Initialized
+INFO - 2017-08-16 10:21:31 --> Config Class Initialized
+INFO - 2017-08-16 10:21:31 --> Loader Class Initialized
+INFO - 2017-08-16 10:21:31 --> Helper loaded: url_helper
+INFO - 2017-08-16 10:21:31 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 10:21:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 10:21:31 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 10:21:31 --> User Agent Class Initialized
+DEBUG - 2017-08-16 10:21:31 --> Template class Initialized
+INFO - 2017-08-16 10:21:31 --> Controller Class Initialized
+INFO - 2017-08-16 10:21:31 --> Model Class Initialized
+DEBUG - 2017-08-16 10:21:31 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/models/User_model.php
+INFO - 2017-08-16 10:21:31 --> Model Class Initialized
+INFO - 2017-08-16 10:21:31 --> Helper loaded: form_helper
+INFO - 2017-08-16 10:21:31 --> Form Validation Class Initialized
+DEBUG - 2017-08-16 10:21:31 --> File loaded: D:\wamp64\www\ecr\application\front-modules/login/views/login.php
+INFO - 2017-08-16 10:21:31 --> Final output sent to browser
+DEBUG - 2017-08-16 10:21:31 --> Total execution time: 0.2496
+INFO - 2017-08-16 14:03:43 --> Config Class Initialized
+INFO - 2017-08-16 14:03:43 --> Hooks Class Initialized
+DEBUG - 2017-08-16 14:03:43 --> UTF-8 Support Enabled
+INFO - 2017-08-16 14:03:43 --> Utf8 Class Initialized
+INFO - 2017-08-16 14:03:43 --> URI Class Initialized
+DEBUG - 2017-08-16 14:03:43 --> No URI present. Default controller set.
+INFO - 2017-08-16 14:03:43 --> Router Class Initialized
+INFO - 2017-08-16 14:03:43 --> Output Class Initialized
+INFO - 2017-08-16 14:03:43 --> Security Class Initialized
+DEBUG - 2017-08-16 14:03:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-16 14:03:44 --> CSRF cookie sent
+INFO - 2017-08-16 14:03:44 --> Input Class Initialized
+INFO - 2017-08-16 14:03:44 --> Language Class Initialized
+INFO - 2017-08-16 14:03:44 --> Language Class Initialized
+INFO - 2017-08-16 14:03:44 --> Config Class Initialized
+INFO - 2017-08-16 14:03:44 --> Loader Class Initialized
+INFO - 2017-08-16 14:03:44 --> Helper loaded: url_helper
+INFO - 2017-08-16 14:03:44 --> Database Driver Class Initialized
+DEBUG - 2017-08-16 14:03:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-08-16 14:03:44 --> Session: Class initialized using 'files' driver.
+INFO - 2017-08-16 14:03:44 --> User Agent Class Initialized
+DEBUG - 2017-08-16 14:03:44 --> Template class Initialized
+INFO - 2017-08-16 14:03:44 --> Controller Class Initialized
+INFO - 2017-08-16 14:03:44 --> Helper loaded: inflector_helper
+DEBUG - 2017-08-16 14:03:44 --> File loaded: D:\wamp64\www\ecr\application\front-modules/home/views/home.php
+DEBUG - 2017-08-16 14:03:44 --> File loaded: D:\wamp64\www\ecr\application\templates/front/index.php
+INFO - 2017-08-16 14:03:44 --> Final output sent to browser
+DEBUG - 2017-08-16 14:03:44 --> Total execution time: 1.6459
